@@ -2,8 +2,8 @@
 
 ## Lecture Materials
 
-- [Monday Lecture Handout (Slides)]()
-- [Monday Lecture Handout (PDF)]()
+- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11bHOml_DsYjuls-pEVNO_CXezTZDLz6D/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
+- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1Www0Q1A9zz81rR_Fjj34uZEGPDqqagEH/view?usp=sharing)
 
 ## Related Links
 
@@ -36,7 +36,7 @@ from our computer to Github)
 
 In this lab you'll make a professional website for yourself where you can post
 your lab reports for the course. Please contact the instructor
-(`jpolitz@ucsd.edu`) if for
+(`esolares@ucsd.edu`) if for
 personal privacy or security reasons you do not want to publish a public
 website, even under a pseudonym.
 
@@ -304,7 +304,7 @@ new one for this course).
 You can choose any username you like for the account; it doesn't have to be
 related to your legal or preferred name, though it can be and often is. Some
 people choose names related to their name, like me (my Github account is
-[jpolitz](https://github.com/jpolitz)). Others choose more abstract or whimsical
+[esolares](https://github.com/esolares)). Others choose more abstract or whimsical
 names for their accounts, just like usernames on any other service. Feel free to
 do whatever feels right to you, and in any event, you can always [change it
 later](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/changing-your-github-username).
