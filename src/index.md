@@ -17,13 +17,13 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [Warren 2001](https://map.concept3d.com/?id=1005#!m/246292), 9-9:50am Mon/Wed
-- Labs: Wednesdays and Thursdays (check your schedule)
+- Lecture: [Warren Lecture Hall 2001](https://map.concept3d.com/?id=1005#!m/246292), 9-9:50am Mon/Wed
+- Labs: Tuesday (check your schedule)
 - “Skill Demonstration” Exams: Flexible scheduling in weeks 3, 5, 7, and 9
 - Final Exam (used for making up test credit): Flexible scheduling throughout the quarter. Maximum of 1 Make up.
 
-- Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu/watch/sp23/cse131cse231_a00)
-- General Class Q&A Forum: [Discord]()
+- Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
+- General Class Q&A Forum: [Discord](https://discord.gg/FUPYt5Xu)
 - Code Q&A Forum: [Piazza]()
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
 - Textbook/readings: There's no official textbook, but we will link to
@@ -146,13 +146,11 @@ you can know roughly where we are headed.
 
 - [Lab 1 Activities](./week1/index.md)
 - Deadlines:
-  - Quiz 1 Due **Wednesday, January 10, 9am**
-  - Lab Report 1 Due **Tuesday, January 16, 10pm**
+  - Quiz 1 Due **Wednesday, April 3, 9am**
+  - Lab Report 1 Due **Tuesday, April 9, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ujXevnvG3fyxLY710RnWjDeMYYLt6fa_/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1puBjiB0mx-k0YGsITeQH9IQb56lCfVsJ/view?usp=sharing)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/145pR7irxqa744Jyzm49w7i-GbfQ3MHlL/edit?usp=sharing&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1Tr3KFyvsCaAoMj3rcSzmDPh8DQLJdisy/view?usp=share_link)
+  - [Monday Lecture Handout (Slides)]()
+  - [Monday Lecture Handout (PDF)]()
 
 ## Syllabus
 
@@ -360,7 +358,7 @@ policy](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses)).
 **I missed lecture/have to travel for a lecture, what should I do?**
 
 Find the associated handout for the week above, watch the
-[podcast](https://podcast.ucsd.edu/watch/wi24/cse15l_a00), and hand in a
+[podcast](https://podcast.ucsd.edu), and hand in a
 scan/digital PDF of the handout to Gradescope before the next class.
 
 **I missed the late deadline for a lecture handout submission, what should I do?**

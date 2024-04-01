@@ -1,6 +1,7 @@
 # Week 8 - Debuggers and Controlling Processes
 
 ## Coming soon!
+
 <!-- ## Lecture Materials
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1XTtv6DswnhH3i3tBmEW31eTW-FCOte7Q/view?usp=sharing)
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/14EV0i0urY3vycA2ZZs11XvdYjRQ6lBB7/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
@@ -143,7 +144,7 @@ moment the program suspended
 
 Take a screenshot or copy/paste of your `jdb` session and indicate in your notes
 each of the three items above and how your `jdb` session informs you of that.
--->
+
 ### Adding Your Own Emojis!
 
 Now, consider the following chat histories. Edwin and Onat are other 15L professors and these are conversations between all the professors:
@@ -256,4 +257,4 @@ Your report should include:
 
 Add your lab report as `lab-report-4-week-8` within the same Github pages lab
 reports repository you've been using all quarter, and include all of the
-elements above. --> -->
+elements above. --> 
