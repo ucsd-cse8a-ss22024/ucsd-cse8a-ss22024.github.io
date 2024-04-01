@@ -146,7 +146,7 @@ you can know roughly where we are headed.
 
 ### Week 1 - Markdown, URLs, and Paths
 
-- [Lab 1 Activities]() <!-- ./week1/index.md) -->
+- [Lab 1 Activities](./week1/index.md)
 - Deadlines:
   - Quiz 1 Due **Wednesday, April 3, 9am**
   - Lab Report 1 Due **Tuesday, April 9, 10pm**
