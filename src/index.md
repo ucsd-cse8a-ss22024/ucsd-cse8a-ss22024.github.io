@@ -31,6 +31,8 @@ This web page serves as the main source of announcements and resources for the c
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
   - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
 
+## Office Hours Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=c_20fa0da1f4a3e319f0e14594281a18ffc302f315e85c6aeb018cb5500f1a4ef9%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Schedule
 
@@ -248,11 +250,6 @@ In finals week, you'll have the opportunity to improve scores for some number of
 There will be skill demonstrations in weeks 3, 5, 7, and 9 of the quarter. More details
 about how you'll complete them will be shared in lab (you'll practice the format and we'll talk about
 scheduling them).
-
-## Staff Resources
-
-### Office Hours Calendar
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y19hNTRjZWFkOTE5MTE5NGExYzU4ZjZiYzU0NDQ0NzVkZTNiNzdkZjczMmY1MzYwNmFjNDZhZjI3NzA3MjIzNmMwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F4511E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Grading
 
