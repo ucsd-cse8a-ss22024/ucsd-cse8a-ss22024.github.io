@@ -1,6 +1,7 @@
 # Week 10 – Wrapping Up
 
-## Lecture Materials
+## Coming soon!
+<!-- ## Lecture Materials
 
 Come to class for review and discussion!
 
@@ -159,4 +160,4 @@ starters are below, but don't be limited to these:
 
 Once you've spent a few minutes thinking and writing something down, start
 asking! Feel free to mix groups, listen in on other conversations, move around
-the room, and ask these questions to the lead TA, too!
+the room, and ask these questions to the lead TA, too! -->

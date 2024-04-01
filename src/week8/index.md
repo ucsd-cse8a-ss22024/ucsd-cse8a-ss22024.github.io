@@ -1,6 +1,7 @@
 # Week 8 - Debuggers and Controlling Processes
 
-## Lecture Materials
+## Coming soon!
+<!-- ## Lecture Materials
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1XTtv6DswnhH3i3tBmEW31eTW-FCOte7Q/view?usp=sharing)
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/14EV0i0urY3vycA2ZZs11XvdYjRQ6lBB7/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday EdStem Workspace](https://edstem.org/us/courses/51148/workspaces/pJq0Arr9rHhhaIXhq4RkmOzLhfBTnpMY)
@@ -13,7 +14,6 @@
 - Videos on `jdb`:
     - [Debuggers and `jdb`](https://www.youtube.com/watch?v=0Olg_U0Su_I)
     - [`jdb` and Infinite Loops](https://youtu.be/AFkUAwvPTGA)
-- Week 7 Skill Demo Solution <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0EY46CfEIQs?si=6DPz27tCRfzEi8zt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Lab Tasks
 
@@ -256,4 +256,4 @@ Your report should include:
 
 Add your lab report as `lab-report-4-week-8` within the same Github pages lab
 reports repository you've been using all quarter, and include all of the
-elements above. -->
+elements above. --> -->

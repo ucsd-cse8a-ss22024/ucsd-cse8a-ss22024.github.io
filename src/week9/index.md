@@ -1,6 +1,7 @@
 # Week 9 – Code Review/It Works on My Machine
 
-## Lecture Materials
+## Coming soon!
+<!-- ## Lecture Materials
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/11tcaVqKZ5rObHG_ELemC4vv_nLAkuTv-/view?usp=sharing)
 - [Monday Lecture Video]
   <iframe src="https://drive.google.com/file/d/1rlE3De2MB3BSmZNxx9tM6uxkytGp762H/preview" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
@@ -231,4 +232,4 @@ writeup, we just want to hear about cool things you learned!
 ### A Note on Grading at the End of the Quarter
 
 We will try, but there **might not** be a resubmission window for lab report 5,
-so do your best to be thorough, creative, and clear in your submission.
+so do your best to be thorough, creative, and clear in your submission. -->

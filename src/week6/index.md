@@ -1,6 +1,7 @@
 # Week 6 - Scripting, CI, and Autograding
 
-## Lecture Materials
+## Coming soon!
+<!-- ## Lecture Materials
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12uJMpqCtK4eky0nco598ltxUuwP_wqQy/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1UqCrST7Cd_-e8aJkHdmmBUyrYNbrPbHw/view?usp=sharing)
@@ -183,4 +184,4 @@ more like Gradescope's autograder? (Think about running for different students,
 storing grades, presenting results, etc)
 
 Congratulations! You've done one kind of the work that your TAs do when setting
-up classes 🙂
+up classes 🙂 -->

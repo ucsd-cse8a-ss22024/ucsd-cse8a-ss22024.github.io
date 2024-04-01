@@ -38,7 +38,7 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
-### Week 10 - Wrapping Up
+<!-- ### Week 10 - Wrapping Up
 - [Lab 10 Activities](./week10/index.md)
 - Deadlines:
   - Quiz 10 Due **Wednesday, March 13, 9am**
@@ -140,7 +140,7 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13ESz6G6UVoTLbnJ6oopGWwxY--_oyNCS/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1QXV2eEYmHIomcpHdX2zoKZvXnPJ_5Vkd/view?usp=sharing)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13M_vMvQkkb0rYri1eQnYOOAAjlZaQ4aa/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1dQAk0ZE7-CkXFkmMoBsW0e9_kScWKWwH/view?usp=sharing)
+  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1dQAk0ZE7-CkXFkmMoBsW0e9_kScWKWwH/view?usp=sharing) -->
 
 ### Week 1 - Markdown, URLs, and Paths
 

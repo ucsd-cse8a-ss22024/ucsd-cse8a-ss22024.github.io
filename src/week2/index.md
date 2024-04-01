@@ -1,6 +1,7 @@
 # Week 2 – URLs and Servers
 
-## Lecture Materials
+## Coming soon!
+<!-- ## Lecture Materials
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13ESz6G6UVoTLbnJ6oopGWwxY--_oyNCS/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1QXV2eEYmHIomcpHdX2zoKZvXnPJ_5Vkd/view?usp=sharing)
@@ -380,4 +381,4 @@ servers! Can you have one person add some words that another person searches
 for? As accurately as possible, describe where each list of strings is stored.
 
 
-</div>
+</div> -->

@@ -1,6 +1,7 @@
 # Week 4 – Testing and File Manipulation
 
-## Lecture Materials
+## Coming soon!
+<!-- ## Lecture Materials
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ0cpsywi0aLxS5DiKstIT2Eu8MljNHC/view?usp=sharing)
@@ -291,4 +292,4 @@ Once both groups have found the issues, try again! Try to stump one another with
 plausible, but tough-to-find, bugs.
 
 Share your favorites with your team and tutor. We'll share a few of the best
-ones in class.
+ones in class. -->
