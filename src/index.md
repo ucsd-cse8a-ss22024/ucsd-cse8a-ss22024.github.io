@@ -146,13 +146,13 @@ you can know roughly where we are headed.
 
 ### Week 1 - Markdown, URLs, and Paths
 
-- [Lab 1 Activities](./week1/index.md)
+- [Lab 1 Activities]() <!-- ./week1/index.md) -->
 - Deadlines:
   - Quiz 1 Due **Wednesday, April 3, 9am**
   - Lab Report 1 Due **Tuesday, April 9, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)]()
-  - [Monday Lecture Handout (PDF)]()
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11bHOml_DsYjuls-pEVNO_CXezTZDLz6D/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1Www0Q1A9zz81rR_Fjj34uZEGPDqqagEH/view?usp=sharing)
 
 ## Syllabus
 
