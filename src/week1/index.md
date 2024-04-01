@@ -2,12 +2,8 @@
 
 ## Lecture Materials
 
-- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ujXevnvG3fyxLY710RnWjDeMYYLt6fa_/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1puBjiB0mx-k0YGsITeQH9IQb56lCfVsJ/view?usp=sharing)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/145pR7irxqa744Jyzm49w7i-GbfQ3MHlL/edit?usp=sharing&ouid=107408851252378993524&rtpof=true&sd=true)
-- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1Tr3KFyvsCaAoMj3rcSzmDPh8DQLJdisy/view?usp=share_link)
-- Monday Notes <iframe src="https://drive.google.com/file/d/14y3BLI4nl43pHheZHbAVSn6VJbHs4V0T/preview" width="100%" height="600px"></iframe>
-- Wednesday Notes <iframe src="https://drive.google.com/file/d/14wJ4DcawCTQr41s65mqUu4Dtq0LQ52QB/preview" width="100%" height="600px"></iframe>
+- [Monday Lecture Handout (Slides)]()
+- [Monday Lecture Handout (PDF)]()
 
 ## Related Links
 
@@ -69,7 +65,59 @@ like he/her/they, etc)
     - A useful campus shortcut or trick you know
 - Your answer to the following question. Discuss why you chose that answer. ![Image](../../images/rulers.png)
 
-### Part 2 – Your First Workspace
+### Part 2 – Downloading Java JDK
+
+If you don't have Java already installed, go ahead and download
+the latest Java JDK version from this [Oracle](https://www.oracle.com/java/technologies/downloads/) link.
+Download the version that has "Installer" in the file name for your specific device (Linux, macOS, Windows).
+
+Note: If you're on a newer Mac with Apple Silicon (M1, M2, M3, etc.) download the `ARM64` Installer; if you're on Intel then download the `x64` Installer. 
+
+### Part 3 – Visual Studio Code
+
+(If you can't or don't want to use your own computer for this for any reason,
+you can do the installation of VScode on one of the computers in the lab! You
+can do all your work on the lab computers all quarter, no personal laptop setup
+required.)
+
+Go to the Visual Studio Code website
+[https://code.visualstudio.com/](https://code.visualstudio.com/), and follow the
+instructions to download and install it on your computer. There are versions for
+all the major operating systems, like macOS (for Macs) and Windows (for PCs).
+
+When it is installed, you should be able to open a window that looks like this
+(it might have different colors, or a different menu bar, depending on your
+system and settings):
+
+![/images/vscode.png](/images/vscode.png)
+
+**Write down in notes**: Everyone should share a screenshot of VScode open –
+help folks figure it out if it won't install. If someone gets stuck, take a
+screenshot of the error message or point at which they are stuck so we can help
+them figure it out later, and they can decide to keep trying (potentially with
+the tutor helping) or move on.
+
+Then if you're on Windows: install `git` for Windows, which comes with some
+useful tools we need:
+
+[Git for Windows](https://gitforwindows.org/)
+
+Once installed, use the steps in this post to set your default terminal to use
+the newly-installed `git bash` in Visual Studio Code:
+
+[Using Bash on Windows in VScode](https://stackoverflow.com/a/50527994)
+
+(That's all the special instructions for Windows users). Then, to run commands,
+open a terminal in VScode. (Ctrl or Command + \`, or use the Terminal → New
+Terminal menu option). Try running some of the commands we learned in earlier
+labs and lectures on this computer.
+
+### Part 4 - Your First Codespace (In Progress)
+
+We'll be working with Github Codespaces for this lab! More documentation is available [here](https://docs.github.com/en/codespaces).
+**Important Note:** Make sure for codespaces when you apply for your Github Student Account in order to get access to the codespaces. 
+
+### Part 4 – Your First Workspace 
 
 In this part of the lab you'll set up a _Workspace_, which has a file system and
 a terminal we can use to write code and run commands. We'll do this on Edstem,
@@ -202,7 +250,7 @@ You can also open more terminals in VSCode (there is a little + button at the
 top of the terminal window where you can create another).
 -->
 
-### Part 3 – git, Github, and Github Pages
+### Part 5 – git, Github, and Github Pages
 
 Having a professional portfolio website for yourself can be useful in many, many
 ways. It's a useful URL to put at the top of your resume/CV where potential
@@ -234,7 +282,7 @@ This lab is a basic introduction to all of these. We will learn to use them in
 more detail as the quarter goes on; learning all that git, Github, or Github
 Pages has to offer could take months of practice!
 
-### Part 4 – Creating a Website with Github Pages
+### Part 6 – Creating a Website with Github Pages
 
 This section will show you how to create a site with Github Pages that you'll
 use for your lab reports.
