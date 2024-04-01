@@ -1,5 +1,7 @@
 # Week 1 – Markdown, URLs and Paths
 
+## Coming soon!
+<!--REMOVE ME BEFORE PUBBING
 ## Lecture Materials
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11bHOml_DsYjuls-pEVNO_CXezTZDLz6D/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
@@ -250,6 +252,7 @@ You can also open more terminals in VSCode (there is a little + button at the
 top of the terminal window where you can create another).
 -->
 
+<!--REMOVE ME BEFORE PUBBING
 ### Part 5 – git, Github, and Github Pages
 
 Having a professional portfolio website for yourself can be useful in many, many
@@ -368,7 +371,7 @@ page.  Then you should see the text you wrote show up on a page like this:
 showing the text they wrote in their `index.md`.
 
 **Write down in notes** – Conduct the following experiment: -->
-
+<!--REMOVE ME BEFORE PUBBING
 Note that in addition to seeing your file at, e.g,
 [https://jpolitz.github.io/cse-15l-lab-report/](https://jpolitz.github.io/cse-15l-lab-report/),
 you can also see it with `index.html` added to the end of the URL:
@@ -379,7 +382,7 @@ you can also see it with `index.html` added to the end of the URL:
 end it in the extension `.md`. Can you use this idea to see that file?
 
 <!-- Write down what you think is happening when you commit a new file. -->
-
+<!--REMOVE ME BEFORE PUBBING
 #### Editing Markdown
 
 The `.md` extension stands for "Markdown," which is a particular text format
@@ -396,7 +399,7 @@ options show up when you use them? Are any surprising?
 <!-- **Write down in notes** – Try all of the formatting in the “Basic Syntax” part
 of the markdown cheat sheet above; everyone should screenshot their page that
 uses all of these. -->
-
+<!--REMOVE ME BEFORE PUBBING
 You should now have:
 
 - A repository with at least two files (`index.md` and another one you made up)
@@ -479,3 +482,4 @@ Sure! If they are from your account, that's fine. Don't share another person's s
 instead describe where you got stuck and include a screenshot of what doesn't
 work.
 
+REMOVE ME BEFORE PUBBING-->
