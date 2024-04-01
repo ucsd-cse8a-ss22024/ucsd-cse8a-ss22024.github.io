@@ -17,8 +17,8 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [Warren Lecture Hall 2001](https://map.concept3d.com/?id=1005#!m/246292), 9-9:50am Mon/Wed
-- Labs: Tuesday (check your schedule)
+- Lecture: [Warren Lecture Hall 2207](https://map.concept3d.com/?id=1005#!m/246292), Mon/Wed (check your schedule)
+- Labs: [Computer Science Engineering Basement B260](https://map.concept3d.com/?id=1005#!m/164780) Tuesday (check your schedule)
 - “Skill Demonstration” Exams: Flexible scheduling in weeks 3, 5, 7, and 9
 - Final Exam (used for making up test credit): Flexible scheduling throughout the quarter. Maximum of 1 Make up.
 
