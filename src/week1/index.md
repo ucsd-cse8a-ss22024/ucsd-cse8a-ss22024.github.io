@@ -115,7 +115,7 @@ labs and lectures on this computer.
 ### Part 4 - Your First Codespace (In Progress)
 
 We'll be working with Github Codespaces for this lab! More documentation is available [here](https://docs.github.com/en/codespaces).It is an online Integrated Development Environment that allows us to work with our code directly online! 
-**Important Note:** Make sure for codespaces when you apply for your Github Student Account in order to get access to the codespaces. 
+**Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. 
 
 ### Part 4 – Your First Workspace 
 
