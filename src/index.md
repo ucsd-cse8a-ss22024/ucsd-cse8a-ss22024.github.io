@@ -364,7 +364,7 @@ scan/digital PDF of the handout to Gradescope before the next class.
 
 **I missed the late deadline for a lecture handout submission, what should I do?**
 
-You cannot submit a lecture handout after the beginning of the next lecture;
+You cannot submit a lecture handout after the posted deadline on Gradescope;
 move on and focus on getting to the next ones!
 
 **I missed lab, what should I do?**
