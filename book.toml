@@ -3,7 +3,7 @@ authors = ["Joe Politz"]
 language = "en"
 multilingual = false
 src = "src"
-title = "UCSD CSE15L Winter 2024"
+title = "UCSD CSE15L Spring 2024"
 
 [output.html.playground]
 runnable = false

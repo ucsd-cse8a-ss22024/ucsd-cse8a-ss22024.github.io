@@ -1,6 +1,6 @@
 ![doodle](./doodle.jpg)
 
-# UCSD CSE15L W24 Syllabus and Logistics
+# UCSD CSE15L S24 Syllabus and Logistics
 
 - [Edwin Solares](https://edwinsolares.com) (Instructor)
 
@@ -24,7 +24,7 @@ This web page serves as the main source of announcements and resources for the c
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: [Discord](https://discord.gg/FUPYt5Xu)
-- Code Q&A Forum: [Piazza]()
+- Code Q&A Forum: [Piazza](https://piazza.com/ucsd/spring2024/cse15l_sp24/info)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
 - Textbook/readings: There's no official textbook, but we will link to
   different online resources for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
