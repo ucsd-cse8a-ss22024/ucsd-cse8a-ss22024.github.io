@@ -114,29 +114,20 @@ labs and lectures on this computer.
 
 ### Part 4 - Your First Codespace (In Progress)
 
-We'll be working with Github Codespaces for this lab! More documentation is available [here](https://docs.github.com/en/codespaces).
+We'll be working with Github Codespaces for this lab! More documentation is available [here](https://docs.github.com/en/codespaces).It is an online Integrated Development Environment that allows us to work with our code directly online! 
 **Important Note:** Make sure for codespaces when you apply for your Github Student Account in order to get access to the codespaces. 
 
 ### Part 4 – Your First Workspace 
 
 In this part of the lab you'll set up a _Workspace_, which has a file system and
-a terminal we can use to write code and run commands. We'll do this on Edstem,
+a terminal we can use to write code and run commands. We'll do this on Github Codespace,
 but many systems you'll use in the future will have a similar notion of a
 workspace.
 
-1. Log into Edstem [https://edstem.org](https://edstem.org), and go to the
-“Workspaces” area, and make a new Workspace (see image below). You can pick the
-name, but something like “Lab1” is a good idea. ![Image](../../images/edstem-workspace.png)
-2. Then, let's access the code from class. Open a terminal,
-and run the following command:
+1. Go to this repository on GitHub, this is where we store and update our code during this lab, and click
+“<> Code”, click "Codespaces", click "Create codespace on main"
 
-    ```
-    git clone https://github.com/ucsd-cse15l-f23/lecture1
-    ```
-
-    To run the command, you can copy it directly from here, paste it into your
-    terminal, and press Enter.
-3. **Write down in notes/discuss**: What happened? Write down everything you
+2. **Write down in notes/discuss**: What happened? Write down everything you
 noticed happen when you ran that command, and discuss what you saw as a group.
 
 Next, let's make sure we can run the `javac` and `java` commands we saw in
@@ -147,20 +138,20 @@ to _change directory_ into that folder and then run commands there:
 1. Run `pwd`, this should show a result like `/home`; you should see this:
 
     ```
-    [user@sahara ~]$ pwd
+    @YOUR_USERNAME ➜ /workspaces/lecture1 (main) $ pwd
     /home
     ```
 1. Then run `cd lecture1`. That command produces no output when it works! Try
 using `pwd` again to see what changed. You should see this:
 
     ```
-    [user@sahara ~]$ cd lecture1
-    [user@sahara ~/lecture1]$ pwd
+    @YOUR_USERNAME ➜ /workspaces/lecture1 (main) $ cd lecture1
+    @YOUR_USERNAME ➜ /workspaces/lecture1 (main) $ pwd
     /home/lecture1
     ```
 
     We see that we changed directories in two ways. First, the _prompt_ changed
-    – it now says `[user@sahara ~/lecture1]$` which is a reminder about which
+    – it now says `@YOUR_USERNAME ➜ /workspaces/lecture1 (main) $` which is a reminder about which
     directory the terminal is in. Also, the output of `pwd` shows
     `/home/lecture1`, which is the new working directory.
 
@@ -170,7 +161,7 @@ using `pwd` again to see what changed. You should see this:
 2. Now run `ls`; you should see something like this:
 
     ```
-    [user@sahara ~/lecture1]$ ls
+    @YOUR_USERNAME ➜ /workspaces/lecture1 (main) $ ls
     Hello.java  messages  README
     ```
 
@@ -202,7 +193,6 @@ Translate or other similar tools!
 
 **Write down in notes**: Take a screenshot of running `java` on your newly-added
 language file and include it in your notes.
-
 
 <!--
 Ideas: add a new language to messages/, compile + run the Hello program, 
