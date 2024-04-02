@@ -112,39 +112,45 @@ open a terminal in VScode. (Ctrl or Command + \`, or use the Terminal → New
 Terminal menu option). Try running some of the commands we learned in earlier
 labs and lectures on this computer.
 
-### Part 4 – Your First Workspace 
+### Part 4 – Run Programs With Command Line
 
-We'll be working with Github Codespaces for this lab! More documentation is available [here](https://docs.github.com/en/codespaces).It is an online Integrated Development Environment that allows us to work with our code directly online! 
+1. Open a bash terminal in VSCode by clicking "Terminal" -> "New Terminal" (use the drop-down menu to switch to a bash shell if you are not already in one).
+2. Then, let's access the code from class. Open a terminal,
+and run the following command:
+
+    ```
+    git clone https://github.com/ucsd-cse15l-s24/lecture1
+    ```
+
+    To run the command, you can copy it directly from here, paste it into your
+    terminal, and press Enter.
+
+3. **Write down in notes/discuss**: What happened? Write down everything you
+noticed happen when you ran that command, and discuss what you saw as a group.
+
+### Alternative way of working with a GitHub repository 
+There is an alternative way of working with our repository, and we highly recommend you try working with GitHub Codespaces (which comes with the GitHub Student Developer Pack)! More documentation is available [here](https://docs.github.com/en/codespaces). It is an online Integrated Development Environment that allows us to work with our code directly online! 
 **Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. 
 
-In this part of the lab you'll set up a _Workspace_, which has a file system and
-a terminal we can use to write code and run commands. We'll do this on Github Codespace,
-but many systems you'll use in the future will have a similar notion of a
-workspace.
-
-1. Go to this repository on GitHub, this is where we store and update our code during this lab, and click
-“<> Code”, click "Codespaces", click "Create codespace on main"
-
-2. **Write down in notes/discuss**: What happened? Write down everything you
-noticed happen when you ran that command, and discuss what you saw as a group.
+(Only if you set up GitHub Codespaces -- highly recommended) 1. Go to this [repository](https://github.com/ucsd-cse15l-s24/lecture1) on GitHub, this is where we store and update our code during this lab, and click “<> Code”, click "Codespaces", click "Create codespace on main"
 
 Next, let's make sure we can run the `javac` and `java` commands we saw in
 class. This will involve running them _from the correct working directory_.
 The `git clone` command made a folder called `lecture1`; we'll use the terminal
 to _change directory_ into that folder and then run commands there:
 
-1. Run `pwd`, this should show a result like `/home`; you should see this:
+4. Run `pwd`, this should show a result like `/home`; you should see this:
 
     ```
-    @YOUR_USERNAME ➜ /workspaces/lecture1 (main) $ pwd
+    username $ pwd
     /home
     ```
-1. Then run `cd lecture1`. That command produces no output when it works! Try
-using `pwd` again to see what changed. You should see this:
+5. Then run `cd lecture1`. That command produces no output when it works! Try
+using `pwd` again to see what changed. You should see something like this:
 
     ```
-    @YOUR_USERNAME ➜ /workspaces/lecture1 (main) $ cd lecture1
-    @YOUR_USERNAME ➜ /workspaces/lecture1 (main) $ pwd
+    username $ cd lecture1
+    username $ pwd
     /home/lecture1
     ```
 
@@ -156,32 +162,32 @@ using `pwd` again to see what changed. You should see this:
     `pwd` is a useful tool for checking “where your terminal is”. There are
     several commands that are good for this kind of status checking, `pwd` is
     the first we'll learn.
-2. Now run `ls`; you should see something like this:
+6. Now run `ls`; you should see something like this:
 
     ```
-    @YOUR_USERNAME ➜ /workspaces/lecture1 (main) $ ls
+    username $ ls
     Hello.java  messages  README
     ```
 
     `ls` shows the names of the files and folders inside the current working
     directory. It's another useful status-checking command.
-3. Finally, let's get to running the `java` commands. First, run `javac`:
+7. Finally, let's get to running the `java` commands. First, run `javac`:
 
     ```
-    javac Hello.java
+    username $ javac Hello.java
     ```
-4. **Write down in notes/discuss**: What happened? Write down everything you
+8. **Write down in notes/discuss**: What happened? Write down everything you
 noticed happen when you ran that command, and discuss what you saw as a group.
 (Hint: did any new files related to Hello.java get created? Can you see them
 with `ls` or in the file browser in the workspace?)
-5. Next, run this command (feel free to pick any of the three languages!)
+9. Next, run this command (feel free to pick any of the three languages!)
 
     ```
-    java Hello messages/es-mx.txt
+    username $ java Hello messages/es-mx.txt
     ```
-6. **Write down in notes/discuss**: What happened? What output do you see? How
+10. **Write down in notes/discuss**: What happened? What output do you see? How
 does the output relate to the code in the `Hello.java` file?
-7. Add a new language file to `messages` (you can pick a language and use the
+11. Add a new language file to `messages` (you can pick a language and use the
 official code by looking at
 [https://www.andiamo.co.uk/resources/iso-language-codes/](https://www.andiamo.co.uk/resources/iso-language-codes/)).
 It should be called `<language-code>.txt` in the `messages` directory, and have
