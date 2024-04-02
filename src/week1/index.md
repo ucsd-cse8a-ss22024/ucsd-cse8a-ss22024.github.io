@@ -13,7 +13,8 @@
 - [Github Desktop](https://desktop.github.com/)
 - [Markdown cheat sheet](https://commonmark.org/help/)
 - [What is Markdown?](https://www.markdownguide.org/getting-started/)
-- [Git](https://git-scm.com/) 
+- [Git](https://git-scm.com/)
+- [Lab Doc](https://docs.google.com/spreadsheets/d/1otg_99XZKDlf7_rpDagsQmmb3jqUd0qvWUjhWcX-sVY/edit?usp=sharing)
 
 ## Key Definitions
 
