@@ -129,7 +129,7 @@ and run the following command:
 noticed happen when you ran that command, and discuss what you saw as a group.
 
 ### *Alternative way of working with a GitHub repository* 
-There is an alternative way of working with our repository, and we highly recommend you try working with GitHub Codespaces (which comes with the GitHub Student Developer Pack)! More documentation is available [here](https://docs.github.com/en/codespaces). It is an online Integrated Development Environment that allows us to work with our code directly online! 
+There is an alternative way of working with our repository, and we *highly recommend* you try working with GitHub Codespaces (which comes with the GitHub Student Developer Pack)! More documentation is available [here](https://docs.github.com/en/codespaces). It is an online Integrated Development Environment that allows us to work with our code directly online! 
 
 **Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. 
 
