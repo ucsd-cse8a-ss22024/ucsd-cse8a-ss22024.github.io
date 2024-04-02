@@ -115,7 +115,7 @@ labs and lectures on this computer.
 ### Part 4 – Run Programs With Command Line
 
 1. Open a bash terminal in VSCode by clicking "Terminal" -> "New Terminal" (use the drop-down menu to switch to a bash shell if you are not already in one).
-2. Then, let's access the code from class. Open a terminal,
+2. Then, let's access the code from class. Open a terminal in the home directory (i.e., `~`),
 and run the following command:
 
     ```
@@ -143,20 +143,20 @@ to _change directory_ into that folder and then run commands there:
 4. Run `pwd`, this should show a result like `/home`; you should see this:
 
     ```
-    username $ pwd
+    ~ username $ pwd
     /home
     ```
 5. Then run `cd lecture1`. That command produces no output when it works! Try
 using `pwd` again to see what changed. You should see something like this:
 
     ```
-    username $ cd lecture1
-    username $ pwd
+    ~ username $ cd lecture1
+    lecture1 username $ pwd
     /home/lecture1
     ```
 
     We see that we changed directories in two ways. First, the _prompt_ changed
-    – it now says `@YOUR_USERNAME ➜ /workspaces/lecture1 (main) $` which is a reminder about which
+    – it now says `lecture1 username $` which is a reminder about which
     directory the terminal is in. Also, the output of `pwd` shows
     `/home/lecture1`, which is the new working directory.
 
@@ -166,7 +166,7 @@ using `pwd` again to see what changed. You should see something like this:
 6. Now run `ls`; you should see something like this:
 
     ```
-    username $ ls
+    lecture1 username $ ls
     Hello.java  messages  README
     ```
 
@@ -175,7 +175,7 @@ using `pwd` again to see what changed. You should see something like this:
 7. Finally, let's get to running the `java` commands. First, run `javac`:
 
     ```
-    username $ javac Hello.java
+    lecture1 username $ javac Hello.java
     ```
 8. **Write down in notes/discuss**: What happened? Write down everything you
 noticed happen when you ran that command, and discuss what you saw as a group.
@@ -184,7 +184,7 @@ with `ls` or in the file browser in the workspace?)
 9. Next, run this command (feel free to pick any of the three languages!)
 
     ```
-    username $ java Hello messages/es-mx.txt
+    lecture1 username $ java Hello messages/es-mx.txt
     ```
 10. **Write down in notes/discuss**: What happened? What output do you see? How
 does the output relate to the code in the `Hello.java` file?
