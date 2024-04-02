@@ -13,7 +13,7 @@
 - [Github Desktop](https://desktop.github.com/)
 - [Markdown cheat sheet](https://commonmark.org/help/)
 - [What is Markdown?](https://www.markdownguide.org/getting-started/)
-- [Git](https://git-scm.com/) (You don't necessarily have to install this on its own for your computer; but this is the link to the underlying tool called `git`. It's included in Github Desktop.)
+- [Git](https://git-scm.com/) 
 
 ## Key Definitions
 
@@ -112,12 +112,10 @@ open a terminal in VScode. (Ctrl or Command + \`, or use the Terminal → New
 Terminal menu option). Try running some of the commands we learned in earlier
 labs and lectures on this computer.
 
-### Part 4 - Your First Codespace (In Progress)
+### Part 4 – Your First Workspace 
 
 We'll be working with Github Codespaces for this lab! More documentation is available [here](https://docs.github.com/en/codespaces).It is an online Integrated Development Environment that allows us to work with our code directly online! 
 **Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. 
-
-### Part 4 – Your First Workspace 
 
 In this part of the lab you'll set up a _Workspace_, which has a file system and
 a terminal we can use to write code and run commands. We'll do this on Github Codespace,
@@ -405,7 +403,7 @@ Please go ahead and fill out this Google form before you leave, this will help u
 ## Lab Report 1 - Remote Access and FileSystem (Week 1)
 
 You’ll submit a lab report by writing a blog post about the basic filesystem commands we learned today. You should create the post, like we 
-just described using Github Pages. The lab report is due Tuesday, January 16 by 10pm. 
+just described using Github Pages. The lab report is due Tuesday, April 9 by 10pm. 
 See the FAQ below for common questions, including how to add images and what to submit 
 to Gradescope.
 
@@ -415,18 +413,17 @@ For **each** of the commands `cd`, `ls`, and `cat`, and using the workspace you 
 2. Share an example of using the command with a path to a *directory* as an argument.
 3. Share an example of using the command with a path to a *file* as an argument.
 
-So that's 9 total examples (3 for each command). For each, include:
+So that's 9 total examples (3 for each command). For **each of the 9 examples**, include:
 
-- A screenshot or Markdown [code block](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks) showing the command and its output
-- What the working directory was when the command was run
+- A screenshot or Markdown [code block](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks) showing the command and its output.
+- What the **absolute path** to the working directory was when the command was run.
 - A sentence or two explaining why you got that output (e.g. what was in the filesystem, what it meant to have no arguments).
-- Indicate whether the output is an *error* or not, and if it's an error, explain why it's an error.
+- Indicate explicitly whether the output is an *error* or not, and if it's an error, explain why it's an error in one or two sentences.
+**Note:** Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. 
 
 You will upload your submission by publishing the page on Github Pages, then
 printing the page to PDF and uploading to the Lab Report 1 assignment on
 Gradescope.
-
-**Note:** Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. 
 
 ### Submission FAQ
 
