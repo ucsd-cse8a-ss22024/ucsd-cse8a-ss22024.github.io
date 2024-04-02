@@ -128,11 +128,12 @@ and run the following command:
 3. **Write down in notes/discuss**: What happened? Write down everything you
 noticed happen when you ran that command, and discuss what you saw as a group.
 
-### Alternative way of working with a GitHub repository 
+### *Alternative way of working with a GitHub repository* 
 There is an alternative way of working with our repository, and we highly recommend you try working with GitHub Codespaces (which comes with the GitHub Student Developer Pack)! More documentation is available [here](https://docs.github.com/en/codespaces). It is an online Integrated Development Environment that allows us to work with our code directly online! 
+
 **Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. 
 
-(Only if you set up GitHub Codespaces -- highly recommended) 1. Go to this [repository](https://github.com/ucsd-cse15l-s24/lecture1) on GitHub, this is where we store and update our code during this lab, and click “<> Code”, click "Codespaces", click "Create codespace on main"
+*(Only if you set up GitHub Codespaces -- highly recommended)* Go to this [repository](https://github.com/ucsd-cse15l-s24/lecture1) on GitHub, this is where we store and update our code during this lab, and click “<> Code”, click "Codespaces", click "Create codespace on main"
 
 Next, let's make sure we can run the `javac` and `java` commands we saw in
 class. This will involve running them _from the correct working directory_.
