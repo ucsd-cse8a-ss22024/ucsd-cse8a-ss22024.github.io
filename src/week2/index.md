@@ -1,17 +1,12 @@
 # Week 2 – URLs and Servers
 
-## Coming soon!
-<!-- ## Lecture Materials
+## Lecture Materials
 
-- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13ESz6G6UVoTLbnJ6oopGWwxY--_oyNCS/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1QXV2eEYmHIomcpHdX2zoKZvXnPJ_5Vkd/view?usp=sharing)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13M_vMvQkkb0rYri1eQnYOOAAjlZaQ4aa/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1dQAk0ZE7-CkXFkmMoBsW0e9_kScWKWwH/view?usp=sharing)
-- Wednesday Notes <iframe src="https://drive.google.com/file/d/1gorjwpGTUoLRLBJ6yZdJbe7PLKEgfF4a/preview" width="100%" height="600px"></iframe>
+Coming soon!
 
 ## Lecture-Length Videos
 
-This video about URLs takes the place of Monday's lecture and helps get set up
+This video about URLs supplements Monday's lecture and helps get set up
 for Quiz 2:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MvUZjQX4yhM?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -40,15 +35,34 @@ Today we'll use some of what we learned about URLS to create a **web server**.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rDpgSpZyScY?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Meet Your New Group!
+
+We have assigned you into groups that you will collaborate in for the rest of the
+quarter. When you arrive at your lab, see the screen at the front of the room to
+find your assigned seat.
+
+**Write down in notes** – In your groups, share, and note in the running notes
+document (discussion leaders, you answer these as well!):
+
+- How you'd like people to refer to you (pronounce your name/nickname, pronouns
+like he/her/they, etc)
+- Your major
+- One of:
+    - A UCSD student organization you're a member of or interested in
+    - Your favorite place you've found on campus so far
+    - A useful campus shortcut or trick you know
+- Your answer to the following question. Discuss why you chose that answer. ![Image](../images/owls.png)
+
 ### Remotely Connecting to CSE15L account
 
 **In Your Group for 15 minutes**
 
 Many courses in CSE use course-specific accounts. These are similar to accounts
 you might get on other systems at other institutions (or a future job). We'll
-see how to use the terminal in EdStem.
+see how to use the terminal in VS Code.
 
-Open a terminal in EdStem. To use `ssh`, your command will look like this, but
+First, open a terminal in VS Code (Ctrl or Command + \`, or use the Terminal → New
+Terminal menu option). Then, to use `ssh`, your command will look like this, but
 with the `user` replaced by your specific TritonLink username.
 
 ```
@@ -65,15 +79,20 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
 
-I (Joe) always say yes to these messages when I'm connecting to a new server for
+I (Edwin) always say yes to these messages when I'm connecting to a new server for
 the first time; it's expected to get this message in that case. If you get this
 message when you're connecting to a server you connect to _often_, it could mean
 someone is trying to listen in on or control the connection. This answer is a
 decent description of what's going on: [Ben Voigt's
 answer](https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established/421084#421084)
 
-So type `yes` and press enter, then type the password for your TritonLink user account; the whole interaction
-should look something like this once you give the password and are logged in:
+So type `yes` and press enter, then type the password for your TritonLink user account. 
+
+**Important Note:** When you type in your password, you won't see any visual feedback 
+that you're typing but don't worry, you're typing it in! When you've finished typing your
+password, then press enter. 
+
+The whole interaction should look something like this once you give the password and are logged in:
 
 ```
 # On your client
@@ -86,7 +105,7 @@ Password:
 
 ```
 # Now on remote server
-Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
+Last login: Tue Apr 9 14:03:05 2024 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
 quota: No filesystem specified.
 Hello user, you are currently logged into ieng6-203.ucsd.edu
 
@@ -98,8 +117,8 @@ ieng6-201   23:25:01   0  0.08,  0.17,  0.11
 ieng6-202   23:25:01   1  0.09,  0.15,  0.11
 ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
-To begin work for one of your courses [ cs15lwi24 ], type its name
-at the command prompt.  (For example, "cs15lwi24", without the quotes).
+To begin work for one of your courses [ cs15lsp24 ], type its name
+at the command prompt.  (For example, "cs15lsp24", without the quotes).
 
 To see all available software packages, type "prep -l" at the command prompt,
 or "prep -h" for more options
@@ -108,17 +127,17 @@ or "prep -h" for more options
 Now execute the following command
 
 ```
-$ cs15lwi24
+$ cs15lsp24
 ```
 
 (That's one, five, l (lowercase letter L, not one); the one and l look very
 close in some fonts. And remember that when we write the `$`, that's not for you
 to type in! It's just a convention for how we write commands.)
 
-You should get the following output:
+You should something like the following output:
 
 ```
-Sun Jan 02, 2022 11:28pm - Prepping cs15lwi24
+Tue Apr 09, 2024 11:28pm - Prepping cs15lsp24
 ```
 
 Now your terminal is connected to a computer in the CSE basement, and any
@@ -143,24 +162,6 @@ environment is set up. You will learn by reflecting on this.
 Take a screenshot or copy/paste the output. Did you all see the same thing? What
 might the differences mean? Note the results of your discussion in the notes
 document.
-
-### Meet Your New Group!
-
-We have assigned you into groups that you will collaborate in for the rest of the
-quarter. When you arrive at your lab, see the screen at the front of the room to
-find your assigned seat.
-
-**Write down in notes** – In your groups, share, and note in the running notes
-document (discussion leaders, you answer these as well!):
-
-- How you'd like people to refer to you (pronounce your name/nickname, pronouns
-like he/her/they, etc)
-- Your major
-- One of:
-    - A UCSD student organization you're a member of or interested in
-    - Your favorite place you've found on campus so far
-    - A useful campus shortcut or trick you know
-- Your answer to the following question. Discuss why you chose that answer. ![Image](../../images/owls.png)
 
 ### The `URLHandler` Interface
 
@@ -190,11 +191,15 @@ Java has [good documentation on
 URI](https://docs.oracle.com/javase/8/docs/api/java/net/URI.html). We'll discuss
 what a `port` is below.).
 
+Now, we want you to start by doing the lab starting in your *local* terminal. To log out of `ieng6`, 
+press `Ctrl-d` on the keyboard or type in `exit` and press enter. 
+
 We've provided an implementation of a web server that works with this interface here:
 
-[https://github.com/ucsd-cse15l-f23/wavelet](https://github.com/ucsd-cse15l-f23/wavelet)
+[https://github.com/ucsd-cse15l-s24/wavelet](https://github.com/ucsd-cse15l-s24/wavelet)
 
-In your workspace—everyone can make their own—and clone that repository into it. Make sure you *aren't* logged in to `ieng6` when you do this clone. The first thing we do will be all on EdStem.
+Start by cloning this repository into your local VS Code terminal. Make sure you *aren't* logged in to `ieng6` 
+when you do this clone. 
 
 There are two files in this repository:
 
@@ -212,7 +217,7 @@ Read through the code in `NumberServer.java`. Discuss with your partner what you
 
 ### Building and Running the Server
 
-You can build and run the server in your EdStem workspace using these two
+You can build and run the server in your terminal using these two
 commands, from the directory created by cloning of the repository. (Remember, you might have to `cd` into that directory!) It should
 look like this when it works:
 
@@ -222,14 +227,11 @@ $ java NumberServer 4000
 Server Started!
 ```
 
-On EdStem, you can use the “Network” option in the menubar (it looks like the wifi symbol) and it will show you a link
-you can use to visit the running web server:
+Then, in a browser on your computer, open
+[http://localhost:4000](http://localhost:4000). You should see something that
+looks like this:
 
-![Network Menu](/images/network-menu-edstem.png)
-
-This will open a new window or tab that looks something like this:
-
-![Live website](/images/edstem-server-started.png)
+![localhost_4000](../images/localhost_4000.png)
 
 
 There are a few definitions worth discussing here:
@@ -243,6 +245,12 @@ as well, either
 [`443`](https://en.wikipedia.org/wiki/HTTPS), but your browser hides it from you
 because it's the default. You're welcome to read about these details, but they
 aren't necessary to learn continue in this lab.
+
+- **Localhost**: The `localhost` domain refers to _the computer you're on_. So
+rather than going out over the internet to send the URL to a particular domain
+somewhere else, this page is being handled by the running Java program on your
+computer, which we say is “listening” on localhost at port 4000. That work is
+what's done in `Server.java` and by Java's `HTTPServer` library.
 
 It's also worth pointing out that the terminal will just sit there without
 letting you type more commands while the server is running: it is in an infinite
@@ -276,7 +284,7 @@ one that shows an error.
 
 Next, log into your account on `ieng6`. Then clone the same `wavelet` repository there.
 
-Now, run your web server on `ieng6` using the same `java` and `javac` commands that you used to run it on your local machine. Note that there are only 3 ieng6 computers (you'll see that you've connected to
+Now, run your web server on `ieng6` using the same `javac` and `java` commands that you used to run it on your local machine. Note that there are only 3 ieng6 computers (you'll see that you've connected to
 `ieng6-201`, `ieng6-202`, or `ieng6-203` in the prompt), which presents a
 problem – each one only has one port `4000`. If multiple people try to use the
 same port at the same time on the same computer, there will be an error:
@@ -291,16 +299,22 @@ Exception in thread "main" java.net.BindException: Address already in use
 ```
 
 So you can't *all* use port `4000`. If you want something unique for this lab
-you can use `4000` + the number of the machine you're sitting in front of if in
-room B260, and `7000` + that number if in room B270. Or experiment!
+you can use `2600` + the number of the machine you're sitting in front of in
+room B260. Or experiment!
 
 The cool thing about running it on these computers is you can access it from
 other computers! After starting the server, you can load your web page from
 other places! For example, if you're on `ieng6-201.ucsd.edu` running on port
 1234, you can open `http://ieng6-201.ucsd.edu:1234` from another computer in the
 lab or your laptop to see the output of the running server (this only works from
-the UCSD network, so that means you'd need to be on the UCSD-Protected network).
+the UCSD network, so that means you'd need to be on the `UCSD-Protected` network).
 Neat – you've deployed a web server!
+
+**Important Note:** You need to be on `UCSD-Protected` Wi-Fi when trying to start
+the server or visit one of the URLs. 
+
+**Write down in notes** - Why is this the case that you have to be on UCSD-Protected Wi-Fi? 
+Write down your thinking/thoughts. Feel free to talk to your neighbor and lab group!
 
 **Write down in notes** - Team up with another member of your group that you haven't worked with yet.
 Get their server URL and port number, and access their number server on
@@ -309,7 +323,7 @@ your group's Google Doc). Take a screenshot of ***your*** computer loading a web
 ***their*** server, which should show the current number (though not their name!). Was their web server running on the same `ieng6` machine as yours? The same port?
 <!-- Joe's answer: It’s stored on the heap as a field in a NumberServer object in the a Java process owned by "user" running on ieng6-201. -->
 
-<!-- **Write down in notes** – If you have multiple browsers on different computers
+**Write down in notes** – If you have multiple browsers on different computers
 all incrementing the number on one web server, do they all see one anothers'
 increments? As accurately as possible, describe where the number is stored.
 
@@ -352,7 +366,7 @@ running the server and one loading a URL it serves via `curl`.
 
 ### Make the Simplest “Search Engine”
 
-In your Edstem workspace, make a new file called `SearchEngine.java`. In it, implement a web server (like
+In VS Code where you cloned the repo locally, make a new file called `SearchEngine.java`. In it, implement a web server (like
 `NumberServer.java`) that tracks a list of strings. It should support a path for
 _adding_ a new string to the list, and a path for _querying_ the list of strings
 and returning a list of all strings that have a given substring.
@@ -380,5 +394,4 @@ search server, share the machine and port with others and try out one another's
 servers! Can you have one person add some words that another person searches
 for? As accurately as possible, describe where each list of strings is stored.
 
-
-</div> --> 
+</div> 

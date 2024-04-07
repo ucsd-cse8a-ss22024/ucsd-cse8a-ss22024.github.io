@@ -110,8 +110,9 @@ the newly-installed `git bash` in Visual Studio Code:
 
 [Using Bash on Windows in VScode](https://stackoverflow.com/a/50527994)
 
-(That's all the special instructions for Windows users). Then, to run commands,
-open a terminal in VScode. (Ctrl or Command + \`, or use the Terminal → New
+(That's all the special instructions for Windows users). 
+
+Then, to run commands, open a terminal in VScode. (Ctrl or Command + \`, or use the Terminal → New
 Terminal menu option). Try running some of the commands we learned in earlier
 labs and lectures on this computer.
 
