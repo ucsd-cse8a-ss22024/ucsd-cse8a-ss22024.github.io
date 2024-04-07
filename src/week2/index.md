@@ -311,10 +311,10 @@ the UCSD network, so that means you'd need to be on the `UCSD-Protected` network
 Neat – you've deployed a web server!
 
 **Important Note:** You need to be on `UCSD-Protected` Wi-Fi when trying to start
-the server or visit one of the URLs. 
+the server on `ieng6` or visit one of the `ieng6` URLs. 
 
-**Write down in notes** - Why is this the case that you have to be on UCSD-Protected Wi-Fi? 
-Write down your thinking/thoughts. Feel free to talk to your neighbor and lab group!
+**Write down in notes** - Why is this the case that you have to be on UCSD-Protected Wi-Fi to
+for `ieng6`? Feel free to talk to your neighbor and lab group!
 
 **Write down in notes** - Team up with another member of your group that you haven't worked with yet.
 Get their server URL and port number, and access their number server on
