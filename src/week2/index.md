@@ -307,14 +307,15 @@ other computers! After starting the server, you can load your web page from
 other places! For example, if you're on `ieng6-201.ucsd.edu` running on port
 1234, you can open `http://ieng6-201.ucsd.edu:1234` from another computer in the
 lab or your laptop to see the output of the running server (this only works from
-the UCSD network, so that means you'd need to be on the `UCSD-Protected` network).
+the UCSD network, so that means you'd need to be on the `UCSD-PROTECTED` network).
 Neat – you've deployed a web server!
 
-**Important Note:** You need to be on `UCSD-Protected` Wi-Fi when trying to start
+**Important Note:** You need to be on `UCSD-PROTECTED` Wi-Fi when trying to start
 the server on `ieng6` or visit one of the `ieng6` URLs. 
 
-**Write down in notes** - Why is this the case that you have to be on UCSD-Protected Wi-Fi to
-for `ieng6`? Feel free to talk to your neighbor and lab group!
+**Write down in notes** - Why do you have to be on `UCSD-PROTECTED` Wi-Fi
+for `ieng6`? What happens if you try on `UCSD-GUEST`? Try it out and 
+feel free to talk to your neighbor and lab group!
 
 **Write down in notes** - Team up with another member of your group that you haven't worked with yet.
 Get their server URL and port number, and access their number server on
