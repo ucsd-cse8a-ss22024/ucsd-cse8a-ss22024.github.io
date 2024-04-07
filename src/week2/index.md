@@ -191,7 +191,7 @@ Java has [good documentation on
 URI](https://docs.oracle.com/javase/8/docs/api/java/net/URI.html). We'll discuss
 what a `port` is below.).
 
-Now, we want you to start by doing the lab starting in your *local* terminal. To log out of `ieng6`, 
+Now, we want you to start by doing the lab in your *local* terminal. To log out of `ieng6`, 
 press `Ctrl-d` on the keyboard or type in `exit` and press enter. 
 
 We've provided an implementation of a web server that works with this interface here:
