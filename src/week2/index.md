@@ -135,7 +135,7 @@ $ cs15lsp24
 close in some fonts. And remember that when we write the `$`, that's not for you
 to type in! It's just a convention for how we write commands.)
 
-You should something like the following output:
+You should see something like the following output:
 
 ```
 Tue Apr 09, 2024 11:28pm - Prepping cs15lsp24
