@@ -20,7 +20,7 @@ This web page serves as the main source of announcements and resources for the c
 - Lecture: [Warren Lecture Hall 2207](https://map.concept3d.com/?id=1005#!m/246292), Mon/Wed (check your schedule)
 - Labs: [Computer Science Engineering Basement B260](https://map.concept3d.com/?id=1005#!m/164780) Tuesday (check your schedule)
 - “Skill Demonstration” Exams: Flexible scheduling in weeks 3, 5, 7, and 9
-- Final Exam (used for making up test credit): Flexible scheduling throughout the quarter. Maximum of 1 Make up.
+- Final Exam (used for making up test credit): Flexible scheduling throughout the quarter. Maximum of 2 Make ups.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: [Discord](https://discord.gg/8HqRJ6Je)
@@ -133,16 +133,17 @@ you can know roughly where we are headed.
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/127DMrEDOnEGvZ8OzIwbbsueraSTGuTrz/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/18qAdUK8P-Cis9itwRQt1ddbqbLjhvKuk/view?usp=sharing)
 
+-->
+
 ### Week 2 - URLs and Servers
 
 - [Lab 2 Activities](./week2/index.md)
 - Deadlines:
-  - Quiz 2 Due **Wednesday, January 17, 9am**
+  - Quiz 2 Due **Wednesday, April 10, 9am**
+  - Lab Report 1 Due **Tuesday, April 9, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13ESz6G6UVoTLbnJ6oopGWwxY--_oyNCS/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1QXV2eEYmHIomcpHdX2zoKZvXnPJ_5Vkd/view?usp=sharing)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13M_vMvQkkb0rYri1eQnYOOAAjlZaQ4aa/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1dQAk0ZE7-CkXFkmMoBsW0e9_kScWKWwH/view?usp=sharing) -->
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1UFvHNjY_P-N40PQ2xx3ZyORx3e0IVMLY/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1ne0MDipt1TMKetBT-zwThdFpmRlTEIJt/view?usp=share_link)
 
 ### Week 1 - Markdown, URLs, and Paths
 
