@@ -278,8 +278,11 @@ To stop the server, press `Ctrl-C`, then restart the server by running the same 
 
 **Write down in notes** – show a screenshot of trying each of the paths that
 provide a response based on your reading of `NumberServer.java`. There should be
-4: the root path, one for incrementing, one for adding by a specific count, and
-one that shows an error.
+4: 
+1. the root path
+2. one for incrementing
+3. one for adding by a specific count
+4. one that shows an error
 
 ### Run the Server on a Remote Computer
 
