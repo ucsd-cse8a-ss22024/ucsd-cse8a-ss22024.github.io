@@ -164,7 +164,12 @@ Take a screenshot or copy/paste the output. Did you all see the same thing? What
 might the differences mean? Note the results of your discussion in the notes
 document.
 
-### The `URLHandler` Interface
+**Log out of the remote computer before you continue:**
+```
+exit
+```
+
+### The `URLHandler` Interface (on your local machine)
 
 There's a lot that web servers can do. We will start with a small fragment of
 their behavior that is enough to do interesting work. For now we'll focus on
