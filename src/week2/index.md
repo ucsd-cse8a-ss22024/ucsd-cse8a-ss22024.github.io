@@ -356,10 +356,10 @@ By default `curl` prints out what it accesses to the terminal.
 You can also use `curl` to load the URLs for the server! It has the same
 restrictions on access as whatever computer you're running it from. So that
 means from the terminal on your local computer, a `curl` command would load
-`ieng6-20x` URLs if you're connected to `UCSD-Protected`. But you can also log
+`ieng6-20x` URLs if you're connected to `UCSD-PROTECTED`. But you can also log
 into an `ieng6` server from your terminal and run `curl` from there, and use
 that method to test your web server even if your laptop isn't on
-`UCSD-Protected`. Try both things – using `curl` from your computer's local
+`UCSD-PROTECTED`. Try both things – using `curl` from your computer's local
 terminal and from one logged into ieng6 to access your server.
 
 Keep in mind this might mean you need to open _two_ terminals, one to start the
