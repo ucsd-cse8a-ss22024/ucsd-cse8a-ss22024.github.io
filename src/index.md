@@ -23,7 +23,7 @@ This web page serves as the main source of announcements and resources for the c
 - Final Exam (used for making up test credit): Flexible scheduling throughout the quarter. Maximum of 2 Make ups.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
-- General Class Q&A Forum: [Discord](https://discord.gg/8HqRJ6Je)
+- General Class Q&A Forum: [Discord](https://discord.gg/yC3gQhY8Nd)
 - Code Q&A Forum: [Piazza](https://piazza.com/ucsd/spring2024/cse15l_sp24/info)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
 - Textbook/readings: There's no official textbook, but we will link to
