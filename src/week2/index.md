@@ -159,7 +159,7 @@ learning outcome of the course! If you see someone else have an issue that you
 didn't, ask why, and what might be different about what you did, or how your
 environment is set up. You will learn by reflecting on this.
 
-**Write down in notes**: When you're done, **discuss** what you saw upon login.
+**Write down in notes** – When you're done, **discuss** what you saw upon login.
 Take a screenshot or copy/paste the output. Did you all see the same thing? What
 might the differences mean? Note the results of your discussion in the notes
 document.
@@ -214,7 +214,7 @@ server using that handler.
 
 Read through the code in `NumberServer.java`. Discuss with your partner what you think each line or code block does. 
 
-**Write down in notes** - What questions do you and your partner still have? It’s OK to have open questions at this point! Many will be resolved by the next few sections.
+**Write down in notes** – What questions do you and your partner still have? It’s OK to have open questions at this point! Many will be resolved by the next few sections.
 
 ### Building and Running the Server
 
@@ -314,11 +314,11 @@ Neat – you've deployed a web server!
 **Important Note:** You need to be on `UCSD-PROTECTED` Wi-Fi when trying to start
 the server on `ieng6` or visit one of the `ieng6` URLs. 
 
-**Write down in notes** - Why do you have to be on `UCSD-PROTECTED` Wi-Fi
+**Write down in notes** – Why do you have to be on `UCSD-PROTECTED` Wi-Fi
 for `ieng6`? What happens if you try on `UCSD-GUEST`? Try it out and 
 feel free to talk to your neighbor and lab group!
 
-**Write down in notes** - Team up with another member of your group that you haven't worked with yet.
+**Write down in notes** – Team up with another member of your group that you haven't worked with yet.
 Get their server URL and port number, and access their number server on
 ***your*** computer (**HINT**: You may want to share the URL and port number on
 your group's Google Doc). Take a screenshot of ***your*** computer loading a webpage of
@@ -329,7 +329,7 @@ your group's Google Doc). Take a screenshot of ***your*** computer loading a web
 all incrementing the number on one web server, do they all see one anothers'
 increments? As accurately as possible, describe where the number is stored.
 
-**Write down in notes** - Brainstorm a little bit. Now that you have the ability
+**Write down in notes** – Brainstorm a little bit. Now that you have the ability
 to make a web server, what are some ideas for other applications you could
 create? Think about things you could plausibly build with your knowledge of Java
 plus this server interface.  What else might you need to go further?
@@ -362,7 +362,7 @@ terminal and from one logged into ieng6 to access your server.
 Keep in mind this might mean you need to open _two_ terminals, one to start the
 server and one to load the URL.
 
-**Write down in notes**. Take a screenshot of two terminals, side-by-side, one
+**Write down in notes** – Take a screenshot of two terminals, side-by-side, one
 running the server and one loading a URL it serves via `curl`.
 
 
