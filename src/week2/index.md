@@ -206,7 +206,7 @@ There are two files in this repository:
 
 - `Server.java` – we (the staff) wrote this and you can treat it as a “black box”, without
 understanding its details for today. Of course, you're welcome to read it and
-ask questions about it, but we might defer your questions to Edstem, office
+ask questions about it, but we might defer your questions to Discord/Piazza, office
 hours, or later to focus on the work specific to this lab.
 - `NumberServer.java` – this is a program with a `main` method that creates a
 `URLHandler` that manages a single number, and uses `Server.java` to start a web
@@ -334,7 +334,7 @@ to make a web server, what are some ideas for other applications you could
 create? Think about things you could plausibly build with your knowledge of Java
 plus this server interface.  What else might you need to go further?
 
-**Write down in notes** – When you ran the server on `ieng6`, it didn't include your name (where you made it say `[Your Name] : <number>` on EdStem), even though you made that edit. Why not? What are things you could do, using only what we've seen in class so far, to get that version of the code on the server. Hint – you can make new public Github repositories yourself!
+**Write down in notes** – When you ran the server on `ieng6`, it didn't include your name (where you made it say `[Your Name] : <number>` on VS Code), even though you made that edit. Why not? What are things you could do, using only what we've seen in class so far, to get that version of the code on the server. Hint – you can make new public Github repositories yourself!
 
 ### Accessing URLs from the Command Line with `curl`
 
