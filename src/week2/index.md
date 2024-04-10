@@ -4,6 +4,8 @@
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1UFvHNjY_P-N40PQ2xx3ZyORx3e0IVMLY/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1ne0MDipt1TMKetBT-zwThdFpmRlTEIJt/view?usp=share_link)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1bi3dpYZieXCRDt9uKTY4YmCLeHWCXgZK/edit?usp=sharing&ouid=107408851252378993524&rtpof=true&sd=true)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1ywgivSm6FeMsZOT-yZPFtJ7Rh3VCp0zj/view?usp=share_link)
 
 ## Lecture-Length Videos
 
