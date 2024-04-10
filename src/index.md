@@ -2,7 +2,7 @@
 
 # UCSD CSE15L S24 Syllabus and Logistics
 
-- [Edwin Solares](https://edwinsolares.com) (Instructor)
+- [Edwin Solares](http://edwinsolares.com) (Instructor)
 
 [Basics](#basics) -
 [Schedule](#schedule) -
