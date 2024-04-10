@@ -140,7 +140,7 @@ you can know roughly where we are headed.
 - [Lab 2 Activities](./week2/index.md)
 - Deadlines:
   - Quiz 2 Due **Wednesday, April 10, 9am**
-  - Lab Report 1 Due **Tuesday, April 9, 10pm**
+  - Lab Report 1 Due **Wednesday, April 10, 10pm**
 - Lecture Materials:
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1UFvHNjY_P-N40PQ2xx3ZyORx3e0IVMLY/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1ne0MDipt1TMKetBT-zwThdFpmRlTEIJt/view?usp=share_link)
@@ -216,7 +216,7 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Lab Reports/Portfolio Posts
 
-Every other Tuesday (that's in weeks 2, 4, 6, 8, 10) you will submit a lab report on
+Every other Wednesday (that's in weeks 2, 4, 6, 8, 10) you will submit a lab report on
 work from the previous week or two of lab material. This will take the form of
 a blog post on a personal site you created in the first week.  At the end of
 the quarter this means you'll have a personal web site with 5 posts detailing
