@@ -119,21 +119,18 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ0cpsywi0aLxS5DiKstIT2Eu8MljNHC/view?usp=sharing)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13iOKAl6k-1018WpEJJIRf3UIzYnpfUdm/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
- 
+
+-->
+
 ### Week 3 - VSCode and Your Local Machine
 
 - [Lab 3 Activities](./week3/index.md)
 - Deadlines:
-  - Quiz 3 Due **Wednesday, January 24, 9am**
-  - Lab Report 2 Due **Tuesday, January 30, 10pm**
-  - Lab Report 1 Resubmission Due **Tuesday, January 30, 11:59pm**
+  - Quiz 3 Due **Wednesday, April 17, 9am**
+  - Lab Report 2 Due **Wednesday, April 24, 10pm**
+  - Lab Report 1 Resubmission Due **Wednesday, April 24, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1281XbfK5_dVXcVU-XNkb9BObIz0gt0hC/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1cTFm-d3cPLclZn0NxaD8Maqcapsx1Qwh/view?usp=sharing)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/127DMrEDOnEGvZ8OzIwbbsueraSTGuTrz/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/18qAdUK8P-Cis9itwRQt1ddbqbLjhvKuk/view?usp=sharing)
-
--->
+  - Coming soon!
 
 ### Week 2 - URLs and Servers
 
