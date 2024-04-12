@@ -1,6 +1,6 @@
 # Week 3 – VSCode and Your Local Machine
 
-## Lecture Materials -->
+## Lecture Materials
 
 Coming soon! Lab material below subject to change. 
 
@@ -107,13 +107,14 @@ scp` and `man mkdir` from the command line. What do you learn about them?
 You'll be introduced to new commands all the time; a course like CSE15L can't
 cover them all in 10 weeks!
 
-On future labs and assignments, you can choose whether to start from EdStem or
-from Visual Studio Code on your own setup.
+### Part 2 – Visual Studio Code Remote SSH
+work in progress...
 
 ## Lab Report 2 - Servers and SSH Keys (Week 3)
 
 As with the first lab report, you'll write this as a Github Pages page, then
-print that page to PDF and upload to Gradescope. There are 3 parts:
+print that page to PDF and upload to Gradescope. Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. 
+There are 3 parts:
 
 ### Part 1
 
@@ -163,13 +164,13 @@ right now.)
 You can assume that the `s=` parameter always comes before the `user=`
 parameter, and they are always separated by a `&` as shown above.
 
-Show the code for your `ChatServer`, and two screenshots of using `/add-message`.
+- Show the code for your `ChatServer`, and two screenshots of using `/add-message`.
 
-For **each** of the two screenshots, describe:
+For **each** of the two screenshots, answer the followings three questions:
 
 - Which methods in your code are called?
 - What are the relevant arguments to those methods, and the values of any
-relevant fields of the class?
+relevant fields of the **class**?
 - How do the values of any relevant fields of the class change from this
 specific request? If no values got changed, explain why.
 
@@ -177,20 +178,15 @@ By _values_, we mean specific `String`s, `int`s, `URI`s, and so on. `"abc"` is a
 value, `456` is a value, `new URI("http://...")` is a value, and so on.)
 
 ### Part 2
+Include a screenshot for each of the following:
 
-Using the command line, show with `ls` and take screenshots of:
-
-- The absolute path to the _private_ key for your SSH key for logging into
-  `ieng6` (on your computer, an EdStem workspace, or on the home directory of
-  the lab computer)
-- The absolute path to the _public_ key for your SSH key for logging into
-  `ieng6` (this is the one you copied to your account on `ieng6`, so it should
-  be a path on `ieng6`'s file system)
-- A terminal interaction where you log into your `ieng6` account *without*
-  being asked for a password.
+1. On the command line of **your computer**, run `ls` with the **absolute path** to the _private_ key for your SSH key for logging into `ieng6`.
+2. On the command line of the **ieng6 machine**, run `ls` with the **absolute path** to the _public_ key for your SSH key for logging into
+  `ieng6` (this is the one you copied to your account on `ieng6` using `ssh-copy-id`, so it should be a path on `ieng6`'s file system).
+3. A terminal interaction where you log into your `ieng6` account *without* being asked for a password.
 
 ### Part 3
 
-In a couple of sentences, describe something you learned from lab in week 2 or 3
-that you didn't know before. -->
+In 2-3 sentences, describe something you learned from lab in week 2 or 3
+that you didn't know before.
 
