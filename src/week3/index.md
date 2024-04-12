@@ -78,7 +78,8 @@ cover them all in 10 weeks!
 ## Lab Report 2 - Servers and SSH Keys (Week 3)
 
 As with the first lab report, you'll write this as a Github Pages page, then
-print that page to PDF and upload to Gradescope. There are 3 parts:
+print that page to PDF and upload to Gradescope. Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. 
+There are 3 parts:
 
 ### Part 1
 
@@ -128,13 +129,13 @@ right now.)
 You can assume that the `s=` parameter always comes before the `user=`
 parameter, and they are always separated by a `&` as shown above.
 
-Show the code for your `ChatServer`, and two screenshots of using `/add-message`.
+- Show the code for your `ChatServer`, and two screenshots of using `/add-message`.
 
-For **each** of the two screenshots, describe:
+For **each** of the two screenshots, answer the followings three questions:
 
 - Which methods in your code are called?
 - What are the relevant arguments to those methods, and the values of any
-relevant fields of the class?
+relevant fields of the **class**?
 - How do the values of any relevant fields of the class change from this
 specific request? If no values got changed, explain why.
 
