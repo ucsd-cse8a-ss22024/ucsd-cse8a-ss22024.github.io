@@ -31,10 +31,7 @@ Coming soon! Lab material below subject to change.
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
 until the start of lab on Monday.
 
-### Part 1 – Visual Studio Code Remote SSH
-work in progress...
-
-### Part 2 – Setting up SSH Keys for Easy Access, and Two New Commands
+### Part 1 – Setting up SSH Keys for Easy Access, and Two New Commands
 
 With the setup we've used so far this quarter, each time you log in to your
 course-specific account, you have to type the password. You might have noticed
@@ -74,6 +71,9 @@ scp` and `man mkdir` from the command line. What do you learn about them?
 
 You'll be introduced to new commands all the time; a course like CSE15L can't
 cover them all in 10 weeks!
+
+### Part 2 – Visual Studio Code Remote SSH
+work in progress...
 
 ## Lab Report 2 - Servers and SSH Keys (Week 3)
 
