@@ -34,6 +34,38 @@ until the start of lab on Monday.
 ### Part 1 – Visual Studio Code Remote SSH
 work in progress...
 
+#### Step 2 SSH Keys
+
+With the setup we've used so far this quarter, each time you log in to your
+course-specific account, you have to type the password. You might have noticed
+that during the skill demonstration you didn't have to type the password for our
+instructor accounts! Here, you'll learn how to configure that for yourself (it
+will save _lots_ of time).
+
+- In your local terminal (the one you opened in VSCode), run `ssh-keygen`
+- Keep entering `<Enter>` until the program shows some text it calls the "randomart image".
+  - Note the path where the public key is saved (underlined below). 
+  - ![Image](../images/ssh-keygen.png)
+
+#### Step 3 SSH Copy ID
+
+Now we have the key generated. Let’s configure it in our remote ieng6 server!
+All you need to do is to type the following command:
+```
+ssh-copy-id -i ~/.ssh/id_rsa.pub YOUR_TRITONLINK_USERNAME@ieng6.ucsd.edu
+```
+
+![Image](../images/ssh-copy-id.png)
+
+**Write down in notes:**
+What happened? What did you see? Put the screenshot of the output in the lab doc and explain what you think happened. Discuss with your peers!
+
+So, to explain what happened, we first have to understand how ssh works. Imagine your server is like your home and you have a dog living inside. You can either enter your home with your keys or have your dog open it from the inside(it’s a very smart dog like a German Shepherd). For your dog to do that, the dog has to make sure you are you. So, you probably put a piece of your clothes with your scent at home for your dog to be familiar with your smell. Then every time you are outside, the dog will recognize you from your smell, that is the same from the clothes you left at home. Then open the door for you! 
+
+The dog here will be the ssh system, and the clothes you left inside is the public key that you just sent to the ieng6 server with ssh-copy-id. Now when you try to access ieng6. The ssh system will automatically locate the private key in your local computer and compare it with the public key that it stored to verify your identity!
+
+#### Step 4 echo "Hello Joe"
+
 ### Part 2 –Setting up SSH Keys for Easy Access, and Two New Commands
 
 With the setup we've used so far this quarter, each time you log in to your
