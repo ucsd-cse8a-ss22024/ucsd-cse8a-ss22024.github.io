@@ -1,6 +1,6 @@
 # Week 3 – VSCode and Your Local Machine
 
-## Lecture Materials -->
+## Lecture Materials
 
 Coming soon! Lab material below subject to change. 
 
@@ -34,7 +34,7 @@ until the start of lab on Monday.
 ### Part 1 – Visual Studio Code Remote SSH
 work in progress...
 
-### Part 2 –Setting up SSH Keys for Easy Access, and Two New Commands
+### Part 2 – Setting up SSH Keys for Easy Access, and Two New Commands
 
 With the setup we've used so far this quarter, each time you log in to your
 course-specific account, you have to type the password. You might have noticed
@@ -74,9 +74,6 @@ scp` and `man mkdir` from the command line. What do you learn about them?
 
 You'll be introduced to new commands all the time; a course like CSE15L can't
 cover them all in 10 weeks!
-
-On future labs and assignments, you can choose whether to start from EdStem or
-from Visual Studio Code on your own setup.
 
 ## Lab Report 2 - Servers and SSH Keys (Week 3)
 
@@ -145,20 +142,15 @@ By _values_, we mean specific `String`s, `int`s, `URI`s, and so on. `"abc"` is a
 value, `456` is a value, `new URI("http://...")` is a value, and so on.)
 
 ### Part 2
+Include a screenshot for each of the following:
 
-Using the command line, show with `ls` and take screenshots of:
-
-- The absolute path to the _private_ key for your SSH key for logging into
-  `ieng6` (on your computer, an EdStem workspace, or on the home directory of
-  the lab computer)
-- The absolute path to the _public_ key for your SSH key for logging into
-  `ieng6` (this is the one you copied to your account on `ieng6`, so it should
-  be a path on `ieng6`'s file system)
-- A terminal interaction where you log into your `ieng6` account *without*
-  being asked for a password.
+1. On the command line of **your computer**, run `ls` with the **absolute path** to the _private_ key for your SSH key for logging into `ieng6`.
+2. On the command line of the **ieng6 machine**, run `ls` with the **absolute path** to the _public_ key for your SSH key for logging into
+  `ieng6` (this is the one you copied to your account on `ieng6` using `ssh-copy-id`, so it should be a path on `ieng6`'s file system).
+3. A terminal interaction where you log into your `ieng6` account *without* being asked for a password.
 
 ### Part 3
 
-In a couple of sentences, describe something you learned from lab in week 2 or 3
-that you didn't know before. -->
+In 2-3 sentences, describe something you learned from lab in week 2 or 3
+that you didn't know before.
 
