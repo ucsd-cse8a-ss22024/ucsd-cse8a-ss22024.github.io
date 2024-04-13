@@ -107,8 +107,46 @@ scp` and `man mkdir` from the command line. What do you learn about them?
 You'll be introduced to new commands all the time; a course like CSE15L can't
 cover them all in 10 weeks!
 
-### Part 2 – Visual Studio Code Remote SSH
-work in progress...
+### Part 2 – Connecting to Remote Server on Visual Studio Code
+
+**Installation**
+
+Install the VSCode Remote - SSH plugin and Remote Explorer extensions.
+
+<img src= "../images/1-VSCodeRemoteSSH.png" height=450>
+
+<img src= "../images/2-VSCodeRemoteExplorer.png" height=450>
+
+**Connecting**
+
+Click the SSH side tab and input your ssh info accordingly (`ssh username@ieng6.ucsd.edu`).
+
+<img src= "../images/3-ssh-tab.png" height=400>
+
+<img src="../images/4-ssh-info.png" height=400>
+
+A popup window will open in the bottom left corner. Click on “Open Config”. This will open the configuration file for your SSH connection.
+
+<img src="../images/5-open-config.png" height=400>
+
+In the remote explorer on the left-hand column, click the “Connect in new window” button next to your username to open a new ssh window for VSCode. Enter your password (if you haven’t already configured your ssh keys in part 1). This will open a new window connected to your remote server.
+
+<img src="../images/6-config.png" height=450>
+
+When you open a new terminal in this window, you will notice that it is automatically connected to ieng6. You can also configure your file explorer by clicking on “Open Folder” in the Remote Explorer.
+
+<img src="../images/7-ieng6-terminal.png" height=450>
+
+VSCode will open a pop-up asking which folder to open in the file explorer. Click “OK” to open the default folder for your user.
+
+<img src="../images/8-default-folder.png" height=450>
+
+Go ahead and enter your password in the new window if prompted. Now you have your VSCode SSH ready! You are now able to use your remote machine just like how you use your local machine. Everything on your remote machine is now shown on your left tab, and you can edit the code on your remote machine directly on the VSCode editor!
+
+<img src="../images/9-VScode-ssh-Ready.png" height=450>
+
+
+
 
 ## Lab Report 2 - Servers and SSH Keys (Week 3)
 
