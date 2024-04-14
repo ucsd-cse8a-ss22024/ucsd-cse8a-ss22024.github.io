@@ -64,7 +64,37 @@ So, to explain what happened, we first have to understand how ssh works. Imagine
 
 The dog here will be the ssh system, and the clothes you left inside is the public key that you just sent to the ieng6 server with ssh-copy-id. Now when you try to access ieng6. The ssh system will automatically locate the private key in your local computer and compare it with the public key that it stored to verify your identity!
 
-#### Step 4 echo "Hello Joe"
+#### Step 4 SCP From Remote SSH to Local
+
+Now that we have done the SSH to the remote server, we can now practice how to move files from our remote server to our local computer. 
+
+In order to move a file, we use the command [SCP](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/).
+
+<img src="../images/SCP_command.png">
+
+**Reminder: What does [`echo`](https://www.geeksforgeeks.org/echo-command-in-linux-with-examples/) do?**
+
+General format for `echo` is:
+
+> `echo <insert text> > <insert name and type of file>`
+
+Use `echo hello joe > hello.txt`
+
+The `>` arrow means write “hello joe” to a file called `hello.txt`
+
+You can read [man SCP](https://linux.die.net/man/1/scp) to get more ideas on this.
+
+SCP command usage: The `scp` command in Unix is used to securely copy files and directories between two locations over a network. It utilizes `SSH` (Secure Shell) for data transfer, ensuring that the data is encrypted and secure during the copy process. To use `scp`, simply specify the source file and the destination path where the file should be copied. You should **not** be on the remote server when executing this command. The point of SCP is to copy files from your local computer to your remote server.
+
+The general format is as follows:
+
+> `scp <file to be copied from local computer> <server address>`
+
+> `scp hello.txt username@ieng6.ucsd.edu:~/`
+
+To copy entire folders or a couple of files we can use `scp -r` (`-r` means recursive copy which iterates through your entire folder and copies everything from one folder) to copy **recursively**.
+
+
 
 ### Part 2 –Setting up SSH Keys for Easy Access, and Two New Commands
 
