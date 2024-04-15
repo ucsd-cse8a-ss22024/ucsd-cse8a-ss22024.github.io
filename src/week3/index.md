@@ -55,6 +55,10 @@ All you need to do is to type the following command:
 ssh-copy-id -i ~/.ssh/id_rsa.pub YOUR_TRITONLINK_USERNAME@ieng6.ucsd.edu
 ```
 
+Make sure you type in `yes` when it asks "Are you sure you want to continue connecting...?" 
+and then type in your TritonLink password to confirm. The whole terminal interaction
+should look something like below: 
+
 ![Image](../images/ssh-copy-id.png)
 
 **Write down in notes:**
