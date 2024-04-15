@@ -2,7 +2,8 @@
 
 ## Lecture Materials
 
-Coming soon! Lab material below subject to change. 
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1Q207K_3xfZFjZ2rym9ie3XLZjBo8uvKb/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1iIC0GcET6Gmsr_Kz-MN1YblpBVSMcM6k/view?usp=share_link)
 
 ### To Read/For Your Reference
 
