@@ -30,7 +30,7 @@
 ## Lab Tasks
 
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
-until the start of lab on Monday.
+until the start of lab on Tuesday.
 
 ### Part 1 – SSH Keys & SCP
 
