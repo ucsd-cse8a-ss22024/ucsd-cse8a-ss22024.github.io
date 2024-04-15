@@ -32,10 +32,9 @@
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
 until the start of lab on Monday.
 
-### Part 1 – Visual Studio Code Remote SSH
-work in progress...
+### Part 1 – SSH Keys & SCP
 
-#### Step 2 SSH Keys
+#### Step 1 SSH Keys
 
 With the setup we've used so far this quarter, each time you log in to your
 course-specific account, you have to type the password. You might have noticed
@@ -48,7 +47,7 @@ will save _lots_ of time).
   - Note the path where the public key is saved (underlined below). 
   - ![Image](../images/ssh-keygen.png)
 
-#### Step 3 SSH Copy ID
+#### Step 2 SSH Copy ID
 
 Now we have the key generated. Let’s configure it in our remote ieng6 server!
 All you need to do is to type the following command:
@@ -65,7 +64,7 @@ So, to explain what happened, we first have to understand how ssh works. Imagine
 
 The dog here will be the ssh system, and the clothes you left inside is the public key that you just sent to the ieng6 server with ssh-copy-id. Now when you try to access ieng6. The ssh system will automatically locate the private key in your local computer and compare it with the public key that it stored to verify your identity!
 
-#### Step 4 SCP From Remote SSH to Local
+#### Step 3 SCP From Remote SSH to Local
 
 Now that we have done the SSH to the remote server, we can now practice how to move files from our remote server to our local computer. 
 
@@ -94,49 +93,6 @@ The general format is as follows:
 > `scp hello.txt username@ieng6.ucsd.edu:~/`
 
 To copy entire folders or a couple of files we can use `scp -r` (`-r` means recursive copy which iterates through your entire folder and copies everything from one folder) to copy **recursively**.
-
-
-
-### Part 2 –Setting up SSH Keys for Easy Access, and Two New Commands
-
-With the setup we've used so far this quarter, each time you log in to your
-course-specific account, you have to type the password. You might have noticed
-that during the skill demonstration you didn't have to type the password for our
-instructor accounts! Here, you'll learn how to configure that for yourself (it
-will save _lots_ of time).
-
-- In your local terminal (the one you opened in VSCode), run `ssh-keygen`
-- Keep entering `<Enter>` until the program shows some text it calls the "randomart image".
-  - Note the path where the public key is saved (underlined below). 
-  - ![Image](../images/ssh_keygen.png)
-- Now, log into your remote course specific account on `ieng6` with `ssh`
-  (using your password as usual)
-- Run `mkdir .ssh` in the terminal
-- Log out of your remote account
-- Now, we want to copy the public SSH key you created onto your remote account,
-specifically inside the `.ssh` directory you just created, in a file called
-`authorized_keys`.
-- Scroll up a bit to where you were creating the SSH key, find the line where it
-says: `Your public key has been saved in: <path to your public SSH key>`, copy
-the path. **Make sure you get the public key file, ending in `.pub`, here, not
-the private file**.
-- From your local computer, run `scp <path to your public SSH key> user@ieng6.ucsd.edu:~/.ssh/authorized_keys` (make sure to fill in your actual username)
-  - Enter password when prompted (this will be the last time you have to type it!)
-- Try to log onto your remote account again, you shouldn’t be prompted for a
-password anymore. If you are, ask for help and carefully review the steps above
-with your partner.
-
-**Write down in notes**: This part introduced two new commands: `scp` and
-`mkdir`. Describe what you think they do in notes.
-
-Then, look them up online. You can do a Google or similar search for `scp
-command` and `mkdir command`. What do you learn about them?
-
-Then, look them up using the `man` (short for “manual”) command. Run `man
-scp` and `man mkdir` from the command line. What do you learn about them?
-
-You'll be introduced to new commands all the time; a course like CSE15L can't
-cover them all in 10 weeks!
 
 ### Part 2 – Connecting to Remote Server on Visual Studio Code
 
