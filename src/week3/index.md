@@ -135,11 +135,14 @@ Click the SSH side tab and input your ssh info accordingly (`ssh username@ieng6.
 
 <img src= "../images/3-ssh-tab.png" height=400>
 
-<img src="../images/4-ssh-info.png" height=400>
+Click the "+" icon next to SSH and enter the ssh command to the pop up window
+![Screenshot 2024-04-15 at 1 26 20 PM](https://github.com/ucsd-cse15l-s24/ucsd-cse15l-s24.github.io/assets/46422881/7d991f68-463c-4f2b-a759-45dfb7c7af25)
 
-A popup window will open in the bottom left corner. Click on “Open Config”. This will open the configuration file for your SSH connection.
+A popup window will open in the bottom right corner. Click on “Open Config”. This will open the configuration file for your SSH connection.
 
 <img src="../images/5-open-config.png" height=400>
+
+Close the VSCode application and restart.
 
 In the remote explorer on the left-hand column, click the “Connect in new window” button next to your username to open a new ssh window for VSCode. Enter your password (if you haven’t already configured your ssh keys in part 1). This will open a new window connected to your remote server.
 
