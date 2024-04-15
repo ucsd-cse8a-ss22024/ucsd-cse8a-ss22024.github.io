@@ -142,7 +142,7 @@ Go ahead and enter your password in the new window if prompted. Now you have you
 ## Lab Report 2 - Servers and SSH Keys (Week 3)
 
 As with the first lab report, you'll write this as a Github Pages page, then
-print that page to PDF and upload to Gradescope. Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. 
+print that page to PDF and upload to Gradescope. Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. Lab report 2 is due Wednesday, April 24 by 10pm. 
 There are 3 parts:
 
 ### Part 1
