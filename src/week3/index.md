@@ -74,6 +74,14 @@ The dog here will be the ssh system, and the clothes you left inside is the publ
 **Write down in notes:**
 Check in the `.ssh` directory; there should be a file named `authorized_keys`. Compare the content of `authorized_keys` with the ones of public-private key pair files; which file (public or private key) has the same content as `authroized_keys`. Why is that? Discuss with your peers.
 
+Try to log in and log out one more time. You shouldn't need to enter your password. Yeah!
+```
+$ ssh user@ieng6.ucsd.edu
+```
+```
+$ exit
+```
+
 #### Step 3 SCP From Remote SSH to Local
 
 Now that we have done the SSH to the remote server, we can now practice how to move files from our remote server to our local computer. 
