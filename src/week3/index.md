@@ -112,9 +112,16 @@ The general format is as follows:
 
 To copy entire folders or a couple of files we can use `scp -r` (`-r` means recursive copy which iterates through your entire folder and copies everything from one folder) to copy **recursively**.
 
+**Write down in notes:**
+Show a screenshot of you running the `scp` command above!
+
 ### Part 2 – Connecting to Remote Server on Visual Studio Code
 
-**Installation**
+In this part, we are helping you set up your VSCode environment, so you can access files remotely on `ieng6` without using the terminal. This paragraph below sums up the use the the VSCode extension that we ask you to install, Remote - SSH:
+
+"The Visual Studio Code Remote - SSH extension allows you to open a remote folder on any remote machine, virtual machine, or container with a running SSH server and take full advantage of VS Code's feature set. Once connected to a server, you can interact with files and folders anywhere on the remote filesystem."
+
+**Step 1: Installation**
 
 Install the VSCode Remote - SSH plugin and Remote Explorer extensions.
 
@@ -122,7 +129,7 @@ Install the VSCode Remote - SSH plugin and Remote Explorer extensions.
 
 <img src= "../images/2-VSCodeRemoteExplorer.png" height=450>
 
-**Connecting**
+**Step 2: Connecting**
 
 Click the SSH side tab and input your ssh info accordingly (`ssh username@ieng6.ucsd.edu`).
 
@@ -150,8 +157,8 @@ Go ahead and enter your password in the new window if prompted. Now you have you
 
 <img src="../images/9-VScode-ssh-Ready.png" height=450>
 
-
-
+**Write down in notes:**
+Show a screenshot of your VSCode opening the remote home directory of your `ieng6` account.
 
 ## Lab Report 2 - Servers and SSH Keys (Week 3)
 
