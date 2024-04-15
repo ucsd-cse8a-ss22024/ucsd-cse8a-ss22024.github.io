@@ -2,7 +2,8 @@
 
 ## Lecture Materials
 
-Coming soon! Lab material below subject to change. 
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1Q207K_3xfZFjZ2rym9ie3XLZjBo8uvKb/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1iIC0GcET6Gmsr_Kz-MN1YblpBVSMcM6k/view?usp=share_link)
 
 ### To Read/For Your Reference
 
@@ -29,12 +30,11 @@ Coming soon! Lab material below subject to change.
 ## Lab Tasks
 
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
-until the start of lab on Monday.
+until the start of lab on Tuesday.
 
-### Part 1 – Visual Studio Code Remote SSH
-work in progress...
+### Part 1 – SSH Keys & SCP
 
-#### Step 2 SSH Keys
+#### Step 1 SSH Keys
 
 With the setup we've used so far this quarter, each time you log in to your
 course-specific account, you have to type the password. You might have noticed
@@ -46,14 +46,21 @@ will save _lots_ of time).
 - Keep entering `<Enter>` until the program shows some text it calls the "randomart image".
   - Note the path where the public key is saved (underlined below). 
   - ![Image](../images/ssh-keygen.png)
+ 
+**Write down in notes:**
+The `ssh-keygen` command generates a public-private key pair; use the `cat` command to print out the content to each of these files. Include the two screenshots in the doc.
 
-#### Step 3 SSH Copy ID
+#### Step 2 SSH Copy ID
 
 Now we have the key generated. Let’s configure it in our remote ieng6 server!
 All you need to do is to type the following command:
 ```
 ssh-copy-id -i ~/.ssh/id_rsa.pub YOUR_TRITONLINK_USERNAME@ieng6.ucsd.edu
 ```
+
+Make sure you type in `yes` when it asks "Are you sure you want to continue connecting...?" 
+and then type in your TritonLink password to confirm. The whole terminal interaction
+should look something like below: 
 
 ![Image](../images/ssh-copy-id.png)
 
@@ -64,7 +71,18 @@ So, to explain what happened, we first have to understand how ssh works. Imagine
 
 The dog here will be the ssh system, and the clothes you left inside is the public key that you just sent to the ieng6 server with ssh-copy-id. Now when you try to access ieng6. The ssh system will automatically locate the private key in your local computer and compare it with the public key that it stored to verify your identity!
 
-#### Step 4 SCP From Remote SSH to Local
+**Write down in notes:**
+Check in the `.ssh` directory; there should be a file named `authorized_keys`. Compare the content of `authorized_keys` with the ones of public-private key pair files; which file (public or private key) has the same content as `authroized_keys`. Why is that? Discuss with your peers.
+
+Try to log in and log out one more time. You shouldn't need to enter your password. Yeah!
+```
+$ ssh user@ieng6.ucsd.edu
+```
+```
+$ exit
+```
+
+#### Step 3 SCP From Remote SSH to Local
 
 Now that we have done the SSH to the remote server, we can now practice how to move files from our remote server to our local computer. 
 
@@ -94,52 +112,16 @@ The general format is as follows:
 
 To copy entire folders or a couple of files we can use `scp -r` (`-r` means recursive copy which iterates through your entire folder and copies everything from one folder) to copy **recursively**.
 
-
-
-### Part 2 –Setting up SSH Keys for Easy Access, and Two New Commands
-
-With the setup we've used so far this quarter, each time you log in to your
-course-specific account, you have to type the password. You might have noticed
-that during the skill demonstration you didn't have to type the password for our
-instructor accounts! Here, you'll learn how to configure that for yourself (it
-will save _lots_ of time).
-
-- In your local terminal (the one you opened in VSCode), run `ssh-keygen`
-- Keep entering `<Enter>` until the program shows some text it calls the "randomart image".
-  - Note the path where the public key is saved (underlined below). 
-  - ![Image](../images/ssh_keygen.png)
-- Now, log into your remote course specific account on `ieng6` with `ssh`
-  (using your password as usual)
-- Run `mkdir .ssh` in the terminal
-- Log out of your remote account
-- Now, we want to copy the public SSH key you created onto your remote account,
-specifically inside the `.ssh` directory you just created, in a file called
-`authorized_keys`.
-- Scroll up a bit to where you were creating the SSH key, find the line where it
-says: `Your public key has been saved in: <path to your public SSH key>`, copy
-the path. **Make sure you get the public key file, ending in `.pub`, here, not
-the private file**.
-- From your local computer, run `scp <path to your public SSH key> user@ieng6.ucsd.edu:~/.ssh/authorized_keys` (make sure to fill in your actual username)
-  - Enter password when prompted (this will be the last time you have to type it!)
-- Try to log onto your remote account again, you shouldn’t be prompted for a
-password anymore. If you are, ask for help and carefully review the steps above
-with your partner.
-
-**Write down in notes**: This part introduced two new commands: `scp` and
-`mkdir`. Describe what you think they do in notes.
-
-Then, look them up online. You can do a Google or similar search for `scp
-command` and `mkdir command`. What do you learn about them?
-
-Then, look them up using the `man` (short for “manual”) command. Run `man
-scp` and `man mkdir` from the command line. What do you learn about them?
-
-You'll be introduced to new commands all the time; a course like CSE15L can't
-cover them all in 10 weeks!
+**Write down in notes:**
+Show a screenshot of you running the `scp` command above!
 
 ### Part 2 – Connecting to Remote Server on Visual Studio Code
 
-**Installation**
+In this part, we are helping you set up your VSCode environment, so you can access files remotely on `ieng6` without using the terminal. This paragraph below sums up the use the the VSCode extension that we ask you to install, Remote - SSH:
+
+"The Visual Studio Code Remote - SSH extension allows you to open a remote folder on any remote machine, virtual machine, or container with a running SSH server and take full advantage of VS Code's feature set. Once connected to a server, you can interact with files and folders anywhere on the remote filesystem."
+
+**Step 1: Installation**
 
 Install the VSCode Remote - SSH plugin and Remote Explorer extensions.
 
@@ -147,17 +129,20 @@ Install the VSCode Remote - SSH plugin and Remote Explorer extensions.
 
 <img src= "../images/2-VSCodeRemoteExplorer.png" height=450>
 
-**Connecting**
+**Step 2: Connecting**
 
 Click the SSH side tab and input your ssh info accordingly (`ssh username@ieng6.ucsd.edu`).
 
 <img src= "../images/3-ssh-tab.png" height=400>
 
-<img src="../images/4-ssh-info.png" height=400>
+Click the "+" icon next to SSH and enter the ssh command to the pop up window
+![Screenshot 2024-04-15 at 1 26 20 PM](https://github.com/ucsd-cse15l-s24/ucsd-cse15l-s24.github.io/assets/46422881/7d991f68-463c-4f2b-a759-45dfb7c7af25)
 
-A popup window will open in the bottom left corner. Click on “Open Config”. This will open the configuration file for your SSH connection.
+A popup window will open in the bottom right corner. Click on “Open Config”. This will open the configuration file for your SSH connection.
 
 <img src="../images/5-open-config.png" height=400>
+
+Close the VSCode application and restart.
 
 In the remote explorer on the left-hand column, click the “Connect in new window” button next to your username to open a new ssh window for VSCode. Enter your password (if you haven’t already configured your ssh keys in part 1). This will open a new window connected to your remote server.
 
@@ -175,13 +160,13 @@ Go ahead and enter your password in the new window if prompted. Now you have you
 
 <img src="../images/9-VScode-ssh-Ready.png" height=450>
 
-
-
+**Write down in notes:**
+Show a screenshot of your VSCode opening the remote home directory of your `ieng6` account.
 
 ## Lab Report 2 - Servers and SSH Keys (Week 3)
 
 As with the first lab report, you'll write this as a Github Pages page, then
-print that page to PDF and upload to Gradescope. Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. 
+print that page to PDF and upload to Gradescope. Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. Lab report 2 is due Wednesday, April 24 by 10pm. 
 There are 3 parts:
 
 ### Part 1
