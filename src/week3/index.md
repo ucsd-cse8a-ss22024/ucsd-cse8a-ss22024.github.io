@@ -88,7 +88,7 @@ SCP command usage: The `scp` command in Unix is used to securely copy files and 
 
 The general format is as follows:
 
-> `scp <file to be copied from local computer> <server address>`
+> `scp [file_name]  remoteuser@remotehost:/remote/directory`
 
 > `scp hello.txt username@ieng6.ucsd.edu:~/`
 
