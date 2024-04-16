@@ -48,7 +48,7 @@ will save _lots_ of time).
   - ![Image](../images/ssh-keygen.png)
  
 **Write down in notes:**
-The `ssh-keygen` command generates a public-private key pair; use the `cat` command to print out the content to each of these files. Include the two screenshots in the doc.
+The `ssh-keygen` command generates a public-private key pair; use the `cat` command to print out the content of the public key only. Include the screenshot in the doc.
 
 #### Step 2 SSH Copy ID
 
