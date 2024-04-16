@@ -53,7 +53,8 @@ The `ssh-keygen` command generates a public-private key pair; use the `cat` comm
 #### Step 2 SSH Copy ID
 
 Now we have the key generated. Let’s configure it in our remote ieng6 server!
-All you need to do is to type the following command:
+All you need to do is to type the following command (make sure to replace 
+`YOUR_TRITONLINK_USERNAME` with your actual username!):
 ```
 ssh-copy-id -i ~/.ssh/id_rsa.pub YOUR_TRITONLINK_USERNAME@ieng6.ucsd.edu
 ```
