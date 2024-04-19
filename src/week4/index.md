@@ -24,9 +24,9 @@
 ## Lab Tasks
 
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
-until the start of lab on Monday.
+until the start of lab.
 
-This week in lab, you will find symptoms of bugs by writing tests, and then
+This week in lab, you will find symptoms of bugs by writing tests and then
 narrow down the actual bug.
 
 ### Forking a Repo
@@ -39,8 +39,9 @@ The fork button is on the upper right:
 
 ![](/images/fork-button.png)
 
-This makes a copy of the repository on in your Github account. Then, clone **the
-repository that you forked** (not the original!) using the **SSH URL** in Visual Studio Code terminal.
+This makes a copy of the repository in your GitHub account. 
+
+Then, clone **the repository that you forked** (not the original!) using the **SSH URL** in Visual Studio Code terminal.
 
 ![Screenshot 2024-04-19 at 1 26 04 PM](https://github.com/ucsd-cse15l-s24/ucsd-cse15l-s24.github.io/assets/46422881/ca2fada1-4913-47d4-be24-b511219a9419)
 ```
@@ -130,14 +131,27 @@ test)? What was the symptom (the output when the test failed)? What was the bug
 3. The code change you need to make to fix the bug
 
 
-**Checkpoint** – After fixing the reverse methods, we want to save these changes to our Github repo. It's really useful to checkpoint your work this way; you will
-be able to see in the commit history every time you make a change and commit.
+**Checkpoint** – After fixing the reverse methods, we want to save these changes to your Github repo. It's really useful to checkpoint your work this way; you will be able to see in the commit history every time you make a change and commit.
 
-In order for these changes to appear on GitHub, we need to **commit** and **push** them. Open your terminal, and it should show that you have made a change in the `lab3` respository as seen in the image below (which shows the `wavelet` repo but it should look similar). Click the button shown at the bottom left that says `Commit to main`.
+In order for these changes to appear on GitHub, we need to **commit** and **push** them. 
+
+First, be sure you are in the correct directory, `lab3`.
+
+After making changes to your files, you need to add them to the staging area. This tells Git which changes you want to include in the next commit. To add all changes in the current directory and its subdirectories to the staging area, run:
+```
+git add .
+```
+If you only want to add specific files, you can replace `.` with the file names.
+
+Next, you need to commit them to the repository, which essentially is to save a snapshot of your changes. To commit, run:
+```
+git commit -m "Some concise message describing the change"
+```
 
 Next, for the changes to actually appear on GitHub, you need to **push** them. 
 
 ```
+git push origin main
 ```
 
 Now your changes to this repository should be visible in GitHub!
