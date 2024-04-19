@@ -39,9 +39,13 @@ The fork button is on the upper right:
 
 ![](/images/fork-button.png)
 
-This makes a copy of the repository on in your Github account. Then, clone the
-repository that you forked (not the original!) using Github Desktop, and open it
-in Visual Studio Code.
+This makes a copy of the repository on in your Github account. Then, clone **the
+repository that you forked** (not the original!) using the **SSH URL** in Visual Studio Code terminal.
+
+![Screenshot 2024-04-19 at 1 26 04 PM](https://github.com/ucsd-cse15l-s24/ucsd-cse15l-s24.github.io/assets/46422881/ca2fada1-4913-47d4-be24-b511219a9419)
+```
+git clone [SSH URL to your forked repository]
+```
 
 **Write down in notes** - Find the exact location of the cloned repository in your computer's file system and write down the entire pathname. It is worthwhile to keep track of where cloned repos are located and to organize your computer.
 
@@ -129,20 +133,19 @@ test)? What was the symptom (the output when the test failed)? What was the bug
 **Checkpoint** – After fixing the reverse methods, we want to save these changes to our Github repo. It's really useful to checkpoint your work this way; you will
 be able to see in the commit history every time you make a change and commit.
 
-In order for these changes to appear on GitHub, we need to **commit** and **push** them. Open your GitHub Desktop window, and it should show that you have made a change in the `lab3` respository as seen in the image below (which shows the `wavelet` repo but it should look similar). Click the button shown at the bottom left that says `Commit to main`.
+In order for these changes to appear on GitHub, we need to **commit** and **push** them. Open your terminal, and it should show that you have made a change in the `lab3` respository as seen in the image below (which shows the `wavelet` repo but it should look similar). Click the button shown at the bottom left that says `Commit to main`.
 
-![commit_github_desktop](/images/commit-github-desktop.png)
+Next, for the changes to actually appear on GitHub, you need to **push** them. 
 
-Next, for the changes to actually appear on GitHub, you need to **push** them. GitHub Desktop should now display a new screen. Click the `Push origin` button displayed in the screenshot below.
-
-![push_github_desktop](/images/push-github-desktop.png)
+```
+```
 
 Now your changes to this repository should be visible in GitHub!
 
 You can see more documentation about git and pushing your changes here:
 
 - [Key definitions about git](https://ucsd-cse15l-w24.github.io/week1/index.html#key-definitions)
-- [Github documentation about pushing changes](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
+- [Github documentation about pushing changes]()
 
 Next, for `averageWithoutLowest`, you will do a similar process as above, making sure to note symptoms, failure-inducing inputs, and bugs. But, this time, **your lab partner will brainstorm one of the tests for you to write, describe it to you at a high level, and then you will implement it.** Complete these steps as described below.
 1. **Write down in notes** - Come up with a high level description of a test that your lab partner should implement (without using any code!). Also include: Which symptom/bug is this testing for? Why is this test useful?
