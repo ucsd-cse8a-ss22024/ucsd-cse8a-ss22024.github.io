@@ -115,8 +115,8 @@ you can know roughly where we are headed.
 
 - [Lab 4 Activities](./week4/index.md)
 - Deadlines:
-  - Quiz 4 Due **Wednesday, January 31, 9am**
-  - Lab Report 2 Due **Tuesday, January 30, 10pm**
+  - Quiz 4 Due **Wednesday, April 24, 9am**
+  - Lab Report 2 Due **Wednesday, April 24, 10pm**
 - Lecture Materials:
   - [Monday Lecture Handout (Slides)]()
   - [Monday Lecture Handout (PDF)]()
