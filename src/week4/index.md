@@ -1,13 +1,10 @@
 # Week 4 – Testing and File Manipulation
 
-## Coming soon!
-<!-- ## Lecture Materials
+## Lecture Materials
 
-- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+<!--- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ0cpsywi0aLxS5DiKstIT2Eu8MljNHC/view?usp=sharing)
-- [Monday EdStem Workspace](https://edstem.org/us/courses/51148/workspaces/pmR1VvWUrmFdVdJ5zvaS8BpaeSiB7hMu)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13iOKAl6k-1018WpEJJIRf3UIzYnpfUdm/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-- [Wednesday EdStem Workspace](https://edstem.org/us/courses/51148/workspaces/pMeLipp0jL1QbeJ31Qc6NdH4XnroPcfr)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13iOKAl6k-1018WpEJJIRf3UIzYnpfUdm/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)-->
 
 ### To Read/For Your Reference
 
@@ -29,51 +26,8 @@
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
 until the start of lab on Monday.
 
-This week in lab, you will download Github Desktop, find symptoms of bugs by writing tests, and then
+This week in lab, you will find symptoms of bugs by writing tests, and then
 narrow down the actual bug.
-
-### Getting Set Up
-
-#### Downloading Java JDK
-
-If you don't have Java already installed, go ahead and download
-the latest Java JDK version from this [Oracle](https://www.oracle.com/java/technologies/downloads/) link.
-Download the version that has "Installer" in the file name for your specific device (Linux, macOS, Windows).
-
-#### Cloning with Github Desktop
-
-There are many ways to download the code from your repository and upload
-changes. We will use [Github Desktop](https://desktop.github.com/) to do this
-today, and see other options in the future. Even if you have some other
-preferred way to do this that you've used before, please do follow the tutorial!
-You may learn something new and useful.
-
-Download the [Desktop Client](https://desktop.github.com/) for Github. Install
-it, and log in with your Github account. The startup page should look something
-like this:
-
-![](/images/github-desktop.png)
-
-Then, you can get the code from your repository in one of several ways:
-
-- On the Github repository page, there is a `<> Code` button; you can click on that and
-choose “Open with Github Desktop”
-- From Github Desktop, you can choose “Clone a Repository from the Internet” and
-then choose your repository
-
-To test it out, try cloning your lab reports repository. You'll see a message
-about cloning, and then see this page:
-
-![](/images/github-after-clone.png)
-
-In this screenshot, you'll see the red circled part where it says `Open in Visual Studio Code`, which is where you can open your code in VS Code to edit your files directly! One thing that I often find a little surprising about this page is that it
-doesn't list any files – `index.md` is nowhere to be found here! This is because
-Github Desktop (and the underlying tool, `git`) are all about tracking and
-recording _changes_; we won't see much in this interface until we make some
-edits or create some new files.
-
-Today in lab, you'll clone another repository and work with it a bit, so
-you'll see how this works.
 
 ### Forking a Repo
 
@@ -292,4 +246,4 @@ Once both groups have found the issues, try again! Try to stump one another with
 plausible, but tough-to-find, bugs.
 
 Share your favorites with your team and tutor. We'll share a few of the best
-ones in class. -->
+ones in class.
