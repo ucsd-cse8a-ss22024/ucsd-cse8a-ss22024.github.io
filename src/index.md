@@ -109,7 +109,7 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/15jPpueKIIctNBL1dgkXj6TEyQdtpIXiU/view?usp=sharing)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12WAVMCkyDjOYnLK3g4VF5QXEfJ6zjgq0/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1-q-2oqlWWyC5_xm8Uq3oxBJ6_1U7D__3/view?usp=sharing)
-
+-->
 
 ### Week 4 - Testing and File Manipulation
 
@@ -118,11 +118,10 @@ you can know roughly where we are headed.
   - Quiz 4 Due **Wednesday, January 31, 9am**
   - Lab Report 2 Due **Tuesday, January 30, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ0cpsywi0aLxS5DiKstIT2Eu8MljNHC/view?usp=sharing)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13iOKAl6k-1018WpEJJIRf3UIzYnpfUdm/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+  - [Monday Lecture Handout (Slides)]()
+  - [Monday Lecture Handout (PDF)]()
+  - [Wednesday Lecture Handout (Slides)]()
 
--->
 
 ### Week 3 - VSCode and Your Local Machine
 
