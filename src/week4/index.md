@@ -41,11 +41,11 @@ The fork button is on the upper right:
 
 This makes a copy of the repository in your GitHub account. 
 
-Then, clone **the repository that you forked** (not the original!) using the **SSH URL** in Visual Studio Code terminal.
+Then, clone **the repository that you forked** (not the original!) in Visual Studio Code terminal.
 
-![Screenshot 2024-04-19 at 1 26 04 PM](https://github.com/ucsd-cse15l-s24/ucsd-cse15l-s24.github.io/assets/46422881/ca2fada1-4913-47d4-be24-b511219a9419)
+<!--![Screenshot 2024-04-19 at 1 26 04 PM](https://github.com/ucsd-cse15l-s24/ucsd-cse15l-s24.github.io/assets/46422881/ca2fada1-4913-47d4-be24-b511219a9419)-->
 ```
-git clone [SSH URL to your forked repository]
+git clone [URL to your forked repository]
 ```
 
 **Write down in notes** - Find the exact location of the cloned repository in your computer's file system and write down the entire pathname. It is worthwhile to keep track of where cloned repos are located and to organize your computer.
