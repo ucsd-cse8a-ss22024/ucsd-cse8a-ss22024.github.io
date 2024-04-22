@@ -116,11 +116,13 @@ you can know roughly where we are headed.
 - [Lab 4 Activities](./week4/index.md)
 - Deadlines:
   - Quiz 4 Due **Wednesday, April 24, 9am**
+  - Lab Report 1 Resubmission Due **Wednesday, April 24, 10pm**
   - Lab Report 2 Due **Wednesday, April 24, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)]()
-  - [Monday Lecture Handout (PDF)]()
-  - [Wednesday Lecture Handout (Slides)]()
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1LSHz4H-I7H1WFAnEHRlozzFP2VYqVLfo/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1NXIL8fczBH9P0ipu4s8bDEoF1aK8XEZ6/view?usp=share_link)
+  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ReQPttijJ_sJIjg_va65kdUCMzX_S5sd/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1K0shC6nYUf7_WtUmTy03MFvmiD2qVyQ3/view?usp=share_link)
 
 
 ### Week 3 - VSCode and Your Local Machine
@@ -128,8 +130,8 @@ you can know roughly where we are headed.
 - [Lab 3 Activities](./week3/index.md)
 - Deadlines:
   - Quiz 3 Due **Wednesday, April 17, 9am**
-  - Lab Report 2 Due **Wednesday, April 24, 10pm**
   - Lab Report 1 Resubmission Due **Wednesday, April 24, 10pm**
+  - Lab Report 2 Due **Wednesday, April 24, 10pm**
 - Lecture Materials:
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1Q207K_3xfZFjZ2rym9ie3XLZjBo8uvKb/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1iIC0GcET6Gmsr_Kz-MN1YblpBVSMcM6k/view?usp=share_link)

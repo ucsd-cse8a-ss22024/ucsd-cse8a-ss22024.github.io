@@ -2,9 +2,10 @@
 
 ## Lecture Materials
 
-<!--- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ0cpsywi0aLxS5DiKstIT2Eu8MljNHC/view?usp=sharing)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13iOKAl6k-1018WpEJJIRf3UIzYnpfUdm/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)-->
+- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1LSHz4H-I7H1WFAnEHRlozzFP2VYqVLfo/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1NXIL8fczBH9P0ipu4s8bDEoF1aK8XEZ6/view?usp=share_link)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ReQPttijJ_sJIjg_va65kdUCMzX_S5sd/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1K0shC6nYUf7_WtUmTy03MFvmiD2qVyQ3/view?usp=share_link)
 
 ### To Read/For Your Reference
 
