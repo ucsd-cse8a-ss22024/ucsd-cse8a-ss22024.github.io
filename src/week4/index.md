@@ -148,9 +148,27 @@ Next, you need to commit them to the repository, which essentially is to save a 
 ```
 git commit -m "Some concise message describing the change"
 ```
-Before we can **push** we will need to generate a GitHub Personal Access Token. To do that go to GitHub again and dlick your icon on the top right hand corner and click on **Settings** as shown in this image ![GitHub Settings](image.png)
+Before we can **push** we will need to generate a GitHub Personal Access Token. To do that, go to GitHub again and click your icon on the top right hand corner and click on **Settings** as shown in this image below: ![GitHub Settings](image.png)
 
-Next, we will scroll all the way down until we see **<> Developer Settings** as shown in this image: ![GitHub Developer Settings](image-1.png). Click on it and you will see a new page, and this time we will click on **Personal Access Tokens** and **Tokens (classic)** as shown in this image: ![GitHub Personal Access Tokens](image-2.png). Next we will **Generate a new token** as shown in the following image: ![GitHub Generate new token](image-3.png) and click on **Generate new token (classic)** ![GitHub Generate token selection](image-4.png) Once there, go ahead and authenticate. You will then see a new screen. Here you can name your token, I used "My First Token", set it to expire in 90 days, and selected Full control over the repo as shown below: ![GitHub Token settings](image-5.png). Next you will want to generate your new token and you will be able to copy it from the new page as shown below. ![GitHub Generate new token](image-6.png). Next go to your terminal where you will be accessing GitHub via command line and run the following line of code: `git config --global credential.helper manager` followed by `git config --global credential.helper 'cache --timeout=7776000'` where the timeout is set in seconds and 90 days would be 60s * 60m * 24h * 90d
+Next, we will scroll all the way down until we see **<> Developer Settings** as shown in this image: ![GitHub Developer Settings](image-1.png)
+
+Click on it and you will see a new page, and this time we will click on **Personal access tokens** and **Tokens (classic)** as shown in this image: ![GitHub Personal Access Tokens](image-2.png) 
+
+Next, we will **Generate a new token** as shown in the following image: ![GitHub Generate new token](image-3.png) and click on **Generate new token (classic)** ![GitHub Generate token selection](image-4.png) 
+
+Once there, go ahead and authenticate. You will then see a new screen. Here you can name your token, I used "My First Token", set it to expire in 90 days, and checked the "repo" box to give it Full control over the repo as shown below: ![GitHub Token settings](image-5.png) 
+
+Then, you will want to generate your new token and you will be able to copy it from the new page as shown below: ![GitHub Generate new token](image-6.png) 
+
+Afterwards, go to your terminal in VS Code where you will be accessing GitHub via command line and run the following line of code: 
+```
+git config --global credential.helper manager
+``` 
+followed by: 
+```
+git config --global credential.helper 'cache --timeout=7776000'
+```
+where the timeout is set in seconds and 90 days would be 60s * 60m * 24h * 90d.
 
 Next, for the changes to actually appear on GitHub, you need to **push** them. 
 
@@ -158,7 +176,9 @@ Next, for the changes to actually appear on GitHub, you need to **push** them.
 git push origin main
 ```
 
-Where you will be asked for your username, which will be your GitHub username and password, where the password is your GitHub Personal Access Token (PAT). **Note: When you paste in your token you will not see any changes to your shell, but rest assured you have copied in your token, As shown below:
+You'll be asked for your Github username and password, where the password is your GitHub Personal Access Token (PAT) that we just generated. 
+
+**Important Note:** When you paste in your token, you will not see any changes to your shell but rest assured - you have copied in your token, as shown below:
 ![GitHub Update chat-server repo](image-7.png)
 
 Now your changes to this repository should be visible in GitHub!
