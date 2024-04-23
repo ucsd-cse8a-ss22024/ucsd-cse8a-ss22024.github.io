@@ -34,7 +34,7 @@ narrow down the actual bug.
 
 Make a fork of this repository (it's OK if it's public):
 
-[https://github.com/ucsd-cse15l-f23/lab3](https://github.com/ucsd-cse15l-f23/lab3)
+[https://github.com/ucsd-cse15l-s24/lab3](https://github.com/ucsd-cse15l-s24/lab3)
 
 The fork button is on the upper right:
 
