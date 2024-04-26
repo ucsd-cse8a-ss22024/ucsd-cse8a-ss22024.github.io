@@ -1,7 +1,6 @@
 # Week 5 – File Exploration and Text Analysis from the Command Line
 
-## Coming soon!
-<!-- ## Lecture Materials
+## Lecture Materials
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12_-kvpyzGMU5LaTJgjQMxbRoZhN3P9Ly/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/15jPpueKIIctNBL1dgkXj6TEyQdtpIXiU/view?usp=sharing)
@@ -426,5 +425,5 @@ exposed to and learn all of the possible tricks and inner workings.
 
 Along with each option/mode you show, **cite your source** for how you found out
 about it as a URL or a description of where you found it. See the [syllabus](https://ucsd-cse15l-w24.github.io/index.html#lab-reports-and-academic-integrity) on Academic Integrity and how to 
-cite sources like ChatGPT for this class.  -->
+cite sources like ChatGPT for this class.
 
