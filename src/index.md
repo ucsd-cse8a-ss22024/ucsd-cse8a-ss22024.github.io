@@ -96,20 +96,20 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1UqCrST7Cd_-e8aJkHdmmBUyrYNbrPbHw/view?usp=sharing)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12itRtbSPi6b9tkYgjJe4dArs1JFq3NET/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1agzsyQa7yg4pL5nFRFLE84YiJvNnFJ1p/view?usp=sharing)
+-->
 
 ### Week 5 – File Exploration and Text Analysis from the Command Line
 
 - [Lab 5 Activities](./week5/index.md)
 - Deadlines:
-  - Quiz 5 Due **Wednesday, February 7, 9am**
-  - Lab Report 3 Due **Tuesday, February 13, 10pm**
-  - Lab Report 2 Resubmission Due **Tuesday, February 13, 11:59pm**
+  - Quiz 5 Due **Wednesday, May 1, 9am**
+  - Lab Report 3 Due **Wednesday, May 8, 10pm**
+  - Lab Report 2 Resubmission Due **Wednesday, May 8, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12_-kvpyzGMU5LaTJgjQMxbRoZhN3P9Ly/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/15jPpueKIIctNBL1dgkXj6TEyQdtpIXiU/view?usp=sharing)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12WAVMCkyDjOYnLK3g4VF5QXEfJ6zjgq0/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1-q-2oqlWWyC5_xm8Uq3oxBJ6_1U7D__3/view?usp=sharing)
--->
+  - [Monday Lecture Handout (Slides)]()
+  - [Monday Lecture Handout (PDF)]()
+  - [Wednesday Lecture Handout (Slides)]()
+  - [Wednesday Lecture Handout (PDF)]()
 
 ### Week 4 - Testing and File Manipulation
 
