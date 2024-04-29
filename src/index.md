@@ -103,13 +103,13 @@ you can know roughly where we are headed.
 - [Lab 5 Activities](./week5/index.md)
 - Deadlines:
   - Quiz 5 Due **Wednesday, May 1, 9am**
-  - Lab Report 3 Due **Wednesday, May 8, 10pm**
   - Lab Report 2 Resubmission Due **Wednesday, May 8, 10pm**
+  - Lab Report 3 Due **Wednesday, May 8, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)]()
-  - [Monday Lecture Handout (PDF)]()
-  - [Wednesday Lecture Handout (Slides)]()
-  - [Wednesday Lecture Handout (PDF)]()
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1M8WTtOy30kY1zUE_wz5LD37fISr8kgxY/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1dyX7sHrPPQo4Ym9d0JmdnLT8HtMedeHz/view?usp=share_link)
+  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1kZoZFKM0BGyJtpfCA3x_6ZoFdAkMfPBd/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1zTMsdfkl4aaNCgQlHaf504L3m4mygZ8U/view?usp=share_link)
 
 ### Week 4 - Testing and File Manipulation
 
