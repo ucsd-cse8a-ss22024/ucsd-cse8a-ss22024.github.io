@@ -70,7 +70,7 @@ code, you should figure out where to add it_
       - Useful tools here are `if` and `-e`/`-f`. You can use the `exit` command to
     quit a bash script early. These are summarized in the [week 4 Wednesday
     lecture
-    handout](https://docs.google.com/presentation/d/13iOKAl6k-1018WpEJJIRf3UIzYnpfUdm/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+    handout](https://drive.google.com/file/d/1K0shC6nYUf7_WtUmTy03MFvmiD2qVyQ3/view)
 3. Get the student code, the `.java` file with the grading tests, and any other
 files the script needs into the `grading-area` directory. _The `grading-area`
 directory is created for you, but you should move the files there._
