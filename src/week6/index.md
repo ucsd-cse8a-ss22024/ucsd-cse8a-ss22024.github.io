@@ -138,7 +138,7 @@ your own. Try to come up with at least two examples:
 
 - One that is wrong but is likely to get full scores
 - One that is mostly correct but crashes the grader and doesn't give a nice
-  error back (and is likely to cause a Piazza/EdStem post saying “the grader
+  error back (and is likely to cause a Piazza post saying “the grader
   is broken!”)
 
 You should create these as **new, public Github repositories**, so that you can
