@@ -253,7 +253,7 @@ may not use the same types in this offering) [[W22 demo
 demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
 
 On each you'll get a **Full Pass** (2 points), **Partial Pass** (1 point), or **Try Again** (0 points) as your score.
-In finals week, you'll have the opportunity to improve scores for two skill demonstrations.
+In finals week, you'll have the opportunity to improve scores for two skill demonstrations. If you miss the skill demonstration for any reason, it counts as a Try Again and you can retake it.
 
 There will be skill demonstrations in weeks 3, 5, 7, and 9 of the quarter. More details
 about how you'll complete them will be shared in lab (you'll practice the format and we'll talk about
