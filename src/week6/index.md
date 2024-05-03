@@ -1,21 +1,17 @@
 # Week 6 - Scripting, CI, and Autograding
 
-## Coming soon!
-<!-- ## Lecture Materials
+## Lecture Materials
 
-- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12uJMpqCtK4eky0nco598ltxUuwP_wqQy/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1UqCrST7Cd_-e8aJkHdmmBUyrYNbrPbHw/view?usp=sharing)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12itRtbSPi6b9tkYgjJe4dArs1JFq3NET/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1agzsyQa7yg4pL5nFRFLE84YiJvNnFJ1p/view?usp=sharing)
-- Monday Notes <iframe src="https://drive.google.com/file/d/11YI4XEsycQ83YOLeBabSLLJNvMK2SJWK/preview" width="100%" height="600px"></iframe>
+- [Monday Lecture Handout (Slides)]()
+- [Monday Lecture Handout (PDF)]()
+- [Wednesday Lecture Handout (Slides)]()
+- [Wednesday Lecture Handout (PDF)]()
 
 ### Video Shorts
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z_iR6mXNvO8?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1BF1mqHwESw?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2_riXejzcKg?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Lab Tasks
 
@@ -184,4 +180,4 @@ more like Gradescope's autograder? (Think about running for different students,
 storing grades, presenting results, etc)
 
 Congratulations! You've done one kind of the work that your TAs do when setting
-up classes 🙂 -->
+up classes 🙂 
