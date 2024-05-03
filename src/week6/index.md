@@ -39,7 +39,7 @@ This will work with a test file that _you_ write in order to grade students'
 work. You can use this repository to get started with your grader
 implementation; you should **make a fork**:
 
-[https://github.com/ucsd-cse15l-s23/list-examples-grader](https://github.com/ucsd-cse15l-s23/list-examples-grader)
+[https://github.com/ucsd-cse15l-s24/list-examples-grader](https://github.com/ucsd-cse15l-s24/list-examples-grader)
 
 As part of your work, you'll need to **add new tests** (or copy them from your
 work on Week 4's repo called lab3) to the testing file, because the few tests that are there
@@ -68,9 +68,9 @@ provided script_
 detect and give helpful feedback about it. _This is not done by the provided
 code, you should figure out where to add it_
       - Useful tools here are `if` and `-e`/`-f`. You can use the `exit` command to
-    quit a bash script early. These are summarized in the [week 4 Wednesday
+    quit a bash script early. These are summarized in the [week 5 Monday
     lecture
-    handout](https://drive.google.com/file/d/1K0shC6nYUf7_WtUmTy03MFvmiD2qVyQ3/view)
+    handout](https://drive.google.com/file/d/1dyX7sHrPPQo4Ym9d0JmdnLT8HtMedeHz/view?usp=sharing)
 3. Get the student code, the `.java` file with the grading tests, and any other
 files the script needs into the `grading-area` directory. _The `grading-area`
 directory is created for you, but you should move the files there._
@@ -78,7 +78,7 @@ directory is created for you, but you should move the files there._
 4. Compile your tests and the student's code from the appropriate directory
 with the appropriate classpath commands (remember that if you're testing
 locally on Windows, the [classpath is
-different](https://ucsd-cse15l-w24.github.io/week4/index.html#:~:text=OK%20(2%20tests)-,WINDOWS%20USERS%3A,-local%20%24%20javac%20%2Dcp)). If the compilation fails, detect and
+different](https://ucsd-cse15l-s24.github.io/week4/index.html#:~:text=OK%20(2%20tests)-,WINDOWS%20USERS%3A,-local%20%24%20javac%20%2Dcp)). If the compilation fails, detect and
 give helpful feedback about it. _You should add this_
       - Aside from the necessary `javac`, useful tools here are output redirection
     and error codes (`$?`) along with `if`
