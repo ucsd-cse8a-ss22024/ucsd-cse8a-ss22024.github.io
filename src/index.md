@@ -83,20 +83,20 @@ you can know roughly where we are headed.
   - [Monday Lecture Video (Holiday, no handout)](https://drive.google.com/file/d/1Dlxi5vlfHKRu5v3Vwr7OMbZuINohMn1q/preview)
   - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/13WNkdI6pSdmGcbousnF0AGn_9Lvu1fIj/view?usp=drive_link)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13bwkHYiLGMRSD8t5Pl-pSZHE-V2fe6FS/edit?usp=drive_link&ouid=117453768726816085396&rtpof=true&sd=true)
+-->
 
 ### Week 6 – Scripting, CI, and Autograding
 
 - [Lab 6 Activities](./week6/index.md)
 - Deadlines:
-  - Quiz 6 Due **Wednesday, February 14, 9am**
-  - Lab Report 3 Due **Tuesday, February 13, 10pm**
-  - Lab Report 2 Resubmission Due **Tuesday, February 13, 11:59pm**
+  - Quiz 6 Due **Wednesday, May 8, 9 am**
+  - Lab Report 3 Due **Tuesday, May 8, 10 pm**
+  - Lab Report 2 Resubmission Due **Tuesday, May 8, 10 pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12uJMpqCtK4eky0nco598ltxUuwP_wqQy/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1UqCrST7Cd_-e8aJkHdmmBUyrYNbrPbHw/view?usp=sharing)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12itRtbSPi6b9tkYgjJe4dArs1JFq3NET/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1agzsyQa7yg4pL5nFRFLE84YiJvNnFJ1p/view?usp=sharing)
--->
+  - [Monday Lecture Handout (Slides)]()
+  - [Monday Lecture Handout (PDF)]()
+  - [Wednesday Lecture Handout (Slides)]()
+  - [Wednesday Lecture Handout (PDF)]()
 
 ### Week 5 – File Exploration and Text Analysis from the Command Line
 
