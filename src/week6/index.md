@@ -2,10 +2,10 @@
 
 ## Lecture Materials
 
-- [Monday Lecture Handout (Slides)]()
-- [Monday Lecture Handout (PDF)]()
-- [Wednesday Lecture Handout (Slides)]()
-- [Wednesday Lecture Handout (PDF)]()
+- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/16GabVOQnu6V4pQq6-SsH0sCNXZSdbImH/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1IK5-AMJuSKYqx9uyquiXDEDzBXcIIm0t/view?usp=share_link)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/17DAOczk2ZKRUexAdHVNEZ7h7R7JcetXk/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/19NkFMx1euJP6wjv6pJ1ojNRNgerTwZ7X/view?usp=share_link)
 
 ### Video Shorts
 
