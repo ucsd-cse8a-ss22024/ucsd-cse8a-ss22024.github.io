@@ -90,8 +90,8 @@ you can know roughly where we are headed.
 - [Lab 6 Activities](./week6/index.md)
 - Deadlines:
   - Quiz 6 Due **Wednesday, May 8, 9 am**
-  - Lab Report 2 Resubmission Due **Tuesday, May 8, 10 pm**
-  - Lab Report 3 Due **Tuesday, May 8, 10 pm**
+  - Lab Report 2 Resubmission Due **Wednesday, May 8, 10 pm**
+  - Lab Report 3 Due **Wednesday, May 8, 10 pm**
 - Lecture Materials:
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/16GabVOQnu6V4pQq6-SsH0sCNXZSdbImH/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1IK5-AMJuSKYqx9uyquiXDEDzBXcIIm0t/view?usp=share_link)
