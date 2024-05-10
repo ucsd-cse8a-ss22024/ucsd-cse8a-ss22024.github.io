@@ -2,7 +2,7 @@
 
 ## Lecture Materials
 
-- [Monday Lecture Handout]
+- [Monday Lecture Handout (PDF)]
 - [Wednesday Lecture Handout (PDF)]
 
 ## Related Links
