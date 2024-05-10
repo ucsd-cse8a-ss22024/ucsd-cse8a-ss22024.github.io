@@ -72,6 +72,7 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/14EV0i0urY3vycA2ZZs11XvdYjRQ6lBB7/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1eAoODTAVoxD-37UKxT6P-mjmkNg7puAu/view?usp=sharing)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1491K1SwkcP7o3ulwt8kFrQRe-Z1rJqRb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+-->
 
 ### Week 7 – Doing it All from the Command Line
 
@@ -80,10 +81,8 @@ you can know roughly where we are headed.
   - Quiz 7 Due **Wednesday, February 21, 9am**
   - Lab Report 4 Due **Tuesday, February 27, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Video (Holiday, no handout)](https://drive.google.com/file/d/1Dlxi5vlfHKRu5v3Vwr7OMbZuINohMn1q/preview)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/13WNkdI6pSdmGcbousnF0AGn_9Lvu1fIj/view?usp=drive_link)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13bwkHYiLGMRSD8t5Pl-pSZHE-V2fe6FS/edit?usp=drive_link&ouid=117453768726816085396&rtpof=true&sd=true)
--->
+  - [Monday Lecture Handout]
+  - [Wednesday Lecture Handout (PDF)]
 
 ### Week 6 – Scripting, CI, and Autograding
 
