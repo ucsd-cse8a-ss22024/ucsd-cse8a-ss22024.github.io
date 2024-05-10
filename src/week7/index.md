@@ -1,6 +1,5 @@
 # Week 7 - Doing it All from the Command Line
 
-## Coming soon!
 ## Lecture Materials
 
 - [Monday Lecture Handout]
