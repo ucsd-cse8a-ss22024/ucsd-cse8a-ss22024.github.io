@@ -1,12 +1,10 @@
 # Week 7 - Doing it All from the Command Line
 
 ## Coming soon!
-<!-- ## Lecture Materials
+## Lecture Materials
 
-- [Monday Lecture Video (Holiday, no handout)]
-  <iframe src="https://drive.google.com/file/d/1Dlxi5vlfHKRu5v3Vwr7OMbZuINohMn1q/preview" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/13WNkdI6pSdmGcbousnF0AGn_9Lvu1fIj/view?usp=drive_link)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13bwkHYiLGMRSD8t5Pl-pSZHE-V2fe6FS/edit?usp=drive_link&ouid=117453768726816085396&rtpof=true&sd=true)
+- [Monday Lecture Handout]
+- [Wednesday Lecture Handout (PDF)]
 
 ## Related Links
 
@@ -266,4 +264,4 @@ for running the tests:
 > org.junit.runner.JUnitCore ...` command was 4 up in the history, so I accessed
 > and ran it in the same way.
 
-Add this lab report to your Github Pages site, and submit a PDF of it as usual. -->
+Add this lab report to your Github Pages site, and submit a PDF of it as usual.
