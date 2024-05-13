@@ -78,11 +78,15 @@ you can know roughly where we are headed.
 
 - [Lab 7 Activities](./week7/index.md)
 - Deadlines:
-  - Quiz 7 Due **Wednesday, February 21, 9am**
-  - Lab Report 4 Due **Tuesday, February 27, 10pm**
+  - Quiz 7 Due **Wednesday, May 15, 9am**
+  - Lab Report 3 Resubmission Due **Wednesday, May 22, 10pm**
+  - Lab Report 4 Due **Wednesday, May 22, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout]
-  - [Wednesday Lecture Handout (PDF)]
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1gII7MgcFcO3zmhmUXzN3lxwsko-K0jWc/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/10Si0gmiWDdKHulEku3P1AIHL8NtWGiRg/view?usp=share_link)
+  - [Monday Presentation (Slides)](https://docs.google.com/presentation/d/1spPrbhbIzFTTH2-PykXBfrN3DYZ4geI0/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
+  - [Monday Presentation (PDF)](https://drive.google.com/file/d/1dcMvQtbw4iHqG3KaSAHEpRVbpa-F1gcn/view?usp=share_link)
+  - No Lecture/Lecture Handout Wednesday!
 
 ### Week 6 – Scripting, CI, and Autograding
 
