@@ -34,7 +34,7 @@ After the 20 minutes are up, clone this repository which has a subset of the
 code from the week 3 lab:
 
 ```
-$ git clone https://github.com/ucsd-cse15l-s23/lab7
+$ git clone https://github.com/ucsd-cse15l-s24/lab7
 ```
 
 Then, **in pairs**, you are going to write down _exactly_ the keys to press to
@@ -107,7 +107,7 @@ help you save a lot of time!
 #### Generating SSH Keys for ieng6
 
 If you haven't yet, go back to the [week 3
-lab](https://ucsd-cse15l-w24.github.io/week3/index.html#part-3-setting-up-ssh-keys-for-easy-access-and-two-new-commands)
+lab](https://ucsd-cse15l-s24.github.io/week3/index.html#part-1--ssh-keys--scp)
 and make sure you are set up to SSH without a password using keys!
 
 #### Generating SSH Keys for GitHub
@@ -118,7 +118,7 @@ machine, which in our case will be the ieng6 machine.
 
 Create a private SSH key file on ieng6. This is a **new** private key just for
 accessing Github from your course-specific account.
-- Login to ieng6 as usual (hopefully, without typing a password now!)
+- Login to `ieng6` as usual (hopefully, without typing a password now!)
 - Run the command `ssh-keygen`, and again press Enter until the command completes and shows the "randomart image"
 
 Next, we want to add the public key to your **Github** account. This is like
@@ -142,10 +142,10 @@ Go back to the `ieng6` terminal and:
 - Run the following command to add Github.com as a recognized host (this avoids
 the scary yes/no prompt about accepting new connections the first time you
 connect)
-  - `$ ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts`
+  - `ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts`
   - `>>` means "append stdout of the command to file"
 - Check your connection by running the following command: 
-  - `$ ssh -T git@github.com`
+  - `ssh -T git@github.com`
   - It will say something like "Hi supercoolstudent1234! You've successfully authenticated, but GitHub does not provide shell access."
 
 Now we have an SSH key which can be used to authenticate to GitHub! In addition to
@@ -160,8 +160,8 @@ change, and pushing it with the command line.
 
 **Important**: For the rest of the lab, make sure to clone using the `SSH` clone URLs as described above!
 
-If you're not sure how to add, commit, and push from the command line, refer to
-[this past lecture video](https://drive.google.com/file/d/1Dlxi5vlfHKRu5v3Vwr7OMbZuINohMn1q/view).
+If you're not sure how to add, commit, and push from the command line, refer to the [week 4 lab](https://ucsd-cse15l-s24.github.io/week4/index.html#adding-committing-and-pushing-on-github). You can also
+look at [this past lecture video](https://drive.google.com/file/d/1Dlxi5vlfHKRu5v3Vwr7OMbZuINohMn1q/view).
 
 Make sure you can make a change to your repository by editing, adding, and
 pushing all from the command line before going on!
@@ -174,15 +174,16 @@ First, we'll take a baseline measurement of performing the tasks above by timing
 yourself. Your phone may have a timer app, or you can find one by searching for
 online timers. The steps from above are duplicated here:
 
-1. **Setup** Delete any existing forks of the repository you have on your account
-2. **Setup** Fork the [repository](https://github.com/ucsd-cse15l-s23/lab7)
+1. **Setup** Delete any existing forks of the repository you have on your account. See this [Github
+   link](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository) on how to delete forks. 
+2. **Setup** Fork the [repository](https://github.com/ucsd-cse15l-s24/lab7)
 3. **The real deal** Start the timer!
-1. Log into ieng6
-2. Clone your fork of the repository from your Github account (using the `SSH` URL)
-3. Run the tests, demonstrating that they fail
-4. Edit the code file to fix the failing test
-5. Run the tests, demonstrating that they now succeed
-6. Commit and push the resulting change to your Github account (you can pick any commit message!) 
+4. Log into ieng6
+5. Clone your fork of the repository from your Github account (using the `SSH` URL)
+6. Run the tests, demonstrating that they fail
+7. Edit the code file to fix the failing test
+8. Run the tests, demonstrating that they now succeed
+9. Commit and push the resulting change to your Github account (you can pick any commit message!) 
 
 **Write down in notes:** What was your baseline time? Did your lab partner have
 a faster baseline than you? If so, do they have any tips to help you get
