@@ -134,20 +134,8 @@ test)? What was the symptom (the output when the test failed)? What was the bug
 
 **Checkpoint** – After fixing the reverse methods, we want to save these changes to your Github repo. It's really useful to checkpoint your work this way; you will be able to see in the commit history every time you make a change and commit.
 
-In order for these changes to appear on GitHub, we need to **commit** and **push** them. 
+#### GitHub Personal Access Token
 
-First, be sure you are in the correct directory, `lab3`.
-
-After making changes to your files, you need to add them to the staging area. This tells Git which changes you want to include in the next commit. To add all changes in the current directory and its subdirectories to the staging area, run:
-```
-git add .
-```
-If you only want to add specific files, you can replace `.` with the file names.
-
-Next, you need to commit them to the repository, which essentially is to save a snapshot of your changes. To commit, run:
-```
-git commit -m "Some concise message describing the change"
-```
 Before we can **push** we will need to generate a GitHub Personal Access Token. To do that, go to GitHub again and click your icon on the top right hand corner and click on **Settings** as shown in this image below: ![GitHub Settings](image.png)
 
 Next, we will scroll all the way down until we see **<> Developer Settings** as shown in this image: ![GitHub Developer Settings](image-1.png)
@@ -169,6 +157,23 @@ followed by:
 git config --global credential.helper 'cache --timeout=7776000'
 ```
 where the timeout is set in seconds and 90 days would be 60s * 60m * 24h * 90d.
+
+#### Adding, Committing, and Pushing on GitHub
+
+In order for these changes to appear on GitHub, we need to **commit** and **push** them. 
+
+First, be sure you are in the correct directory, `lab3`.
+
+After making changes to your files, you need to add them to the staging area. This tells Git which changes you want to include in the next commit. To add all changes in the current directory and its subdirectories to the staging area, run:
+```
+git add .
+```
+If you only want to add specific files, you can replace `.` with the file names.
+
+Next, you need to commit them to the repository, which essentially is to save a snapshot of your changes. To commit, run:
+```
+git commit -m "Some concise message describing the change"
+```
 
 Next, for the changes to actually appear on GitHub, you need to **push** them. 
 
