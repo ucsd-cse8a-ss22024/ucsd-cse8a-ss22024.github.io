@@ -6,7 +6,6 @@
 - [Monday EdStem Workspace]()
 - [Wednesday Lecture Handout (PDF)]()
 - [Wednesday Lecture Handout (Slides)]()
-- Monday Notes <iframe src="https://drive.google.com/file/d/1erszbTMKaTs8Ee3ZmeEvkLU4rG-6Q3Mc/preview" width="100%" height="600px"></iframe>
 
 ### To Watch/Read
 
