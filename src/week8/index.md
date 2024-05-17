@@ -27,7 +27,9 @@ Discuss with your group:
 Fork the repo [chat-server-pro](https://github.com/ucsd-cse15l-w24/chat-server-pro), making sure you **unselect** "copy the main branch only." Here's a screenshot of what that looks like:
 ![main-branch](../../images/main-branch.png)
 
-Then, after `ssh`ing into ieng6, clone your **fork** of the `chat-server-pro` repo. 
+Then, after `ssh`ing into ieng6, in the terminal, try the `uname -a` and `hostnamectl` commands. Take a screenshot of the outputs and describe what you think they mean in your lab document. Note that you might need to install `hostnamectl` if you see the error `-bash: hostnamectl: command not found`.
+
+Next, clone your **fork** of the `chat-server-pro` repo. 
 
 Make sure you can `javac` and `java` as per usual to build and run your tests: 
 ```
