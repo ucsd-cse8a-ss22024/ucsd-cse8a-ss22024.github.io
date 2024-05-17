@@ -1,8 +1,6 @@
 # Week 8 - Debuggers and Controlling Processes
 
-## Coming soon!
-
-<!-- ## Lecture Materials
+## Lecture Materials
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1XTtv6DswnhH3i3tBmEW31eTW-FCOte7Q/view?usp=sharing)
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/14EV0i0urY3vycA2ZZs11XvdYjRQ6lBB7/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday EdStem Workspace](https://edstem.org/us/courses/51148/workspaces/pJq0Arr9rHhhaIXhq4RkmOzLhfBTnpMY)
@@ -128,7 +126,7 @@ unable to get via the stack trace of the exception?
 statements to do so?
 - Discuss the `/semantic-analysis` command – What emoji's are there? How are they being analyzed and how is the semantic implemented? How could these type of methods be useful for analyzing other chat histories?
 
-<!--
+
 ### More Debugger Uses
 
 After compiling the new branch, run the `ChatServer` code, 
