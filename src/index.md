@@ -60,19 +60,19 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/11tcaVqKZ5rObHG_ELemC4vv_nLAkuTv-/view?usp=sharing)
   - [Monday Lecture Video](https://drive.google.com/file/d/1rlE3De2MB3BSmZNxx9tM6uxkytGp762H/preview)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11rShyB0RQEbEyW9KKs-DxYhGBq_QUiFW/edit?usp=sharing&ouid=113414061309195332500&rtpof=true&sd=true)
+-->
 
 ### Week 8 – Doing it All from the Command Line
 
 - [Lab 8 Activities](./week8/index.md)
 - Deadlines:
-  - Quiz 8 Due **Wednesday, February 28, 9am**
-  - Lab Report 4 Due **Tuesday, February 27, 10pm**
+  - Quiz 8 Due **Wednesday, May 22, 9am**
+  - Lab Report 4 Due **Wednesday, May 22, 10pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1XTtv6DswnhH3i3tBmEW31eTW-FCOte7Q/view?usp=sharing)
-  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/14EV0i0urY3vycA2ZZs11XvdYjRQ6lBB7/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1eAoODTAVoxD-37UKxT6P-mjmkNg7puAu/view?usp=sharing)
-  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1491K1SwkcP7o3ulwt8kFrQRe-Z1rJqRb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
--->
+  - [Monday Lecture Handout (PDF)]()
+  - [Monday Lecture Handout (Slides)]()
+  - [Wednesday Lecture Handout (PDF)]()
+  - [Wednesday Lecture Handout (Slides)]()
 
 ### Week 7 – Doing it All from the Command Line
 
