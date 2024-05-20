@@ -1,8 +1,8 @@
 # Week 8 - Debuggers and Controlling Processes
 
 ## Lecture Materials
-- [Monday Lecture Handout (PDF)]()
-- [Monday Lecture Handout (Slides)]()
+- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1E5iChRUNHxBsgKxqxFEn934gd88duM3W/view?usp=sharing)
+- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1IZHveydzgZcC_2Zxw02QiZjCGAjdU6ay/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
 - [Monday EdStem Workspace]()
 - [Wednesday Lecture Handout (PDF)]()
 - [Wednesday Lecture Handout (Slides)]()
