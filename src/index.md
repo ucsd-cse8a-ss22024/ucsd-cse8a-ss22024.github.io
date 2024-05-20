@@ -67,6 +67,7 @@ you can know roughly where we are headed.
 - [Lab 8 Activities](./week8/index.md)
 - Deadlines:
   - Quiz 8 Due **Wednesday, May 22, 9am**
+  - Lab Report 3 Resubmission Due **Wednesday, May 22, 10pm**
   - Lab Report 4 Due **Wednesday, May 22, 10pm**
 - Lecture Materials:
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1E5iChRUNHxBsgKxqxFEn934gd88duM3W/view?usp=sharing)
