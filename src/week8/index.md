@@ -3,7 +3,6 @@
 ## Lecture Materials
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1E5iChRUNHxBsgKxqxFEn934gd88duM3W/view?usp=sharing)
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1IZHveydzgZcC_2Zxw02QiZjCGAjdU6ay/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
-- [Monday EdStem Workspace]()
 - [Wednesday Lecture Handout (PDF)]()
 - [Wednesday Lecture Handout (Slides)]()
 
@@ -24,7 +23,7 @@ Discuss with your group:
 
 **Everyone** should do this; it's skill practice that you all need.
 
-Fork the repo [chat-server-pro](https://github.com/ucsd-cse15l-w24/chat-server-pro), making sure you **unselect** "copy the main branch only." Here's a screenshot of what that looks like:
+Fork the repo [chat-server-pro](https://github.com/ucsd-cse15l-s24/chat-server-pro), making sure you **unselect** "copy the main branch only." Here's a screenshot of what that looks like:
 ![main-branch](../../images/main-branch.png)
 
 Then, after `ssh`ing into ieng6, in the terminal, try the `uname -a` and `hostnamectl` commands. Take a screenshot of the outputs and describe what you think they mean in your lab document. Note that you might need to install `hostnamectl` if you see the error `-bash: hostnamectl: command not found`.
