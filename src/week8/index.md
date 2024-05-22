@@ -3,8 +3,8 @@
 ## Lecture Materials
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1E5iChRUNHxBsgKxqxFEn934gd88duM3W/view?usp=sharing)
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1IZHveydzgZcC_2Zxw02QiZjCGAjdU6ay/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
-- [Wednesday Lecture Handout (PDF)]()
-- [Wednesday Lecture Handout (Slides)]()
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/16aFiYik5XXcYYSggtj9MYle7rDg-qLgj/view?usp=drive_link)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1RbDN3sqSz2W0_nUUSjpZ2OgeFxhqlXhp/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
 
 ### To Watch/Read
 
