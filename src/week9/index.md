@@ -1,8 +1,7 @@
 # Week 9 – Code Review/It Works on My Machine
 
 ## Lecture Materials
-- [Monday Lecture Handout (PDF)]()
-- [Monday Lecture Video]
+- [No Lecture on Monday -- Memorial Day]
 - [Wednesday Lecture Handout (Slides)]()
 
 ## Lab Tasks
