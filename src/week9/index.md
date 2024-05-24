@@ -1,6 +1,5 @@
 # Week 9 – Code Review/It Works on My Machine
 
-## Coming soon!
 ## Lecture Materials
 - [Monday Lecture Handout (PDF)]()
 - [Monday Lecture Video]
