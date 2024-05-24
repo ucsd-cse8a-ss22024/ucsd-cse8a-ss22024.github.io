@@ -1,14 +1,13 @@
 # Week 9 – Code Review/It Works on My Machine
 
 ## Coming soon!
-<!-- ## Lecture Materials
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/11tcaVqKZ5rObHG_ELemC4vv_nLAkuTv-/view?usp=sharing)
+## Lecture Materials
+- [Monday Lecture Handout (PDF)]()
 - [Monday Lecture Video]
-  <iframe src="https://drive.google.com/file/d/1rlE3De2MB3BSmZNxx9tM6uxkytGp762H/preview" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11rShyB0RQEbEyW9KKs-DxYhGBq_QUiFW/edit?usp=sharing&ouid=113414061309195332500&rtpof=true&sd=true)
+- [Wednesday Lecture Handout (Slides)]()
 
 ## Lab Tasks
-    
+
 Discuss with your group:
     
 ![Image](../../images/fictional_map.png)
@@ -194,7 +193,7 @@ part of managing a software system.
 
 ### Part 1 – Debugging Scenario
 
-Design a debugging scenario, and write your report as a conversation on EdStem.
+Design a debugging scenario, and write your report as a conversation on Piazza (you don't need to make a post).
 It should have:
 
 1. The original post from a student with a screenshot showing a symptom and a
@@ -232,4 +231,4 @@ writeup, we just want to hear about cool things you learned!
 ### A Note on Grading at the End of the Quarter
 
 We will try, but there **might not** be a resubmission window for lab report 5,
-so do your best to be thorough, creative, and clear in your submission. -->
+so do your best to be thorough, creative, and clear in your submission.
