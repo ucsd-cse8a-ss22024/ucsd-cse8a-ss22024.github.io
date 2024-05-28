@@ -34,30 +34,18 @@ into a good state.
 Don't worry about perfection; focus most on it being able to run and grade some
 of the sample submissions.
 
-
 When you're happy with it, have one partner make a **new** repository on Github
 named `grader-review-<username>` where `<username>` is one of your usernames.
 
-To do this, navigate to any GitHub page and click the `+` button in the top right corner, as seen on the screenshot below. A dropdown menu will appear, and you will click   `New repository`.
+To do this, navigate to any GitHub page and click the `+` button in the top right corner, as seen on the screenshot below. A dropdown menu will appear, and you will click `Import repository`.
 
-![Image](../../images/github_new_repo_dropdown.png)
+![Image](../../images/import-repo.png)
 
-From there, a page will pop up which allows you to set some attributes of your new repository. The only thing you need to change is the name, as seen in the following screenshot. You do not need to alter any other settings, and can press the green `Create repository` button at the bottom.
+From there, a page will pop up which allows you to set some attributes of your new repository. In the first box where it says `The URL for your source repository`, you will paste the ***HTTPS*** url of the GitHub repository which contains your grading script to-be-reviewed. Then, in the `Repository name`, you'll put grader-review-<username>` where `<username>` is one of your GitHub usernames. Finally, click the green `Begin import` button on the bottom right and wait for your code to be transferred over.
 
-![Image](../../images/github_new_repo_page.png)
+![Image](../../images/import-repo2.png)
 
-Now, we want this new repository to contain the version of your autograder that you want reviewed (This step
-makes it so pull requests and issues will work in the last step later). To do that, you should navigate to your newly-created repository on GitHub. 
-
-Currently, it should be empty. You should see something like the screenshot below. We want to import your grading script code (which should exist in some other GitHub repo) into this repository. Click the `Import code` button circled in red below.
-
-![Image](../../images/import_code_to_new_repo.png)
-
-After clicking the above button, a page will pop up which asks you for "Your old repository's clone URL". Here, you will paste the ***HTTPS*** url of the GitHub repository which contains your grading script to-be-reviewed. Click the green `Begin import` button and wait for your code to be transferred over.
-
-![Image](../../images/import_github_code_page.png)
-
-After the import is complete, navigate to the Settings page of this new repository and within the General page, under Features enable Issues
+After the import is complete, navigate to the Settings page of this new repository and within the General page, under Features enable Issues.
 
 Before sharing, we should also make sure that it will work for others, and
 doesn't only work on your machine! All too often it's easy to write programs
