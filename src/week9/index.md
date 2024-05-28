@@ -216,5 +216,6 @@ writeup, we just want to hear about cool things you learned!
 
 ### A Note on Grading at the End of the Quarter
 
-We will try, but there **might not** be a resubmission window for lab report 5,
-so do your best to be thorough, creative, and clear in your submission.
+There **will not** be a resubmission window for Lab Report 5,
+so do your best to be thorough, creative, and clear in your submission 
+and make sure to submit by the deadline.
