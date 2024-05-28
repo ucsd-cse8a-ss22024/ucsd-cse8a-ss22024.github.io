@@ -41,7 +41,7 @@ To do this, navigate to any GitHub page and click the `+` button in the top righ
 
 ![Image](../../images/import-repo.png)
 
-From there, a page will pop up which allows you to set some attributes of your new repository. In the first box where it says `The URL for your source repository`, you will paste the ***HTTPS*** url of the GitHub repository which contains your grading script to-be-reviewed. Then, in the `Repository name`, you'll put grader-review-<username>` where `<username>` is one of your GitHub usernames. Finally, click the green `Begin import` button on the bottom right and wait for your code to be transferred over.
+From there, a page will pop up which allows you to set some attributes of your new repository. In the first box where it says `The URL for your source repository`, you will paste the ***HTTPS*** url of the GitHub repository which contains your grading script to-be-reviewed. Then, in the `Repository name`, you'll put `grader-review-<username>` where `<username>` is one of your GitHub usernames. Finally, click the green `Begin import` button on the bottom right and wait for your code to be transferred over.
 
 ![Image](../../images/import-repo2.png)
 
