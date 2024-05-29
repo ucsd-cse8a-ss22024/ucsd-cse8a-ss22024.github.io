@@ -2,7 +2,8 @@
 
 ## Lecture Materials
 - [No Lecture on Monday -- Memorial Day]
-- [Wednesday Lecture Handout (Slides)]()
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1fajzQYbx-58n6lbKenDEpNuj8dYBkTH9/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1whfGbGpm_JlxohhfS_TMjAvUjTpH1rP1/view?usp=sharing)
 
 ## Lab Tasks
 

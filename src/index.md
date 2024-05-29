@@ -58,9 +58,8 @@ you can know roughly where we are headed.
   - Lab Report 5 Due **Wednesday, June 5, 10pm**
   - Lab Report 4 Resubmission Due **Wednesday, June 5, 11:59pm**
 - Lecture Materials:
-  - [Monday Lecture Handout (PDF)]()
-  - [Monday Lecture Video]()
-  - [Wednesday Lecture Handout (Slides)]()
+  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1fajzQYbx-58n6lbKenDEpNuj8dYBkTH9/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
+  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1whfGbGpm_JlxohhfS_TMjAvUjTpH1rP1/view?usp=sharing)
 
 ### Week 8 – Doing it All from the Command Line
 
