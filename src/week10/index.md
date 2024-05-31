@@ -1,13 +1,11 @@
 # Week 10 – Wrapping Up
 
-## Coming soon!
-<!-- ## Lecture Materials
+## Lecture Materials
 
 Come to class for review and discussion!
 
 ## Extra Video Shorts
 
-- Week 9 Skill Demo Solution <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8ig3HS4o2Tc?si=MLSB0fwgWDvXCLxr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Lab Tasks
 
@@ -160,4 +158,4 @@ starters are below, but don't be limited to these:
 
 Once you've spent a few minutes thinking and writing something down, start
 asking! Feel free to mix groups, listen in on other conversations, move around
-the room, and ask these questions to the lead TA, too! -->
+the room, and ask these questions to the lead TA, too!
