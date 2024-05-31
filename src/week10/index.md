@@ -36,7 +36,7 @@ or hard about noticing the error? What could you do in the future to notice or
 fix it more quickly?
 
 _(This is good practice and gives some understanding about what we do as course
-staff when we see your EdStem posts!)_
+staff when we see your questions/piazza posts!)_
 
 One skill we're practicing here is **reproducing** bugs. In general when
 reporting issues or asking questions, there's a question of
