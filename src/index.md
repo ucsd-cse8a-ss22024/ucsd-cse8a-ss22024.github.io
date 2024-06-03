@@ -49,6 +49,8 @@ you can know roughly where we are headed.
   - Lab Report 5 Due (No Resubmission) **Wednesday, June 5, 10pm**
   - Lab Report 4 Resubmission Due **Wednesday, June 5, 11:59pm**
 - Lecture Materials:
+  - [Monday & Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1vLVcpbxBnsZoybxzIRVzt3YVubtUVAiW/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
+  - [Monday & Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1bi0ZLuVb399Cw0K6ArVlZsUJWG7WkBbL/view?usp=sharing)
   
 ### Week 9 - Code Review/It Works on My Machine
 - [Lab 9 Activities](./week9/index.md)

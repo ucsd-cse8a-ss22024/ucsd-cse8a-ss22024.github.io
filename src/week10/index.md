@@ -2,7 +2,11 @@
 
 ## Lecture Materials
 
-Come to class for review and discussion!
+- Monday's Lecture: Debugging in VS Code
+- Wednesday's Lecture: How to use AI for faster and better coding!
+- Lecture Materials:
+  - [Monday & Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1vLVcpbxBnsZoybxzIRVzt3YVubtUVAiW/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
+  - [Monday & Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1bi0ZLuVb399Cw0K6ArVlZsUJWG7WkBbL/view?usp=sharing)
 
 ## Lab Tasks
 
