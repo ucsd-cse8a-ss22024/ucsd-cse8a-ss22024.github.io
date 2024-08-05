@@ -17,16 +17,18 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [Warren Lecture Hall 2207](https://map.concept3d.com/?id=1005#!m/246292), Mon/Wed (check your schedule)
+- Lecture: [Pepper Canyon Hall 122](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246320?s/PCYNH_Main?mc/32.8794361313778,-117.23379499999999?z/18?lvl/0?share), Mon-Thurs (check your schedule)
 - Labs: [Computer Science Engineering Basement B260](https://map.concept3d.com/?id=1005#!m/164780) Tuesday (check your schedule)
-- “Skill Demonstration” Exams: Flexible scheduling in weeks 3, 5, 7, and 9
-  - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill demos
-  - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill demos
+- PA's/Homework:
+  - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - Under the homework section (autograded)
+- “Skill Demonstration” Exams: Flexible scheduling in weeks 2,3,4 and 5
+  - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill demos (autograded)
+  - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill demos and skill demo results
 - Final Exam (used for making up test credit): Flexible scheduling throughout the quarter. Maximum of 2 Make ups for Skill Demos.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: Discord link on Canvas!
-- Code Q&A Forum: TBA [//]: # [Piazza](https://piazza.com/ucsd/spring2024/cse15l_sp24/info)
+- Code Q&A Forum: TBA [//]: # [Piazza](https://piazza.com/class/lzh47a2eus718n)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
 - Textbook/readings: There's no official textbook, but we will link to
   different online resources for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
@@ -34,6 +36,7 @@ This web page serves as the main source of announcements and resources for the c
   - [Learn AI-Assisted Python Programming](https://www.oreilly.com/library-access/?next=/library/view/learn-ai-assisted-python/9781633437784/) by Porter and Zingaro.  Available for free as an eBook through the UC San Diego library (requires SSO).
 
 ## Office Hours Calendar
+TBA
 <!-- <iframe src="https://calendar.google.com/calendar/embed?src=c_20fa0da1f4a3e319f0e14594281a18ffc302f315e85c6aeb018cb5500f1a4ef9%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 ## Schedule
@@ -175,7 +178,7 @@ There are several components to the course:
 - **Lecture sessions**
 - **Weekly quizzes**
 - **Weekly Homework**
-<!-- - **Lab reports/portfolio posts** -->
+- **Lab reports**
 - **Proctored Computerized exams**
 
 <!--
@@ -198,10 +201,10 @@ absences. However, tracking excused absences doesn't really scale, so the “two
 for any reason” policy is how we handle it. You don't need to justify your
 missed labs. Contact the instructor if you'll miss more than 2 labs for
 unavoidable reasons.
-
+-->
 ### Lecture Sessions
 
-Lecture sessions are on Monday and Wednesday.
+Lecture sessions are on Monday through Thursday.
 
 In each lecture, we'll have a paper handout (also available electronically). At
 the end of lecture you'll have a chance submit your handout to Gradescope. You
@@ -217,7 +220,7 @@ late submissions.  We recommend completing them while watching the podcast.
 We'll have TAs on hand as backup to collect the physical paper/help you scan and
 submit if you have any issue submitting. See [Grading](#grading) below for the
 required submissions and how that impacts your grade.
-
+<!--
 ### Weekly Quizzes
 
 Each week there will be an online, untimed, multiple-tries quiz due on
@@ -268,34 +271,39 @@ Skill demonstrations will take place in CSE B250, **unless you have an AFA lette
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.   
 
+-->
 ## Grading
 
-Each component of the course has a minimum achievement level to get an A, B, or
-C in the course. You must reach that achievement level in _all_ of the
-categories to get an A, B, or C.
+In order to get an A in the class it is recommended that you get an A in each component of the course. A+'s will be assigned at the end of the quarter and only to students showing exemplary accomplishments across all components of the course, and have shown strong collaboration with their peers.
 
-- **A** achievement:
-    - 8 or more lab participation (out of 10 labs)
-    - At least 12 total lab report points
-    - At least 7 total skill demo points (**Full Pass** on any 3 of the skill demonstrations, **Partial Pass** on the 4th)
-- **B** achievement:
-    - 6 or 7 lab participation
-    - At least 10 total lab report points
-    - At least 6 total skill demo points (**Full Pass** on any 3 of the skill demonstrations, or **Partial Pass** on two and **Full Pass** on two)
-- **C** achievement:
-    - 4 or 5 lab participation
-    - At least 8 total lab report points
-    - At least 4 total skill demo points
+A table that contains the grading scheme data. Each row contains a name, a maximum percentage, and a minimum percentage.
 
+| Letter | Grade	Range |
+| --- | --- |
+A	| 100% to 94%
+A-| < 94% to 90%
+B+| < 90% to 87%
+B | < 87% to 84% 
+B-| < 84% to 80% 
+C+| < 80% to 77% 
+C | < 77% to 74% 
+C-| < 74% to 70%
+D |< 70% to 60% 
+F | < 60%
 
-Pluses and minuses will be given around the boundaries of these categories at
-the instructor's discretion and based on quiz/lecture participation.  I don't
-publish an exact number for these in advance, but it's consistent across the
-class. A general guideline is: if you submit all of the lecture handouts and
-all of the quizzes on time and complete, that will definitely add a `+` to the
-grade. If you submit no lecture handouts and no quizzes, that will definitely
-add a `-` to the grade.  If you submit about half of each and get things generally
-mostly correct, there will be no modifier.
+** A+'s will be assigned to those that performed exemplary throughout the quarter at the instructors discretion
+** If a student fails to get 55% at any category (shown below) of the class, it will result in an F for the course.
+
+The weighted breakdown of each category is as follows:
+
+| Category | Percentage |
+| --- | --- |
+Participation | 5%
+Quizzes | 15%
+Homeworks | 10%
+Project | 15%
+Skill Demos | 40%
+Closed Lab | 15%
 
 ## Policy
 
@@ -395,9 +403,9 @@ grade, but do take them seriously before lab so you're prepared.
 
 **I missed a lab report deadline, what should I do?**
 
-Two weeks after each lab report deadline there is a late/resubmission deadline.
+One week after each lab report deadline there is a late/resubmission deadline.
 You can resubmit then. See the lab report section above for grading details
-about resubmissions.
+about resubmissions. Note there will be no resubmission for the last lab report.
 
 **I missed a lab report resubmission deadline, what should I do?**
 
@@ -406,8 +414,9 @@ multiple late deadlines and still grade all the coursework on time.
 
 **I missed my skill demonstration time, what should I do?**
 
-Stay tuned for announcements about scheduling make-ups in finals week.
--->
+You will need to use your 1 make-up. No other make-ups are allowed.
+Scheduling: Stay tuned for announcements about scheduling make-ups in finals week.
+
 **Where is the financial aid survey?**
 
 We do this for you; as long as you submit a quiz, lecture handout, or do a lab
