@@ -1,4 +1,4 @@
-![doodle](./Doodle.png)
+![doodle<img src="./ML_drawing_light.png" width="572" height="856" />](./Doodle.png)
 
 # UCSD CSE8A SSII 2024 Introduction to Python
 
