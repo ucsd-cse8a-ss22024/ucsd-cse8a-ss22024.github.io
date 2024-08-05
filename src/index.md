@@ -1,6 +1,6 @@
 ![doodle](./doodle.jpg)
 
-# UCSD CSE15L S24 Syllabus and Logistics
+# UCSD CSE8A SSII 2024 Introduction to Python
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
 
@@ -26,22 +26,23 @@ This web page serves as the main source of announcements and resources for the c
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: Discord link on Canvas!
-- Code Q&A Forum: [Piazza](https://piazza.com/ucsd/spring2024/cse15l_sp24/info)
+- Code Q&A Forum: TBA [//]: # [Piazza](https://piazza.com/ucsd/spring2024/cse15l_sp24/info)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
 - Textbook/readings: There's no official textbook, but we will link to
   different online resources for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
-  - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
-  - Not free but pretty cheap: [Julia Evans Zines](https://wizardzines.com/), especially [The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide/)
+  - [Intro to Programming in Python](https://stepik.org/course/84164/) by Soosai Raj, et al.  Available for free on Stepik (requires you to create an account).
+  - [Learn AI-Assisted Python Programming](https://www.oreilly.com/library-access/?next=/library/view/learn-ai-assisted-python/9781633437784/) by Porter and Zingaro.  Available for free as an eBook through the UC San Diego library (requires SSO).
 
 ## Office Hours Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=c_20fa0da1f4a3e319f0e14594281a18ffc302f315e85c6aeb018cb5500f1a4ef9%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<!-- <iframe src="https://calendar.google.com/calendar/embed?src=c_20fa0da1f4a3e319f0e14594281a18ffc302f315e85c6aeb018cb5500f1a4ef9%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+-->
 ## Schedule
 
 The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
+<!-- 
 ### Week 10 - Wrapping Up
 - [Lab 10 Activities](./week10/index.md)
 - Deadlines:
@@ -165,7 +166,7 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1Www0Q1A9zz81rR_Fjj34uZEGPDqqagEH/view?usp=drive_link)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11bHOml_DsYjuls-pEVNO_CXezTZDLz6D/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
   - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1Z3vDLy-9_ZGhuRo9qDrNiaDPC3PQ-6P8/view?usp=share_link)
-
+-->
 ## Syllabus
 
 There are several components to the course:
@@ -173,9 +174,11 @@ There are several components to the course:
 - **Lab sessions**
 - **Lecture sessions**
 - **Weekly quizzes**
-- **Lab reports/portfolio posts**
-- **Skill demonstrations**
+- **Weekly Homework**
+<!-- - **Lab reports/portfolio posts** -->
+- **Proctored Computerized exams**
 
+<!--
 ### Labs
 
 The course's lab component meets for 2 hours. In each lab you'll switch between
@@ -252,9 +255,7 @@ Several times during the quarter, you will complete a _skill demonstrations_
 advance, and then in the demo you'll demonstrate that you can do the task plus some follow-up tasks that are presented during the demonstration.
 You can look at the skill demonstrations
 from previous offerings for a sense of what tasks we assign (though we may or
-may not use the same types in this offering) [[W22 demo
-1]](https://ucsd-cse15l-w22.github.io/week/week5/#skill-demonstration-1) [[W22
-demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
+may not use the same types in this offering)
 
 On each you'll get a **Full Pass** (2 points), **Partial Pass** (1 point), or **Try Again** (0 points) as your score.
 During week 10, you'll have the opportunity to improve scores for two skill demonstrations. Sign ups for these make up skill demos will be released during week 8. If you miss the skill demonstration for any reason, it counts as a Try Again.
@@ -406,7 +407,7 @@ multiple late deadlines and still grade all the coursework on time.
 **I missed my skill demonstration time, what should I do?**
 
 Stay tuned for announcements about scheduling make-ups in finals week.
-
+-->
 **Where is the financial aid survey?**
 
 We do this for you; as long as you submit a quiz, lecture handout, or do a lab
