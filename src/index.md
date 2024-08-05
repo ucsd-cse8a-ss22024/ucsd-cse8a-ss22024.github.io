@@ -1,4 +1,4 @@
-![doodle](./doodle.jpg)
+![doodle](./Doodle.png)
 
 # UCSD CSE8A SSII 2024 Introduction to Python
 
