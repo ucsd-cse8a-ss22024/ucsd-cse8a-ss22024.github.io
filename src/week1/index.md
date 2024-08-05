@@ -1,6 +1,7 @@
 # Week 1 – Markdown, URLs and Paths
 
 ## Lecture Materials
+TBA
 <!--
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1cxIwoXDNbln7vfYcr-LpF1aXfUyUT7UN/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1Www0Q1A9zz81rR_Fjj34uZEGPDqqagEH/view?usp=drive_link)
