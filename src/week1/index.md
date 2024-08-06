@@ -4,9 +4,9 @@
 
 - [Monday Lecture & Discussion Notes (PDF)](https://drive.google.com/file/d/1heSQZJd1mWS3z6JV8f2ffFuHoAjEYlNt/view?usp=sharing)
 - [Monday Colab Notebook](https://colab.research.google.com/drive/1sjCAChvyubvIzYFHw646Re8mkzSCS6bY?usp=sharing)
+- [Tuesday Slides (PDF)](https://drive.google.com/file/d/1v4HYi01Ec9_H6yXJZsS1pyBnzi3PplLH/view?usp=sharing)
+- [Tuesday Lecture Handout (PDF)](https://drive.google.com/file/d/1JO_NZiKmnqYod221WzlTje-cL0Y0wJMh/view?usp=sharing)
 <!--
-- [Tuesday Slides (PDF)]()
-- [Tuesday Lecture Handout (PDF)]()
 - [Tuesday Colab Notebook]()
 - [Wednesday Lecture Handout (Slides)]()
 - [Wednesday Lecture Handout (PDF)]()
