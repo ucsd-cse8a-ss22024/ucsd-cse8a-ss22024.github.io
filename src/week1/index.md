@@ -1,4 +1,4 @@
-# Week 1 – Github, Prairielearn, variables, string functions and operators
+# Week 1 – Github, PrairieLearn, Variables, String Functions and Operators
 
 ## Lecture Materials
 
@@ -6,6 +6,17 @@
 - [Monday Colab Notebook](https://colab.research.google.com/drive/1sjCAChvyubvIzYFHw646Re8mkzSCS6bY?usp=sharing)
 - [Tuesday Slides (PDF)](https://drive.google.com/file/d/1v4HYi01Ec9_H6yXJZsS1pyBnzi3PplLH/view?usp=sharing)
 - [Tuesday Lecture Handout (PDF)](https://drive.google.com/file/d/1JO_NZiKmnqYod221WzlTje-cL0Y0wJMh/view?usp=sharing)
+
+## Part 1: Getting to Know Your Peers, Ice Breaker Activity: (5 mins)
+It's important to find a partner for pair programming.
+Introduce yourself to the person next to you (Name, academic year, major).
+Then, play a game called 'Three Ps', where each person shares three facts about themselves: something personal (like your favorite food), something professional, and something peculiar.
+
+
+
+
+
+
 <!--
 - [Tuesday Colab Notebook]()
 - [Wednesday Lecture Handout (Slides)]()
