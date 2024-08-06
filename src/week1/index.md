@@ -1,4 +1,4 @@
-# Week 1 – Markdown, URLs and Paths
+# Week 1 – Github, Prairielearn, variables, string functions and operators
 
 ## Lecture Materials
 
