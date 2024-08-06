@@ -1,11 +1,10 @@
 # Week 1 – Markdown, URLs and Paths
 
 ## Lecture Materials
-TBA
+
+- [Monday Lecture & Discussion Notes (PDF)](https://drive.google.com/file/d/1heSQZJd1mWS3z6JV8f2ffFuHoAjEYlNt/view?usp=sharing)
+- [Monday Colab Notebook](https://colab.research.google.com/drive/1sjCAChvyubvIzYFHw646Re8mkzSCS6bY?usp=sharing)
 <!--
-- [Monday Lecture Notes (PDF)]()
-- [Monday Discussion Notes (PDF)]()
-- [Monday Colab Notebook]()
 - [Tuesday Slides (PDF)]()
 - [Tuesday Lecture Handout (PDF)]()
 - [Tuesday Colab Notebook]()
