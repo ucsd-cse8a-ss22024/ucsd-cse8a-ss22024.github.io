@@ -3,10 +3,18 @@
 ## Lecture Materials
 TBA
 <!--
-- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1cxIwoXDNbln7vfYcr-LpF1aXfUyUT7UN/edit?usp=sharing&ouid=101439555037145107514&rtpof=true&sd=true)
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1Www0Q1A9zz81rR_Fjj34uZEGPDqqagEH/view?usp=drive_link)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11bHOml_DsYjuls-pEVNO_CXezTZDLz6D/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1Z3vDLy-9_ZGhuRo9qDrNiaDPC3PQ-6P8/view?usp=share_link)
+- [Monday Lecture Notes (PDF)]()
+- [Monday Discussion Notes (PDF)]()
+- [Monday Colab Notebook]()
+- [Tuesday Slides (PDF)]()
+- [Tuesday Lecture Handout (PDF)]()
+- [Tuesday Colab Notebook]()
+- [Wednesday Lecture Handout (Slides)]()
+- [Wednesday Lecture Handout (PDF)]()
+- [Wednesday Colab Notebook]()
+- [Thursday Lecture Handout (Slides)]()
+- [Thursday Lecture Handout (PDF)]()
+- [Thursday Colab Notebook]()
 -->
 <!--
 ## Related Links
@@ -47,7 +55,7 @@ website, even under a pseudonym.
 
 ### Part 1 – Meet Your Group!
 
-We will split into groups of 6-8 students for discussion. For week 1, you may sit
+We will split into groups of 5-8 students. For week 1, you may sit
 wherever you want and choose who you want to work with. Starting week 2, we will have
 assigned seating and groups. These
 groups will be somewhat stable throughout the quarter, though some small changes
