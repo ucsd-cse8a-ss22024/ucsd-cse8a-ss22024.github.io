@@ -45,7 +45,7 @@ This web page serves as the main source of announcements and resources for the c
   - [Learn AI-Assisted Python Programming](https://www.oreilly.com/library-access/?next=/library/view/learn-ai-assisted-python/9781633437784/) by Porter and Zingaro.  Available for free as an eBook through the UC San Diego library (requires SSO).
 
 ## Office Hours Calendar
-TBA
+<iframe src="https://calendar.google.com/calendar/u/0/r?cid=Y184OWMxYmQzYjNjYTZiODZmMWIyYmMxMzJhYzdhMDgwNTc4ZjlkZTI5YmZhYzEzODQ3NjNmNDU2NTExMzFjYjU2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <!-- <iframe src="https://calendar.google.com/calendar/embed?src=c_20fa0da1f4a3e319f0e14594281a18ffc302f315e85c6aeb018cb5500f1a4ef9%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 ## Schedule
