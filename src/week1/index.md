@@ -46,7 +46,7 @@ If you do not have a GitHub account already, please go ahead and create one now!
 
 GitHub Codespaces is a great way to quickly set up a programming environment directly from GitHub.
 
-**Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. This may take a few days, so if you are not yet approved for Codespaces, you will not be able to create one this week. However, please make sure to apply for it this week, since we will be using Codespaces in the future.
+**Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. This may take a few days, so if you are not yet approved for Codespaces, you will not be able to create one this week. However, please make sure to apply for it today, since we will be using Codespaces in the future.
 
 *Once you have set up Codespaces,* go to this [repository](https://github.com/ucsd-cse8a-ss22024/lab1) on GitHub. Click “<> Code”, click then "Codespaces", then "Create codespace on main".
 Now, you have a full programming development environment, which you can use to edit files and run code!
@@ -55,6 +55,8 @@ Now, you have a full programming development environment, which you can use to e
 ## Part 4: Introduction to PrairieLearn
 
 PrairieLearn is an platform where you will be completing programming assignments and skill demonstrations. For today's lab, log into [PrairieLearn](https://www.prairielearn.com/).
+
+Navigate to the CSE 8A course and click on "Lab 1". There are several questions to work through, which you may do in pairs.
 
 <!--
 - [Tuesday Colab Notebook]()
