@@ -13,11 +13,26 @@
 - Then, play a game called 'Three Ps', where each person shares three facts about themselves: something personal (like your favorite food), something professional, and something peculiar.
 
 
-# Part 2: Setting up a GitHub Account
+## Part 2: Setting up a GitHub Account
 
-# Part 3: GitHub Codespaces
+Having a professional portfolio website for yourself can be useful in many, many
+ways. It's a useful URL to put at the top of your resume/CV where potential
+employers can learn more about you.  Lots of great work in CS is published only on
+someone's personal page, or is at least most accessible there.  Most CS faculty
+have such a page ([just](https://roseyu.com/) [a
+few examples](https://cseweb.ucsd.edu/~tzli/) [from new](http://kvaccaro.com/) CSE
+faculty), for example.
 
-# Part 4: Introduction to PrairieLearn
+Github ([https://www.github.com](github.com)) is a web service for storing and
+sharing code, along with a huge number of services surrounding that code. It
+uses a tool and protocol called `git` [https://git-scm.com/](https://git-scm.com) to store and
+retrieve that code.
+
+If you do not have a GitHub account already, please go ahead and create one now! Ask your TAs and tutors if you have any questions.
+
+## Part 3: GitHub Codespaces
+
+## Part 4: Introduction to PrairieLearn
 
 
 
