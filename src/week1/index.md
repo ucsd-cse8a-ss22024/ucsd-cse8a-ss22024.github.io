@@ -56,7 +56,7 @@ Now, you have a full programming development environment, which you can use to e
 
 PrairieLearn is an platform where you will be completing programming assignments and skill demonstrations. For today's lab, log into [PrairieLearn](https://www.prairielearn.com/).
 
-Navigate to the CSE 8A course and click on "Lab 1". There are several questions to work through, which you may do in pairs.
+Navigate to the CSE 8A course and click on "Lab 1". There are several questions to work through, which you may do in pairs. As always, ask your tutors or TA if you have any questions!
 
 <!--
 - [Tuesday Colab Notebook]()
