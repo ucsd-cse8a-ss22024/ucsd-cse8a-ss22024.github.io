@@ -45,7 +45,7 @@ If you do not have a GitHub account already, please go ahead and create one now!
 
 GitHub Codespaces is a great way to quickly set up a programming environment directly from GitHub.
 
-**Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces (which comes with the GitHub Student Developer Pack). This may take a few days, so if you are not yet approved, you will not be able to create a Codespace this week. However, please make sure to apply for it today, since we will be using Codespaces in the future.
+**Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces (which comes with the GitHub Student Developer Pack). You can sign up [here](https://education.github.com/discount_requests/application)! This may take a few days, so if you are not yet approved, you will not be able to create a Codespace this week. However, please make sure to apply for it today, since we will be using Codespaces in the future.
 
 *Once you have set up Codespaces,* go to this [repository](https://github.com/ucsd-cse8a-ss22024/lab1) on GitHub. Click “<> Code”, click then "Codespaces", then "Create codespace on main".
 Now, you have a full programming development environment, which you can use to edit files and run code!
