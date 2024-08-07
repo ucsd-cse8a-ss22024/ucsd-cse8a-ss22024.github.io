@@ -1,4 +1,4 @@
-# Week 1 – Github, PrairieLearn, Variables, String Functions and Operators
+# Week 1 – GitHub, PrairieLearn, Variables, String Functions and Operators
 
 ## Lecture Materials
 
@@ -8,6 +8,7 @@
 - [Tuesday Lecture Handout (PDF)](https://drive.google.com/file/d/1JO_NZiKmnqYod221WzlTje-cL0Y0wJMh/view?usp=sharing)
 
 ## Part 1: Getting to Know Your Peers, Ice Breaker Activity (5 mins)
+
 We will split into groups of 3-4 students. For week 1, you may sit wherever you want and choose who you want to work with. Starting week 2, we will have assigned seating and groups.
 These groups will be somewhat stable throughout the quarter, though some small changes
 will likely happen. You will have a tutor or TA assigned to your group for help.
@@ -50,7 +51,7 @@ Now, you have a full programming development environment, which you can use to e
 
 ## Part 4: Introduction to PrairieLearn
 
-
+PrairieLearn is an platform where you will be completing programming assignments and skill demonstrations. For today's lab, log into [PrairieLearn](https://www.prairielearn.com/).
 
 <!--
 - [Tuesday Colab Notebook]()
