@@ -8,9 +8,12 @@
 - [Tuesday Lecture Handout (PDF)](https://drive.google.com/file/d/1JO_NZiKmnqYod221WzlTje-cL0Y0wJMh/view?usp=sharing)
 
 ## Part 1: Getting to Know Your Peers, Ice Breaker Activity (5 mins)
-- It's important to find a partner for pair programming.
-- Introduce yourself to the person next to you (Name, academic year, major).
-- Then, play a game called 'Three Ps', where each person shares three facts about themselves: something personal (like your favorite food), something professional, and something peculiar.
+We will split into groups of 5-8 students. For week 1, you may sit
+wherever you want and choose who you want to work with. Starting week 2, we will have
+assigned seating and groups. These
+groups will be somewhat stable throughout the quarter, though some small changes
+will likely happen. You will have a tutor or TA assigned to your group for help
+and discussion.
 
 
 ## Part 2: Setting up a GitHub Account
@@ -28,13 +31,13 @@ sharing code, along with a huge number of services surrounding that code. It
 uses a tool and protocol called `git` [https://git-scm.com/](https://git-scm.com) to store and
 retrieve that code.
 
-If you do not have a GitHub account already, please go ahead and create one now! Ask your TAs and tutors if you have any questions.
+If you do not have a GitHub account already, please go ahead and create one now! Ask your TAs and tutors if you have any questions about setting it up.
 
 ## Part 3: GitHub Codespaces
 
 GitHub Codespaces is a great way to quickly set up a programming environment directly from GitHub.
 
-**Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. This may take a few days, so if you are not yet approved for Codespaces, you will not be able to create one this week. However, please make sure to apply for it this week, since we will be using Codespaces in future weeks.
+**Important Note:** Make sure you apply for your Github Student Account in order to get access to the codespaces. This may take a few days, so if you are not yet approved for Codespaces, you will not be able to create one this week. However, please make sure to apply for it this week, since we will be using Codespaces in the future.
 
 *Once you have set up Codespaces,* go to this [repository](https://github.com/ucsd-cse8a-ss22024/lab1) on GitHub. Click “<> Code”, click then "Codespaces", then "Create codespace on main".
 Now, you have a full programming development environment, which you can use to edit files and run code!
