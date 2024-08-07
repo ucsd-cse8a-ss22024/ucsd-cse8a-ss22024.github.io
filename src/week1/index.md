@@ -8,13 +8,18 @@
 - [Tuesday Lecture Handout (PDF)](https://drive.google.com/file/d/1JO_NZiKmnqYod221WzlTje-cL0Y0wJMh/view?usp=sharing)
 
 ## Part 1: Getting to Know Your Peers, Ice Breaker Activity (5 mins)
-We will split into groups of 5-8 students. For week 1, you may sit
-wherever you want and choose who you want to work with. Starting week 2, we will have
-assigned seating and groups. These
-groups will be somewhat stable throughout the quarter, though some small changes
-will likely happen. You will have a tutor or TA assigned to your group for help
-and discussion.
+We will split into groups of 3-4 students. For week 1, you may sit wherever you want and choose who you want to work with. Starting week 2, we will have assigned seating and groups.
+These groups will be somewhat stable throughout the quarter, though some small changes
+will likely happen. You will have a tutor or TA assigned to your group for help.
 
+In your groups, share:
+- How you'd like people to refer to you (pronounce your name/nickname, pronouns like he/her/they, etc)
+- Your major
+- One of:
+    - A UCSD student organization you're a member of or interested in
+    - Your favorite place you've found on campus so far
+    - A useful campus shortcut or trick you know
+- Your answer to the following question. Discuss why you chose that answer. ![Image](../../images/rulers.png)
 
 ## Part 2: Setting up a GitHub Account
 
