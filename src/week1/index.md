@@ -53,7 +53,7 @@ Now, you have a full programming development environment, which you can use to e
 
 ## Part 4: Introduction to PrairieLearn
 
-PrairieLearn is an platform where you will be completing programming assignments and skill demonstrations. For today's lab, log into [PrairieLearn](https://www.prairielearn.com/).
+PrairieLearn is an platform where you will be completing programming assignments and skill demonstrations. For today's lab, log into [PrairieLearn](https://www.prairielearn.com/). You will need to make an account if you haven't done so already! Make sure to select CSE8A SSII2024 when you enroll. 
 
 Navigate to the CSE 8A course and click on "Lab 1". There are several questions to work through, which you may do in pairs. As always, ask your tutors or TA if you have any questions!
 
