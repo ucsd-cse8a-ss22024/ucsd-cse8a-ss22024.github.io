@@ -25,7 +25,7 @@ This web page serves as the main source of announcements and resources for the c
   - Remote: Discord #livestream channel 11:00am-12:50pm. Recordings available after via Podcasts.
 - Labs: 
   - In person: [Computer Science Engineering Basement B260](https://map.concept3d.com/?id=1005#!m/164780) Wednesday (11am or 1pm)
-  - Remote: [Zoomlink TBA]() Wednesday (3pm or 5pm)
+  - Remote: [https://ucsd.zoom.us/j/92177661143](https://ucsd.zoom.us/j/92177661143) Wednesday (3pm or 5pm)
 - PA's/Homework:
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - Under the homework section (autograded)
 - “Skill Demonstration” Exams: Flexible scheduling in weeks 2,3,4 and 5
