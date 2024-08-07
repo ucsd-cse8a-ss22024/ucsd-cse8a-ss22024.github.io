@@ -13,9 +13,7 @@
 
 ## Part 1: Getting to Know Your Peers, Ice Breaker Activity (5 mins)
 
-We will split into groups of 3-4 students. For week 1, you may sit wherever you want and choose who you want to work with. Starting week 2, we will have assigned seating and groups.
-These groups will be somewhat stable throughout the quarter, though some small changes
-will likely happen. You will have a tutor or TA assigned to your group for help.
+We will split into groups of 3-4 students. Choose your groups wisely, as these are your groups for the rest of the quarter! You will have a tutor or TA assigned to your group for help.
 
 In your groups, share:
 - How you'd like people to refer to you (pronounce your name/nickname, pronouns like he/her/they, etc)
