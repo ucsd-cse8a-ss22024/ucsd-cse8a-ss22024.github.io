@@ -19,7 +19,7 @@ In your groups, share:
     - A UCSD student organization you're a member of or interested in
     - Your favorite place you've found on campus so far
     - A useful campus shortcut or trick you know
-- Your answer to the following question. Discuss why you chose that answer. ![Image](../../images/rulers.png)
+- Your answer to the following question. Discuss why you chose that answer. ![Image](../images/rulers.png)
 
 ## Part 2: Setting up a GitHub Account
 
