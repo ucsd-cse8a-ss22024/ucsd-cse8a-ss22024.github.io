@@ -12,6 +12,7 @@
 - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1Owz_s2-uJqBDsKdmVe79SBd_Gd2css8T/view?usp=drive_link)
 - [Thursday Input&Output Colab Notebook](https://colab.research.google.com/drive/1lWpwTPRnrJKsI5RQSpc3_xaUfaaDsJDE?usp=sharing)
 - [Thursday Lecture Handout (PDF)](https://drive.google.com/file/d/1n0G-ytyPKNFYWCjlIh2umhtFSCpni0Fe/view?usp=drivesdk)
+- [Thursday Slides (PDF)](https://drive.google.com/file/d/1oJbZd2ly2_lS7icW0CSByA1Mk5lsPC2x/view?usp=sharing)
 
 ## Part 1: Getting to Know Your Peers, Ice Breaker Activity (5 mins)
 
