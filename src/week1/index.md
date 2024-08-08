@@ -10,6 +10,7 @@
 - [Wednesday Prints&BasicArithmetic2 Colab Notebook](https://colab.research.google.com/drive/10GnujOhq7tfF3EAiAdWL35xrVPlRN1vy?usp=sharing)
 - [Wednesday Swapping&MoonWeight Colab Notebook](https://colab.research.google.com/drive/1qopr8ne6a0t8MjizELZS8EUEZvKX94WL?usp=sharing)
 - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1Owz_s2-uJqBDsKdmVe79SBd_Gd2css8T/view?usp=drive_link)
+- [Thursday Input&Output Colab Notebook](https://colab.research.google.com/drive/1lWpwTPRnrJKsI5RQSpc3_xaUfaaDsJDE?usp=sharing)
 
 ## Part 1: Getting to Know Your Peers, Ice Breaker Activity (5 mins)
 
