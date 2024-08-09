@@ -64,7 +64,8 @@ There are several components to the course:
 - **Weekly Homework**
 - **Weekly Lab sessions**
 - **Lab reports**
-- **Proctored Computerized exams**
+- **Skill Demonstrations**
+- **Project**
 
 ### Labs
 
@@ -74,7 +75,8 @@ about your approach, lessons learned, programming problems, and so on.
 
 The lab sessions and groups will be led by TAs and tutors, who will note your
 participation in these discussions for credit. Note that you must
-**participate**, not merely **attend**, for credit.
+**participate**, not merely **attend**, for participation credit. Furthermore, if you do not finish all PrairieLearn tasks by the end of lab, you will have until the day to complete those tasks for lab credit. PrairieLearn tasks and participation both equally contribute to your lab grade.
+
 
 If you miss lab, you'll still be held accountable for understanding the
 relevant material via Skill Demonstrations and Lab Reports. You can miss 1 labs
@@ -90,9 +92,9 @@ unavoidable reasons.
 
 Lecture sessions are on Monday through Thursday.
 
-**For Remote students**: Livestream will be available @9:30am for lectures and 11am for discussions via discord
+**For Remote students**: Livestream will be available Monday-Thursday @9:30am for lectures and Monday 11am for discussions via Discord.
 
-In each lecture, we'll have a paper handout (also available electronically) starting Week 1 Tueday. At
+In each lecture, we'll have a paper handout (also available electronically) starting Week 1 Tuesday. At
 the end of lecture you'll have a chance submit your handout to Gradescope. You
 can do this by scanning it in the Gradescope app (for iOS and Android) or
 through the web interface. To get participation credit for lecture, you have to
@@ -107,9 +109,15 @@ We'll have TAs on hand as backup to collect the physical paper/help you scan and
 submit if you have any issue submitting. See [Grading](#grading) below for the
 required submissions and how that impacts your grade.
 
+### Discussion
+
+Discussions will take place on Mondays at 11am and are led by your teaching assistants.
+The purpose of discussions is to review materials covered in lecture, labs, homework, and previous skill demos. There will also be extra coding exercises covered as well. This is the time for you to ask the teaching staff to clarify any questions you may have about the material.
+Starting from week 2, participation in discussions is mandatory and contibutes towards your Discussion and Lecture Participation grade.
+
 ### Weekly Quizzes
 
-Each week there will be an online quiz on prairielearn. The purpose of this quiz is to make sure everyone has checked in on the concepts we will be using in lab on Wednesday and Thursday. They are open for late submission until the end of the quarter, but
+Each week there will be an online quiz on PrairieLearn. The purpose of this quiz is to make sure everyone has checked in on the concepts we will be using in lab on Wednesday and Thursday. They are open for late submission until the end of the quarter, but
 see grading below for how late submissions correspond to grades.
 
 Sometimes quizzes have associated readings or videos to supplement lecture.
@@ -186,12 +194,12 @@ The weighted breakdown of each category is as follows:
 
 | Category | Percentage |
 | --- | --- |
-Participation | 5%
+Discussion and Lecture Participation | 5%
 Quizzes | 15%
 Homeworks | 10%
 Project | 15%
 Skill Demos | 40%
-Closed Lab | 15%
+Lab | 15%
 
 ## Policy
 
