@@ -208,15 +208,10 @@ Lab | 15%
 Individual assignments describe policies specific to the assignment. Some
 general policies for the course are here.
 
-### Lab Reports and Academic Integrity
+### Artificial Intelligence
 
-You can use code that we provide or that your group develops in lab as part of
-your lab report. Your lab reports can be public. All of the *writing* in lab
-reports must be your own.
-
-You **can** use an AI assistant like ChatGPT or Copilot to help you author lab
-reports or write code in this class. If you do, you are **required** to include
-a section of your lab report that shows:
+You **can** use an AI assistant like ChatGPT or Copilot to help you write code in this class. If you do, you are **required** to include
+a section that shows:
 
 - The prompts you gave to ChatGPT, or the context in which you used Copilot
   autocomplete
