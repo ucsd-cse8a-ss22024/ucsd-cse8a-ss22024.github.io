@@ -21,7 +21,7 @@ This web page serves as the main source of announcements and resources for the c
   - In person: [Pepper Canyon Hall 122](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246320?s/PCYNH_Main?mc/32.8794361313778,-117.23379499999999?z/18?lvl/0?share), Mon-Thurs (9:30am-10:50am)
   - Remote: Discord #livestream channel 9:30am-10:50am. Recordings available after via Podcasts.
 - Discussion:
-  - In person: [Pepper Canyon Hall 122](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246320?s/PCYNH_Main?mc/32.8794361313778,-117.23379499999999?z/18?lvl/0?share), Mon-Thurs (9:30am-10:50am)
+  - In person: Pepper Canyon Hall 109, Mon (11:00am - 12:50pm)
   - Remote: Discord #livestream channel 11:00am-12:50pm. Recordings available after via Podcasts.
 - Labs: 
   - In person: [Computer Science Engineering Basement B260](https://map.concept3d.com/?id=1005#!m/164780) Wednesday (11am or 1pm)
