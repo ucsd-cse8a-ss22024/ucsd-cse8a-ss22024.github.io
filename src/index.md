@@ -67,6 +67,10 @@ There are several components to the course:
 - **Skill Demonstrations**
 - **Project**
 
+### Homework
+
+Homework is released on a platform called PrairieLearn, and will generally consist of programming exercises and multiple choice questions. They are due the Sunday after they are released.
+
 ### Labs
 
 The course's lab component meets for 2 hours. In each lab you'll switch between
