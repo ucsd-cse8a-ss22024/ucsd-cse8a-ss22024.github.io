@@ -296,17 +296,6 @@ You can submit it late until the end of the quarter. Generally we allow lots
 (think like 1/3 to 1/2) of the quizzes to be late without it impacting your
 grade, but do take them seriously before lab so you're prepared.
 
-**I missed a lab report deadline, what should I do?**
-
-One week after each lab report deadline there is a late/resubmission deadline.
-You can resubmit then. See the lab report section above for grading details
-about resubmissions. Note there will be no resubmission for the last lab report.
-
-**I missed a lab report resubmission deadline, what should I do?**
-
-You cannot get an extension on lab report resubmissions; we cannot support
-multiple late deadlines and still grade all the coursework on time.
-
 **I missed my skill demonstration time, what should I do?**
 
 You will need to use your 1 make-up. No other make-ups are allowed.
