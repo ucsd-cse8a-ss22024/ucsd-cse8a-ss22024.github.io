@@ -13,7 +13,7 @@
 - [Logic, Inputs and if statement Intro Colab Notebook](https://drive.google.com/file/d/1c_rw6qB3ukP9Xt5jrfZPZeS_o8JAOHg8/view?usp=sharing)
 - [Loops, Lists and Files Colab Notebook](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
   
-
+<!--
 ## Lecture-Length Videos
 
 This video about URLs supplements Monday's lecture and helps get set up
@@ -342,6 +342,7 @@ your group's Google Doc). Take a screenshot of ***your*** computer loading a web
 ***their*** server, which should show the current number (though not their name!). Was their web server running on the same `ieng6` machine as yours? The same port?
 <!-- Joe's answer: It’s stored on the heap as a field in a NumberServer object in the a Java process owned by "user" running on ieng6-201. -->
 
+<!--
 **Write down in notes** – If you have multiple browsers on different computers
 all incrementing the number on one web server, do they all see one anothers'
 increments? As accurately as possible, describe where the number is stored.
