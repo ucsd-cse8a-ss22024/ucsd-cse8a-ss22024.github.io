@@ -5,7 +5,7 @@
 - [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1Cxv0NYDKe0WvaRWLwYt81NyDVcLLO8VM?usp=sharing)
 - [Monday's Lecture Handout (PDF)](https://drive.google.com/file/d/1iLGYFwUKMo6kiTpCgqonVQAjFUANoPH5/view?usp=sharing)
 - [Monday's Slides (PDF)](https://drive.google.com/file/d/1CtXCkbWCKWTZJcQXZecxe44LxJ2GIK8X/view?usp=sharing)
-- Week 2 Colab Notebook:
+## Colab Notebooks:
 - [Functions & Scoping Colab Notebook](https://drive.google.com/file/d/16IB591B4PGEpLCFBeezUULajUSBOgU4N/view?usp=sharing)
 - [Basic Topic Overview Colab Notebook](https://drive.google.com/file/d/1T9VP3R1jwymzZwujiCuEgzFXfnA1t2fx/view?usp=sharing)
 - [Advanced Conditionals Colab Notebook](https://drive.google.com/file/d/1M-Kv_cTfTq4VS7f7n8dYckIXdoDkYd1B/view?usp=sharing)
