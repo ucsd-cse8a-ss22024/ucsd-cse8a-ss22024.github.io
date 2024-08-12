@@ -9,9 +9,9 @@
 - [Functions & Scoping Colab Notebook](https://drive.google.com/file/d/16IB591B4PGEpLCFBeezUULajUSBOgU4N/view?usp=sharing)
 - [Basic Topic Overview Colab Notebook](https://drive.google.com/file/d/1T9VP3R1jwymzZwujiCuEgzFXfnA1t2fx/view?usp=sharing)
 - [Advanced Conditionals Colab Notebook](https://drive.google.com/file/d/1M-Kv_cTfTq4VS7f7n8dYckIXdoDkYd1B/view?usp=sharing)
-- [If Statements](https://drive.google.com/file/d/1hAhod8FIIhpDiIW3KyIFLc24rxsPaBXX/view?usp=sharing)
-- [Logic, Inputs and if statement Intro](https://drive.google.com/file/d/1c_rw6qB3ukP9Xt5jrfZPZeS_o8JAOHg8/view?usp=sharing)
-- [Loops, Lists and Files](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
+- [If Statements Colab Notebook](https://drive.google.com/file/d/1hAhod8FIIhpDiIW3KyIFLc24rxsPaBXX/view?usp=sharing)
+- [Logic, Inputs and if statement Intro Colab Notebook](https://drive.google.com/file/d/1c_rw6qB3ukP9Xt5jrfZPZeS_o8JAOHg8/view?usp=sharing)
+- [Loops, Lists and Files Colab Notebook](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
   
 
 ## Lecture-Length Videos
