@@ -2,7 +2,8 @@
 
 ## Lecture Materials
 
-- [Monday Discussion Colab Notebook](https://colab.research.google.com/drive/1Cxv0NYDKe0WvaRWLwYt81NyDVcLLO8VM?usp=sharing)
+- [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1Cxv0NYDKe0WvaRWLwYt81NyDVcLLO8VM?usp=sharing)
+- [Monday's Functions Colab Notebook](https://drive.google.com/file/d/16IB591B4PGEpLCFBeezUULajUSBOgU4N/view?usp=sharing)
 
 ## Lecture-Length Videos
 
