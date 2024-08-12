@@ -1,4 +1,4 @@
-# Week 2 – URLs and Servers
+# Week 2 – Functions, Lists, Strings and Control Statements (If else & loops)
 
 ## Lecture Materials
 
