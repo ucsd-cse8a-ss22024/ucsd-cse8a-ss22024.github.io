@@ -18,11 +18,11 @@ This web page serves as the main source of announcements and resources for the c
 ## Basics
 
 - Lecture: 
-  - In person: [Pepper Canyon Hall 122](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/246320?s/PCYNH_Main?mc/32.8794361313778,-117.23379499999999?z/18?lvl/0?share), Mon-Thurs (9:30am-10:50am)
-  - Remote: Discord #livestream channel 9:30am-10:50am. Recordings available after via Podcasts.
+  - In person: [Franklin Antonio Hall 1011](https://map.concept3d.com/?id=1005#!m/610083), Mon-Thurs (9:30am-10:50am)
+  - Remote: Discord #livestream channel 11:00am-12:50pm. Recordings from A section available after via [Podcasts](https://podcast.ucsd.edu/watch/s224/cse8a_a00).
 - Discussion:
   - In person: Pepper Canyon Hall 109, Mon (11:00am - 12:50pm)
-  - Remote: Discord #livestream channel 11:00am-12:50pm. Recordings available after via Podcasts.
+  - Remote: Discord #livestream channel 11:00am-12:50pm. Recordings available after via [Podcasts](https://podcast.ucsd.edu/watch/s224/cse8a_a01).
 - Labs: 
   - In person: [Computer Science Engineering Basement B260](https://map.concept3d.com/?id=1005#!m/164780) Wednesday (11am or 1pm)
   - Remote: [https://ucsd.zoom.us/j/92177661143](https://ucsd.zoom.us/j/92177661143) Wednesday (3pm or 5pm)
@@ -33,7 +33,7 @@ This web page serves as the main source of announcements and resources for the c
   - In person: Register TTC slots via Prairietest link above
   - Remote: Register via Remote zoom slots via Prairietest link above
   
-- Final Exam (used for making up test credit): Flexible scheduling throughout the quarter. Maximum of 1 Make up for Skill Demos.
+- Final Exam (used for making up test credit): Flexible scheduling on week 5. Maximum of 1 Make up for Skill Demos.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: Discord link on Canvas!
@@ -126,32 +126,7 @@ see grading below for how late submissions correspond to grades.
 
 Sometimes quizzes have associated readings or videos to supplement lecture.
 
-<!--
-Each week there will be an online, untimed, multiple-tries quiz due on
-_Wednesday at 9 am_. 
-
-### Lab Reports/Portfolio Posts
-
-Every other Wednesday (that's in weeks 2, 4, 6, 8, 10) you will submit a lab report on
-work from the previous week or two of lab material. This will take the form of
-a blog post on a personal site you created in the first week.  At the end of
-the quarter this means you'll have a personal web site with 5 posts detailing
-what you learned.
-
-For each post, our staff will review it and give a **0-3** score along with feedback:
-
-- **3** for a complete submission of professional quality that covers all the expectations listed in the report
-- **2** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting
-- **1** for a submission missing key components, or clear inaccuracies in multiple components
-- **0** for no submission, a blank submission, or a submission of something irrelevant
-
-After each lab report is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. The resubmission deadline is two weeks after the original deadline.
-
-- For an original score of **0** or **1**, you can raise your score to **2** (but not to **3**)
-- For an original score of **2**, you can raise your score to **3**
-
-This is also the only late policy for lab reports. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission.
--->
+Each week there will be an online, untimed, multiple-tries quiz due on _Wednesday at 9 am_. 
 
 ### Skill Demonstrations
 
@@ -171,6 +146,9 @@ scheduling them).
 Skill demonstrations will take place in CSE B250, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation. Scheduling of exams will open on every Friday starting week 1.
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.   
+
+### Project
+Details to be announced later in the quarter.
 
 ## Grading
 
@@ -299,13 +277,10 @@ grade, but do take them seriously before lab so you're prepared.
 **I missed my skill demonstration time, what should I do?**
 
 You will need to use your 1 make-up. No other make-ups are allowed.
-Scheduling: Stay tuned for announcements about scheduling make-ups in finals week.
+Scheduling: Make-ups will be available in week 5.
 
 **Where is the financial aid survey?**
 
 We do this for you; as long as you submit a quiz, lecture handout, or do a lab
 participation in the first week, we will mark you as commencing academic
 activity.
-
-
-
