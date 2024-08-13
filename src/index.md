@@ -22,7 +22,7 @@ This web page serves as the main source of announcements and resources for the c
   - Remote: Discord #livestream channel 11:00am-12:50pm. Recordings from A section available after via [Podcasts](https://podcast.ucsd.edu/watch/s224/cse8a_a00).
 - Discussion:
   - In person: TBA, Mon (11:00am - 12:50pm)
-  - Remote: Discord #livestream channel Tuesdays @ 9:00am-10:50am. Recordings available from A sections via [Podcasts](https://podcast.ucsd.edu/watch/s224/cse8a_a01).
+  - Remote: [https://ucsd.zoom.us/j/95551174510](https://ucsd.zoom.us/j/95551174510) Tuesdays @ 9:00am-10:50am. Recordings available from A sections via [Podcasts](https://podcast.ucsd.edu/watch/s224/cse8a_a01).
 - Labs: 
   - In person: [Computer Science Engineering Basement B260](https://map.concept3d.com/?id=1005#!m/164780) Wednesday (11am or 1pm)
   - Remote: [https://ucsd.zoom.us/j/92177661143](https://ucsd.zoom.us/j/92177661143) Wednesday (3pm or 5pm)
