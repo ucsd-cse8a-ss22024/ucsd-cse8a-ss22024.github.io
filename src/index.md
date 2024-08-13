@@ -96,7 +96,9 @@ unavoidable reasons.
 
 Lecture sessions are on Monday through Thursday.
 
-**For Remote students**: Livestream will be available Monday-Thursday @9:30am for lectures and Monday 11am for discussions via Discord.
+**For In-Person students**: Lecture will take place Mondays-Thursdays at 9:30am at Franklin Antonio Hall 1101. Discussions are at 11am on Mondays at Franklin Antonio Hall 1450.
+
+**For Remote students**: Livestream will be available Monday-Thursday at 11:00am for lectures. Discussions are on Zoom on Tuesdays at 9am.
 
 In each lecture, we'll have a paper handout (also available electronically) starting Week 1 Tuesday. At
 the end of lecture you'll have a chance submit your handout to Gradescope. You
