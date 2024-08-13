@@ -13,7 +13,12 @@
 - [If Statements Colab Notebook](https://drive.google.com/file/d/1hAhod8FIIhpDiIW3KyIFLc24rxsPaBXX/view?usp=sharing)
 - [Logic, Inputs and if statement Intro Colab Notebook](https://drive.google.com/file/d/1c_rw6qB3ukP9Xt5jrfZPZeS_o8JAOHg8/view?usp=sharing)
 - [Loops, Lists and Files Colab Notebook](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
-  
+
+
+## Lab Tasks
+
+Navigate to [PrairieLearn](https://www.prairielearn.com/) and begin the Lab 2 tasks with your group!
+
 <!--
 ## Lecture-Length Videos
 
