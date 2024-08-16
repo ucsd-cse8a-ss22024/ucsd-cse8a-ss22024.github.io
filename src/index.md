@@ -132,20 +132,14 @@ Each week there will be an online, untimed, multiple-tries quiz due on _Wednesda
 
 ### Skill Demonstrations
 
-Several times during the quarter, you will complete a _skill demonstrations_ via PrairieTest
--- this course's version of exams. You'll be given a problem to practice in
-advance, and then in the demo you'll demonstrate that you can do the task plus some follow-up tasks that are presented during the demonstration.
-You can look at the skill demonstrations
-from previous offerings for a sense of what tasks we assign (though we may or
-may not use the same types in this offering)
+Several times during the quarter, you will complete a _skill demonstration_ via PrairieTest -- this course's version of exams. While skill demos are not explicitly cumulative, topics in programming do build on previous ones, so it is important to remember concepts from earlier in the class.
 
 During week 5, you'll have the opportunity to improve scores for one skill demonstrations. Sign ups for these make up skill demos will be released during week 4. If you miss the skill demonstration for any reason, it counts as a Try Again.
 
 There will be skill demonstrations in weeks 2, 3, 4, and 5 of the quarter. More details
-about how you'll complete them will be shared in lab (you'll practice the format and we'll talk about
-scheduling them).
+about how you'll complete them will be shared in lab.
 
-Skill demonstrations will take place in CSE B250, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation. Scheduling of exams will open on every Friday starting week 1.
+Skill demonstrations will take place in CSE B250 for Section A (In person section) and on Zoom for Section B (Remote section), **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation. Scheduling of exams will open on every Friday starting week 1.
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.   
 
