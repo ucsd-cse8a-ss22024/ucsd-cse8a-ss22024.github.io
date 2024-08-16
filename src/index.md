@@ -134,7 +134,10 @@ Each week there will be an online, untimed, multiple-tries quiz due on _Wednesda
 
 Several times during the quarter, you will complete a _skill demonstration_ via PrairieTest -- this course's version of exams. While skill demos are not explicitly cumulative, topics in programming do build on previous ones, so it is important to remember concepts from earlier in the class.
 
-During week 5, you'll have the opportunity to improve scores for one skill demonstrations. Sign ups for these make up skill demos will be released during week 4. If you miss the skill demonstration for any reason, it counts as a Try Again.
+**Rules:**
+- During your skill demo, you cannot ask any questions related to the content of the exam. However, you may ask questions related to getting set up on your lab computer and opening the exam.
+During the exam, you are not allowed any resources besides the notes sheet. Communication with other students is also not allowed.
+- During week 5, you'll have the opportunity to improve scores for one skill demonstrations. Sign ups for these make up skill demos will be released during week 4. If you miss the skill demonstration for any reason, it counts as a Try Again.
 
 There will be skill demonstrations in weeks 2, 3, 4, and 5 of the quarter. More details
 about how you'll complete them will be shared in lab.
