@@ -26,4 +26,4 @@
 
 ## Lab Tasks
 
-Navigate to [PrairieLearn](https://www.prairielearn.com/) and begin the Lab 2 tasks with your group!
+Navigate to [PrairieLearn](https://www.prairielearn.com/) and begin the Lab 3 tasks with your group!
