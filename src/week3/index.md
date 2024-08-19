@@ -4,8 +4,7 @@
 - HW 3 [us.prairielearn.com](http://us.prairielearn.com/)
 ## Lecture Materials
 
-- [Monday's Discussion Colab Notebook]()
-- [Monday's Discussion Slides (PDF)]()
+- [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1QRIZKZ0sgrAxeg1sw0yLg_xUSXNoRPS7?usp=sharing)
 - [Monday's Lecture Handout (PDF)](https://drive.google.com/file/d/111wLhpjVOkWJUP_InWykHn5kKawKWSgZ/view?usp=sharing)
 - [Monday's Slides (PDF)](https://drive.google.com/file/d/1_CPi35sSY2IQ8AhPmgI_SnTnnLudzUFw/view?usp=drive_link)
 - [Wednesday's Lecture Handout (PDF)]()
@@ -18,6 +17,7 @@
 - [Loops, nested if else, and advanced topics](https://drive.google.com/file/d/1RJpgWxk4NMCV3TODBaoXQ5bTNpqPEKsK/view?usp=sharing)
 - [Files and Lists](https://drive.google.com/file/d/1UztgQd3l5XxFp-Xyt0AwA2F9bhIFCAw7/view?usp=sharing)
 <!--
+- [Monday's Discussion Slides (PDF)]()
 - []()
 - []()
 - []()
