@@ -1,5 +1,7 @@
 # Week 3 – Advanced Control Statements, Files, Sets and Dictionaries
-
+## Todo
+- Quiz 2 [us.prairielearn.com](http://us.prairielearn.com/)
+- HW 3 [us.prairielearn.com](http://us.prairielearn.com/)
 ## Lecture Materials
 
 - [Monday's Discussion Colab Notebook]()
