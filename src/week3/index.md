@@ -14,14 +14,15 @@
 - [Thursday's Slides]()
 
 ## Colab Notebooks:
-- TBA
+- [Loops, Lists and Files Colab Notebook](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
+- [Loops, nested if else, and advanced topics](https://drive.google.com/file/d/1RJpgWxk4NMCV3TODBaoXQ5bTNpqPEKsK/view?usp=sharing)
+- [Files and Lists](https://drive.google.com/file/d/1UztgQd3l5XxFp-Xyt0AwA2F9bhIFCAw7/view?usp=sharing)
 <!--
-- [Functions & Scoping Colab Notebook](https://drive.google.com/file/d/16IB591B4PGEpLCFBeezUULajUSBOgU4N/view?usp=sharing)
 - [Basic Topic Overview Colab Notebook](https://drive.google.com/file/d/1T9VP3R1jwymzZwujiCuEgzFXfnA1t2fx/view?usp=sharing)
 - [Advanced Conditionals Colab Notebook](https://drive.google.com/file/d/1M-Kv_cTfTq4VS7f7n8dYckIXdoDkYd1B/view?usp=sharing)
 - [If Statements Colab Notebook](https://drive.google.com/file/d/1hAhod8FIIhpDiIW3KyIFLc24rxsPaBXX/view?usp=sharing)
 - [Logic, Inputs and if statement Intro Colab Notebook](https://drive.google.com/file/d/1c_rw6qB3ukP9Xt5jrfZPZeS_o8JAOHg8/view?usp=sharing)
-- [Loops, Lists and Files Colab Notebook](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
+
 -->
 
 ## Lab Tasks
