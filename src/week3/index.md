@@ -7,6 +7,8 @@
 - [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1QRIZKZ0sgrAxeg1sw0yLg_xUSXNoRPS7?usp=sharing)
 - [Monday's Lecture Handout (PDF)](https://drive.google.com/file/d/111wLhpjVOkWJUP_InWykHn5kKawKWSgZ/view?usp=sharing)
 - [Monday's Slides (PDF)](https://drive.google.com/file/d/1_CPi35sSY2IQ8AhPmgI_SnTnnLudzUFw/view?usp=drive_link)
+- [Tuesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1DpWgvugLzdt3c7a7AF3OanZGhzpofmvI/view?usp=sharing)
+- [Tuesday's Slides (PDF)](https://drive.google.com/file/d/1_l9ethYmymYHbFYNB5bilnuzCI7Ur7hY/view?usp=sharing)
 - [Wednesday's Lecture Handout (PDF)]()
 - [Wednesdays's Slides (PDF)]()
 - [Thursday's Lecture Handout (PDF)]()
