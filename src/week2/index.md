@@ -1,15 +1,17 @@
 # Week 2 – Functions, Lists, Strings and Control Statements (If else & loops)
 
 ## Lecture Materials
-
-- [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1Cxv0NYDKe0WvaRWLwYt81NyDVcLLO8VM?usp=sharing)
-- [Monday's Discussion Slides (PDF)](https://drive.google.com/file/d/1D2ahdMPY_wNIkv35ep6pY4_NruACWx8h/view?usp=sharing)
 - [Monday's Lecture Handout (PDF)](https://drive.google.com/file/d/1iLGYFwUKMo6kiTpCgqonVQAjFUANoPH5/view?usp=sharing)
 - [Monday's Slides (PDF)](https://drive.google.com/file/d/1CtXCkbWCKWTZJcQXZecxe44LxJ2GIK8X/view?usp=sharing)
 - [Wednesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1slL1rphjYQ1Ol7y_EOcFtgXT97C607EX/view?usp=sharing)
 - [Wednesdays's Slides (PDF)](https://drive.google.com/file/d/1Y2h6MBl9bGe3G2Sqn0dHmZJOJiEansgV/view?usp=sharing)
 - [Thursday's Lecture Handout (PDF)](https://drive.google.com/file/d/1HioY3rkoALw-pvZ1ae4Il_BgyoZ6-7GX/view?usp=sharing)
 - [Thursday's Slides](https://drive.google.com/file/d/1oakpwEoa7RlK2hgRU2IH9GMdLmcGlCSP/view?usp=sharing)
+
+## Discussion Materials
+- [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1Cxv0NYDKe0WvaRWLwYt81NyDVcLLO8VM?usp=sharing)
+- [Monday's Discussion Slides (PDF)](https://drive.google.com/file/d/1D2ahdMPY_wNIkv35ep6pY4_NruACWx8h/view?usp=sharing)
+- [Monday's Discussion Colab Notebook - Solutions](https://drive.google.com/file/d/1M8HSz-R06Waie5S_DlWpOifvKogWw9dH/view?usp=sharing)
 
 ## Colab Notebooks:
 - [Functions & Scoping Colab Notebook](https://drive.google.com/file/d/16IB591B4PGEpLCFBeezUULajUSBOgU4N/view?usp=sharing)
