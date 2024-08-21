@@ -9,8 +9,8 @@
 - [Monday's Slides (PDF)](https://drive.google.com/file/d/1_CPi35sSY2IQ8AhPmgI_SnTnnLudzUFw/view?usp=drive_link)
 - [Tuesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1DpWgvugLzdt3c7a7AF3OanZGhzpofmvI/view?usp=sharing)
 - [Tuesday's Slides (PDF)](https://drive.google.com/file/d/1_l9ethYmymYHbFYNB5bilnuzCI7Ur7hY/view?usp=sharing)
-- [Wednesday's Lecture Handout (PDF)]()
-- [Wednesdays's Slides (PDF)]()
+- [Wednesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1Q0cbAj78c9XKZsgGfz22goQuxkEBK-_k/view?usp=sharing)
+- [Wednesdays's Slides (PDF)](https://drive.google.com/file/d/12ym1cuqPi5QgeoRTe7z4bTUh-TDe3LIj/view?usp=sharing)
 - [Thursday's Lecture Handout (PDF)]()
 - [Thursday's Slides]()
 
