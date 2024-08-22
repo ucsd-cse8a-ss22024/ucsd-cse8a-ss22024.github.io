@@ -205,10 +205,6 @@ Instructions for skill demonstrations will be posted in the week before they hap
 You're free to collaborate with others on preparing for
 the skill demonstration, trying things out beforehand, and so on.
 
-We will be enforcing having your video camera on during the skill demo. If your laptop does not have a working camera, then please also join the Zoom meeting using your phone in addition to your laptop.
-We will require you to show all your windows on your laptop, your sheet of notes, and your environment and background before being checked-in.
-**Failure to comply will result in a no-show, and the student will not be checked-in and not be allowed to take the skill demo.**
-
 **As a reminder, you are ONLY allowed the following resources during the skill demo:**
 - One sheet of notes (printed or handwritten).
 - Python docs, which are provided as a link within PrairieLearn.
@@ -225,6 +221,11 @@ If you use **ANY** unauthorized resource, you will receive a 0 on your assessmen
 
 You **cannot** share details of _your_ skill demonstration with others until
 after you receive your grade for it. You **cannot** communicate with anyone during the skill demonstration.
+
+**For remote students**:
+- We will be enforcing having your video camera on during the skill demo. If your laptop does not have a working camera, then please also join the Zoom meeting using your phone in addition to your laptop.
+- We will require you to show all your windows on your laptop, your sheet of notes, and your environment and background before being checked-in.
+- **Failure to comply will result in a no-show, and the student will not be checked-in and not be allowed to take the skill demo.**
 
 ### Quizzes and Academic Integrity
 
