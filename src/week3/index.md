@@ -15,9 +15,11 @@
 
 
 ## Colab Notebooks:
-- [Loops, Lists and Files Colab Notebook](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
+- [Loops, Lists and Files](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
 - [Loops, nested if else, and advanced topics](https://drive.google.com/file/d/1RJpgWxk4NMCV3TODBaoXQ5bTNpqPEKsK/view?usp=sharing)
 - [Files and Lists](https://drive.google.com/file/d/1UztgQd3l5XxFp-Xyt0AwA2F9bhIFCAw7/view?usp=sharing)
+- [More Dictionaries](https://drive.google.com/file/d/1h8Db0jfXui_MKp8zN17bSifKFAtB0o2J/view?usp=sharing)
+- [Lecture, Sets, & Dictionaries](https://drive.google.com/file/d/1fDePtxclTU2Ug4M-Xxf5LIPJ6g84MdCv/view?usp=sharing)
 <!--
 - [Monday's Discussion Slides (PDF)]()
 - []()
