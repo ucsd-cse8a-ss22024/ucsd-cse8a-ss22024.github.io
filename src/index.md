@@ -11,8 +11,6 @@
 [Grading](#grading) -
 [Policies](#policy)
 
-In this course, we'll explore a number of **Software Tools & Techniques** that are used commonly by developers in their day-to-day work. You'll learn how to manage files and programs from the command line, and you'll get direct practice (and build muscle memory!) with keyboard shortcuts, tricks, and techniques for managing data and programs. Throughout, you'll exercise and improve your skills in program understanding and debugging.
-
 This web page serves as the main source of announcements and resources for the course, as well as the syllabus.
 
 ## Basics
