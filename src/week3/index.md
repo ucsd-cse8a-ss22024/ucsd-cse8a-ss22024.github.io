@@ -11,8 +11,8 @@
 - [Tuesday's Slides (PDF)](https://drive.google.com/file/d/1_l9ethYmymYHbFYNB5bilnuzCI7Ur7hY/view?usp=sharing)
 - [Wednesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1Q0cbAj78c9XKZsgGfz22goQuxkEBK-_k/view?usp=sharing)
 - [Wednesdays's Slides (PDF)](https://drive.google.com/file/d/12ym1cuqPi5QgeoRTe7z4bTUh-TDe3LIj/view?usp=sharing)
-- [Thursday's Lecture Handout (PDF)]()
-- [Thursday's Slides]()
+- [Thursday's Lecture Handout (PDF)](https://drive.google.com/file/d/1yQtYlemduQpADRJzwg0qbJApnonlqsFx/view?usp=sharing)
+
 
 ## Colab Notebooks:
 - [Loops, Lists and Files Colab Notebook](https://drive.google.com/file/d/1MTlX16ObvqysVVSvIHQTlhS37v2BlYPM/view?usp=sharing)
