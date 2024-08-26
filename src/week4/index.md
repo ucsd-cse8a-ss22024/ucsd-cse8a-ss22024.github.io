@@ -8,7 +8,7 @@
 - [Tuesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1VHinYgXnGhuEqgk5h3NvfBIuxFhOIwuK/view?usp=drive_link)
 
 ## Discussion Materials
-- [Monday's Discussion Slides](https://docs.google.com/presentation/d/1NDBPgij3Aku5Zpqi37Rm_70Vsou9n8TAkhUjmzJjHhY/edit?usp=sharing)
+- [Monday's Discussion Slides]([https://docs.google.com/presentation/d/1NDBPgij3Aku5Zpqi37Rm_70Vsou9n8TAkhUjmzJjHhY/edit?usp=sharing](https://drive.google.com/file/d/1dhSda7L1zMjGRBuF10vR8e1VGxvjZtHZ/view?usp=sharing))
 - [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1gYeh8WE1Tg_dBeEUN_O5SBxYB3dl3wrB?usp=sharing)
 
 ## Colab Notebooks:
