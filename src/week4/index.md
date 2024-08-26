@@ -1,4 +1,4 @@
-# Week 4 – File I/O
+# Week 4 – File I/O, Dictionaries, and Tuples
 ## Todo
 - Quiz 3 [us.prairielearn.com](http://us.prairielearn.com/)
 - HW 4 [us.prairielearn.com](http://us.prairielearn.com/)
