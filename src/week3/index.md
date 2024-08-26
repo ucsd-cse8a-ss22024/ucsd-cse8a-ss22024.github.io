@@ -2,10 +2,8 @@
 ## Todo
 - Quiz 2 [us.prairielearn.com](http://us.prairielearn.com/)
 - HW 3 [us.prairielearn.com](http://us.prairielearn.com/)
-## Lecture Materials
 
-- [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1QRIZKZ0sgrAxeg1sw0yLg_xUSXNoRPS7?usp=sharing)
-- [Monday's Discussion Colab Notebook Answer Key](https://colab.research.google.com/drive/1TLeum4zQ4liVk8ZXqncrfTcXmEbQxYve?usp=sharing)
+## Lecture Materials
 - [Monday's Lecture Handout (PDF)](https://drive.google.com/file/d/111wLhpjVOkWJUP_InWykHn5kKawKWSgZ/view?usp=sharing)
 - [Monday's Slides (PDF)](https://drive.google.com/file/d/1_CPi35sSY2IQ8AhPmgI_SnTnnLudzUFw/view?usp=drive_link)
 - [Tuesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1DpWgvugLzdt3c7a7AF3OanZGhzpofmvI/view?usp=sharing)
@@ -13,6 +11,10 @@
 - [Wednesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1Q0cbAj78c9XKZsgGfz22goQuxkEBK-_k/view?usp=sharing)
 - [Wednesdays's Slides (PDF)](https://drive.google.com/file/d/12ym1cuqPi5QgeoRTe7z4bTUh-TDe3LIj/view?usp=sharing)
 - [Thursday's Lecture Handout (PDF)](https://drive.google.com/file/d/1yQtYlemduQpADRJzwg0qbJApnonlqsFx/view?usp=sharing)
+
+## Discussion Materials
+- [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1QRIZKZ0sgrAxeg1sw0yLg_xUSXNoRPS7?usp=sharing)
+- [Monday's Discussion Colab Notebook Answer Key](https://colab.research.google.com/drive/1TLeum4zQ4liVk8ZXqncrfTcXmEbQxYve?usp=sharing)
 
 
 ## Colab Notebooks:

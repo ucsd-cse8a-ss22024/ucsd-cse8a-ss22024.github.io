@@ -1,12 +1,19 @@
-# Week 4 – Testing and File Manipulation
+# Week 4 – File I/O
+## Todo
+- Quiz 3 [us.prairielearn.com](http://us.prairielearn.com/)
+- HW 4 [us.prairielearn.com](http://us.prairielearn.com/)
 
 ## Lecture Materials
+- [Monday's Lecture Handout (PDF)](https://drive.google.com/file/d/1tbLvc15s-BN-IoOElPF9vOfR5Xa6F00b/view?usp=drive_link)
+- [Tuesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1VHinYgXnGhuEqgk5h3NvfBIuxFhOIwuK/view?usp=drive_link)
 
-- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1LSHz4H-I7H1WFAnEHRlozzFP2VYqVLfo/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1NXIL8fczBH9P0ipu4s8bDEoF1aK8XEZ6/view?usp=share_link)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ReQPttijJ_sJIjg_va65kdUCMzX_S5sd/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1K0shC6nYUf7_WtUmTy03MFvmiD2qVyQ3/view?usp=share_link)
+## Discussion Materials
+- [Monday's Discussion Slides](https://docs.google.com/presentation/d/1NDBPgij3Aku5Zpqi37Rm_70Vsou9n8TAkhUjmzJjHhY/edit?usp=sharing)
+- [Monday's Discussion Colab Notebook](https://colab.research.google.com/drive/1gYeh8WE1Tg_dBeEUN_O5SBxYB3dl3wrB?usp=sharing)
 
+## Colab Notebooks:
+- [More Dictionaries](https://drive.google.com/file/d/1h8Db0jfXui_MKp8zN17bSifKFAtB0o2J/view?usp=sharing)
+<!--
 ### To Read/For Your Reference
 
 - [Bash and Shell Scripting 1](https://missing.csail.mit.edu/2020/course-shell/)
@@ -44,7 +51,7 @@ This makes a copy of the repository in your GitHub account.
 
 Then, clone **the repository that you forked** (not the original!) in Visual Studio Code terminal.
 
-<!--![Screenshot 2024-04-19 at 1 26 04 PM](https://github.com/ucsd-cse15l-s24/ucsd-cse15l-s24.github.io/assets/46422881/ca2fada1-4913-47d4-be24-b511219a9419)-->
+![Screenshot 2024-04-19 at 1 26 04 PM](https://github.com/ucsd-cse15l-s24/ucsd-cse15l-s24.github.io/assets/46422881/ca2fada1-4913-47d4-be24-b511219a9419)
 ```
 git clone [URL to your forked repository]
 ```
@@ -296,3 +303,4 @@ plausible, but tough-to-find, bugs.
 
 Share your favorites with your team and tutor. We'll share a few of the best
 ones in class.
+-->
