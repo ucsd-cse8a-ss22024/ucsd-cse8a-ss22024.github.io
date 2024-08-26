@@ -13,6 +13,9 @@
 
 ## Colab Notebooks:
 - [More Dictionaries](https://drive.google.com/file/d/1h8Db0jfXui_MKp8zN17bSifKFAtB0o2J/view?usp=sharing)
+
+## Lab Tasks
+Navigate to [PrairieLearn](https://www.prairielearn.com/) and begin the Lab 4 tasks with your group!
 <!--
 ### To Read/For Your Reference
 
