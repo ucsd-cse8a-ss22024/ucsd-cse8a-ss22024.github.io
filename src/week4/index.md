@@ -6,6 +6,7 @@
 ## Lecture Materials
 - [Monday's Lecture Handout (PDF)](https://drive.google.com/file/d/1tbLvc15s-BN-IoOElPF9vOfR5Xa6F00b/view?usp=drive_link)
 - [Tuesday's Lecture Handout (PDF)](https://drive.google.com/file/d/1VHinYgXnGhuEqgk5h3NvfBIuxFhOIwuK/view?usp=drive_link)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1lt7F4WeGt9MKQoYfPBG2lgHUIGV7IPNO/view?usp=drive_link)
 
 ## Discussion Materials
 - [Monday's Discussion Slides](https://drive.google.com/file/d/1dhSda7L1zMjGRBuF10vR8e1VGxvjZtHZ/view?usp=sharing)
