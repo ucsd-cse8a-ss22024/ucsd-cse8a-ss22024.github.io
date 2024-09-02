@@ -7,6 +7,10 @@
 - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1kZoZFKM0BGyJtpfCA3x_6ZoFdAkMfPBd/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
 - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1zTMsdfkl4aaNCgQlHaf504L3m4mygZ8U/view?usp=share_link)
 
+## Discussion Materials
+- [Discussion Colab Notebook](https://colab.research.google.com/drive/1JNpyL0S991WQn6xLwdlvh4lVx0l2cGW3?usp=sharing)
+
+
 ## Lab Tasks
 
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
