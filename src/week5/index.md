@@ -12,7 +12,7 @@
 - [Discussion Video](https://youtu.be/G5kwq1N5nfE?si=T6eEGvX20z2Pwkgi)
 
 ## Lab Tasks
-Navigate to [PrairieLearn](https://www.prairielearn.com/) and begin the Lab 4 tasks with your group!
+Navigate to [PrairieLearn](https://www.prairielearn.com/) and begin the Lab 5 tasks with your group!
 <!--
 ## Lab Tasks
 
