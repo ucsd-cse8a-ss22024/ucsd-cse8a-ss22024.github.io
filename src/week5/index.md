@@ -5,7 +5,7 @@
 - Spotify Group Project [Github link](https://github.com/ucsd-cse8a-ss22024/SpotifyGroupProject)
 
 ## Lecture Materials
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/10Zx3GAYVtIywMvjSQ7vgsaJc-kVZLoRj/view?usp=drive_link)
+- [Tuesday Lecture Handout (PDF)](https://drive.google.com/file/d/10Zx3GAYVtIywMvjSQ7vgsaJc-kVZLoRj/view?usp=drive_link)
 
 ## Discussion Materials
 - [Discussion Colab Notebook](https://colab.research.google.com/drive/1JNpyL0S991WQn6xLwdlvh4lVx0l2cGW3?usp=sharing)
