@@ -6,6 +6,6 @@
 - [Week 2 - Functions, Lists, Strings and Control Flow Tools](./week2/index.md)
 - [Week 3 - Advanced Control Flow, Files, Sets and Dictionaries](./week3/index.md)
 - [Week 4 - File I/O, Dictionaries, and Tuples](./week4/index.md)
+- [Week 5 – Object Oriented Programming and Classes](./week5/index.md)
 <!-- Tentative
-- [Week 5 – Object Oriented Programming, and Classes](./week5/index.md)
 -->

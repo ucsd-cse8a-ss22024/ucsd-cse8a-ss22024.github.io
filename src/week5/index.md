@@ -1,16 +1,19 @@
-# Week 5 – File Exploration and Text Analysis from the Command Line
+# Week 5 - Object Oriented Programming and Classes
+## Todo
+- Quiz 4 [us.prairielearn.com](http://us.prairielearn.com/)
+- HW 5 [us.prairielearn.com](http://us.prairielearn.com/)
+- Spotify Group Project [Github link](https://github.com/ucsd-cse8a-ss22024/SpotifyGroupProject)
 
 ## Lecture Materials
-
-- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1M8WTtOy30kY1zUE_wz5LD37fISr8kgxY/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1dyX7sHrPPQo4Ym9d0JmdnLT8HtMedeHz/view?usp=share_link)
-- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1kZoZFKM0BGyJtpfCA3x_6ZoFdAkMfPBd/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
-- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1zTMsdfkl4aaNCgQlHaf504L3m4mygZ8U/view?usp=share_link)
+- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/10Zx3GAYVtIywMvjSQ7vgsaJc-kVZLoRj/view?usp=drive_link)
 
 ## Discussion Materials
 - [Discussion Colab Notebook](https://colab.research.google.com/drive/1JNpyL0S991WQn6xLwdlvh4lVx0l2cGW3?usp=sharing)
+- [Discussion Video](https://youtu.be/G5kwq1N5nfE?si=T6eEGvX20z2Pwkgi)
 
-
+## Lab Tasks
+Navigate to [PrairieLearn](https://www.prairielearn.com/) and begin the Lab 4 tasks with your group!
+<!--
 ## Lab Tasks
 
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
@@ -427,3 +430,4 @@ Along with each option/mode you show, **cite your source** for how you found out
 about it as a URL or a description of where you found it. See the [syllabus](https://ucsd-cse15l-w24.github.io/index.html#lab-reports-and-academic-integrity) on Academic Integrity and how to 
 cite sources like ChatGPT for this class.
 
+-->
