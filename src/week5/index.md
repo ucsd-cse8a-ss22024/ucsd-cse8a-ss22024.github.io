@@ -6,10 +6,11 @@
 
 ## Lecture Materials
 - [Tuesday Lecture Handout (PDF)](https://drive.google.com/file/d/10Zx3GAYVtIywMvjSQ7vgsaJc-kVZLoRj/view?usp=drive_link)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1IpJ6aIJD17R9EDUdedHp2Z3n3-oMRpgC/view?usp=sharing)
 
 ## Discussion Materials
-- [Discussion Colab Notebook](https://colab.research.google.com/drive/1JNpyL0S991WQn6xLwdlvh4lVx0l2cGW3?usp=sharing)
 - [Discussion Video](https://youtu.be/G5kwq1N5nfE?si=T6eEGvX20z2Pwkgi)
+- [Discussion Colab Notebook](https://colab.research.google.com/drive/1JNpyL0S991WQn6xLwdlvh4lVx0l2cGW3?usp=sharing)
 
 ## Lab Tasks
 Navigate to [PrairieLearn](https://www.prairielearn.com/) and begin the Lab 5 tasks with your group!
